@@ -12,7 +12,7 @@ def read_rows(f):
         return [row for row in reader]
 
 
-def get_records(rows):
+def get_dicts(rows):
     records = []
     for i, row in enumerate(rows):
         if i == 0:
@@ -29,13 +29,27 @@ def get_records(rows):
         records.append(record)
         
     return records
-    
-rows = read_rows(f)
 
-sample = rows[:10]
+def get_records(rows):
+    records = []
+    for i, row in enumerate(rows):
+        if i == 0:
+            headers = [to_snake(field) for field in row]
+            headers = dict(zip(headers, range(len(headers))))
+            continue
 
-records = get_records(sample)
+        if all(map(lambda x: len(x)==0, row)):
+            continue
 
+        records.append(row)
+        
+    return records, headers
+
+records, headers = get_records(read_rows(f))
 data = json.dumps(records)
-pp.pprint(json.loads(data))
 
+##with open('eggs.csv', 'wb') as csvfile:
+##    outfile = csv.writer(csvfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+##    outfile.writerow(headers.keys())
+##    for r in records:
+##        outfile.writerow(r)

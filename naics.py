@@ -1,12 +1,16 @@
 from flask import Flask, jsonify
 from flask import render_template, request, Response
 import json, os
+import parser
 
 app = Flask(__name__)
 
 @app.route("/naics/all", methods=['GET'])
 def naics():
-    return Response(json.dumps({"hello":"Austin"}), mimetype="application/json")
+    with open('./data/naics07.json', 'r') as f:
+        data = json.loads(f.read())
+
+    return Response(json.dumps(data), mimetype="application/json")
 
 
 if __name__ == "__main__":
