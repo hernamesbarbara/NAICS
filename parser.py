@@ -4,7 +4,7 @@ import pprint as pp
 def to_snake(s):
     return re.sub('\W', '_', s.lower()).replace('__', '_').strip('_')
 
-f='/Users/austinogilvie/Workspace/Scripts/naics/data/naics07.txt'
+f='./data/naics07.txt'
 
 def read_rows(f):
     with open(f, 'r') as f:
@@ -36,4 +36,6 @@ sample = rows[:10]
 
 records = get_records(sample)
 
+data = json.dumps(records)
+pp.pprint(json.loads(data))
 
