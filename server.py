@@ -9,6 +9,9 @@ app = Flask(__name__)
 def naics():
     return Response(json.dumps(fetch_naics()), mimetype="application/json")
 
+@app.route('/naics/<int:code>', methods=['GET'])
+def find_one(code):
+    return Response(json.dumps(fetch_one(code)), mimetype="application/json")
 
 if __name__ == "__main__":
     port = int(os.environ.get('PORT', 5000))

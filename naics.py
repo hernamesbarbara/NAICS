@@ -31,3 +31,12 @@ def fetch_naics():
     f='./data/naics07.txt'
     naics = get_dicts(read_rows(f))
     return naics
+
+def fetch_one(code):
+    f='./data/naics07.txt'
+    naics = get_dicts(read_rows(f))
+    code_index = dict((n['2007_naics_us_code'], i) for i, n in enumerate(naics))
+    if code_index.get(str(code), -1) != -1:
+        return naics[code_index.get(str(code), -1)]
+    else:
+        return []
