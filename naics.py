@@ -1,18 +1,33 @@
-from flask import Flask, jsonify
-from flask import render_template, request, Response
-import json, os
-import parser
+import csv, re, string, json
+import pprint as pp
 
-app = Flask(__name__)
+def to_snake(s):
+    return re.sub('\W', '_', s.lower()).replace('__', '_').strip('_')
 
-@app.route("/naics/all", methods=['GET'])
-def naics():
-    with open('./data/naics07.json', 'r') as f:
-        data = json.loads(f.read())
+def read_rows(f):
+    with open(f, 'r') as f:
+        reader = csv.reader(f, delimiter='\t')
+        return [row for row in reader]
 
-    return Response(json.dumps(data), mimetype="application/json")
+def get_dicts(rows):
+    records = []
+    for i, row in enumerate(rows):
+        if i == 0:
+            headers = [to_snake(field) for field in row]
+            headers = dict(zip(headers, range(len(headers))))
+            continue
+
+        if all(map(lambda x: len(x)==0, row)):
+            continue
+
+        record = {}
+        for field_name in headers.keys():
+            record[field_name] = row[headers[field_name]]
+        records.append(record)
+    return records
 
 
-if __name__ == "__main__":
-    port = int(os.environ.get('PORT', 5000))
-    app.run(host='0.0.0.0', port=port)
+def fetch_naics():
+    f='./data/naics07.txt'
+    naics = get_dicts(read_rows(f))
+    return naics
