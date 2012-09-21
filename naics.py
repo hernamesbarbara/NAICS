@@ -1,5 +1,7 @@
 import csv, re, string, json
 import pprint as pp
+from pymongo import Connection
+db = Connection()['industries']
 
 def to_snake(s):
     return re.sub('\W', '_', s.lower()).replace('__', '_').strip('_')
@@ -28,15 +30,14 @@ def get_dicts(rows):
 
 
 def fetch_naics():
-    f='./data/naics07.txt'
-    naics = get_dicts(read_rows(f))
+    naics = []
+    for n in db.naics_2007.find():
+        del n['_id']
+        naics.append(n)
     return naics
 
 def fetch_one(code):
-    f='./data/naics07.txt'
-    naics = get_dicts(read_rows(f))
-    code_index = dict((n['2007_naics_us_code'], i) for i, n in enumerate(naics))
-    if code_index.get(str(code), -1) != -1:
-        return naics[code_index.get(str(code), -1)]
-    else:
-        return []
+    doc = db.naics_2007.find_one({"2007_naics_us_code":str(code)})
+    if "_id" in doc:
+        del doc["_id"]
+    return doc
