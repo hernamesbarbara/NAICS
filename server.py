@@ -1,24 +1,37 @@
 from flask import Flask, jsonify
-from flask import render_template, request, Response
+from flask import request, Response
 import json, os
-from naics import *
+import naics
 
 app = Flask(__name__)
-Naics = naics()
+app.debug=True
+db = naics.db_conn()
+
+@app.errorhandler(404)
+def not_found(error=None):
+    message = {'status': 404, 'message': 'Not Found: %s' %(request.url)}
+    res = jsonify(message)
+    res.headers['Title'] = 'NAICS 2007 Industry Codes'
+    res.status_code = 404
+    return res
 
 @app.route("/naics/all", methods=['GET'])
-def naics():
-    return Response(json.dumps(Naics.find_all()), mimetype="application/json")
+def find():
+    data = db.find_all()
+    res = jsonify(data)
+    res.status_code = 200
+    return res
 
 @app.route('/naics/<int:code>', methods=['GET'])
 def find_one(code):
-    docs = Naics.find(code)
-    res = Response(json.dumps(docs), status=200, mimetype='application/json')
-    res.headers['Title'] = 'NAICS 2007 Industry Codes'
-    return res
+    data = db.find(code)
+    if len(data['objects'][0])==0:
+        return not_found()
+    else:
+        res = jsonify(data)
+        res.status_code = 200
+        return res
 
 if __name__ == "__main__":
     port = int(os.environ.get('PORT', 5000))
     app.run(host='0.0.0.0', port=port)
-    #app.run(debug=True)
-
