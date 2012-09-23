@@ -1,11 +1,11 @@
 from pymongo import Connection
 import json
 
-class db_conn(object):
-    def __init__(self, db=Connection()['industries']):
-        self.db = db
+class mongo_db(object):
+    def __init__(self, db='industries'):
+        self.db = Connection()[db]
 
-    def find_all(self):
+    def find(self):
         codes = []
         for n in self.db.naics_2007.find():
             if "_id" in n:
@@ -13,7 +13,7 @@ class db_conn(object):
             codes.append(n)
         return {'objects': codes}
 
-    def find(self, naics_code):
+    def find_one(self, naics_code):
         doc = self.db.naics_2007.find_one({"2007_naics_us_code":str(naics_code)})
         code = doc if doc else {}
         if "_id" in code:
