@@ -1,24 +1,33 @@
-from flask import Flask, jsonify, g
+from pymongo import Connection
+from flask import Flask, jsonify
 from flask import request, Response, redirect
 import json, os
-import naics
-
-app = Flask(__name__)
-app.debug=True
 
 #CONFIGS
+app = Flask(__name__)
+app.debug=True
+db = Connection()['industries']
 
-def connect_db():
-    return naics.mongo_db()
+
+def find_naics(query={}):
+    data = [rm_objectid(doc) for doc in db.naics_2007.find(query)]
+    return {'objects': rm_objectid(data)}
+
+def respond_with(body={}, status=200):
+    res = jsonify(body)
+    res.headers['Title'] = title()
+    res.status_code = status
+    return res
+
+#HELPERS
+def rm_objectid(doc={}):
+    "remove mongo objectid to serialize"
+    if "_id" in doc:
+        del doc['_id']
+    return doc
 
 def title():
     return 'NAICS 2007 Industry Codes'
-
-#HELPERS
-
-@app.before_request
-def before_request():
-    g.db = connect_db()
 
 @app.before_request
 def strip_trailing_slash():
@@ -28,12 +37,17 @@ def strip_trailing_slash():
 @app.errorhandler(404)
 def not_found(error=None):
     message = {'status': 404, 'message': 'Not Found: %s' %(request.url)}
-    res = jsonify(message)
-    res.headers['Title'] = title()
-    res.status_code = 404
-    return res
+    return respond_with(message, 404)
 
 #ROUTES
+
+@app.route("/naics", methods=['GET'])
+def get():
+    if 'code' in request.args:
+        data = find_naics({"2007_naics_us_code":str(request.args['code'])})
+    else:
+        data = find_naics()
+    return respond_with(data, 200)
 
 @app.route("/", methods=['GET'])
 def root():
@@ -45,29 +59,7 @@ def root():
                'author': 'Austin Ogilvie',
                'description': 'An API providing the 2007 NAICS industry classification codes.'}
     
-    res = jsonify(message)
-    res.headers['Title'] = title()
-    res.status_code = 200
-    return res
-
-@app.route("/naics/all", methods=['GET'])
-def find():
-    data = g.db.find()
-    res = jsonify(data)
-    res.headers['Title'] = title()
-    res.status_code = 200
-    return res
-
-@app.route('/naics/<int:code>', methods=['GET'])
-def find_one(code):
-    data = g.db.find_one(code)
-    if len(data['objects'][0])==0:
-        return not_found()
-    else:
-        res = jsonify(data)
-        res.headers['Title'] = title()
-        res.status_code = 200
-        return res
+    return respond_with(message, 200)
 
 if __name__ == "__main__":
     port = int(os.environ.get('PORT', 5000))
