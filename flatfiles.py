@@ -1,4 +1,4 @@
-import csv, re, string, xlrd, codecs
+import csv, re, json, xlrd, codecs
 import pprint as pp
 
 from pymongo import Connection
@@ -6,16 +6,13 @@ db = Connection()['industries']
 
 
 def utf8ify(a_list):
-    "returns a new list with anything string-like replaced with a utf-8 string"
+    "returns list w/ string as utf-8 and floats as ints"
     """
-    args: a_list:
-        a list of items of any type 
-        e.g. => [1.0, 11.0, u'Agriculture, Forestry, Fishing and Hunting']
-
-    returns:
-        [1.0, 11.0, 'Agriculture, Forestry, Fishing and Hunting']
+    >>> utf8ify([1.0, 11.0, u'Agriculture, Forestry, Fishing and Hunting'])
+    ['1', '11', 'Agriculture, Forestry, Fishing and Hunting']
+        
     """
-    return [unicode(s).encode("utf-8") if hasattr(s,'encode') else s for s in a_list]
+    return [unicode(s).encode("utf-8") if hasattr(s,'encode') else int(s) for s in a_list]
 
 def to_snake(s):
     "returns a string in snake_case"
@@ -24,22 +21,17 @@ def to_snake(s):
     'my_phone_number_is_555_555_5555'
 
     """
-    return re.sub('\W', '_', s.lower()).replace('__', '_').strip('_') if hasattr(s, 'encode') else s
+    return re.sub('\W', '_', s.lower()).strip('_').replace('__', '_') if hasattr(s, 'encode') else s
 
 def read_txt(f):
     with open(f, 'r') as f:
         reader = csv.reader(f, delimiter='\t')
-        return [row for row in reader]
+        return [utf8ify(row) for row in reader]
 
 def read_xls(workbook, sheet_name='Sheet1'):
     wb = xlrd.open_workbook(workbook)
     sh = wb.sheet_by_name(sheet_name)
-    records = []
-    for i, r in enumerate(range(sh.nrows)):
-        row = sh.row_values(r)
-        row = utf8ify(row)
-        records.append(row)
-    return records
+    return [utf8ify(sh.row_values(r)) for r in range(sh.nrows)]
 
 def lists_to_dicts(list_of_lists, headers_index=0):
     "given a list of lists, returns a list of dictionaries"
@@ -61,7 +53,7 @@ def lists_to_dicts(list_of_lists, headers_index=0):
             continue
         
         if i==headers_index:
-            headers = [to_snake(field) for field in utf8ify(row)]
+            headers = [to_snake(field).replace('__', '_') for field in utf8ify(row)]
             headers = dict(zip(headers, range(len(headers))))
             continue
 
@@ -70,7 +62,11 @@ def lists_to_dicts(list_of_lists, headers_index=0):
 
         record = {}
         for field_name in headers.keys():
-            record[field_name] = row[headers[field_name]]
+            try:
+                record[field_name] = int(row[headers[field_name]])
+            except:
+                record[field_name] = row[headers[field_name]]
+                
         records.append(record)
         
     return records
@@ -85,21 +81,27 @@ def save_to_mongo(records, db, collection):
         db: mongodb = Connection()['industries']
         collection: name of the collection
     """
+
+    print 'saving %s records to the %s mongo collection...' %(len(records), collection)
     for doc in records:
-        db.collection.save(doc)
+        db['naics_codes'].save(doc)
 
 
-def main():
-    txt_file='./data/naics07.txt'
-    workbook = './data/2-digit_2012_Codes.xls'
-    sheet = 'tbl_2012_title_description_coun'
+def main(__name__):
+    naics_2007_txt ='./data/naics07.txt'
+    naics_2012_xls = './data/2-digit_2012_Codes.xls'
+    naics_2012_sheet = 'tbl_2012_title_description_coun'
 
-    xls_rows = read_xls(workbook=workbook, sheet_name=sheet)
-    txt_rows = read_txt(txt_file)
+    naics_2007 = read_txt(naics_2007_txt)
+    naics_2012 = read_xls(workbook=naics_2012_xls, sheet_name=naics_2012_sheet)
 
-    naics_2007 = lists_to_dicts(txt_rows)
-    naics_2012 = lists_to_dicts(xls_rows)
-    return (naics_2007, naics_2012)
+    naics_2007 = lists_to_dicts(naics_2007)
+    naics_2012 = lists_to_dicts(naics_2012)
 
+    conn = Connection()['industries']
+    
+    save_to_mongo(naics_2007, conn, 'naics_codes')
+    save_to_mongo(naics_2012, conn, 'naics_codes')
 
-data = main()
+if __name__=='__main__':
+    main(__name__)

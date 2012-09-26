@@ -10,7 +10,7 @@ db = Connection()['industries']
 
 
 def find_naics(query={}):
-    data = [rm_objectid(doc) for doc in db.naics_2007.find(query)]
+    data = [rm_objectid(doc) for doc in db.naics_codes.find(query)]
     return {'objects': rm_objectid(data)}
 
 def respond_with(body={}, status=200):
@@ -27,7 +27,7 @@ def rm_objectid(doc={}):
     return doc
 
 def title():
-    return 'NAICS 2007 Industry Codes'
+    return 'NAICS Industry Codes'
 
 @app.before_request
 def strip_trailing_slash():
@@ -43,21 +43,28 @@ def not_found(error=None):
 
 @app.route("/naics", methods=['GET'])
 def get():
-    if 'code' in request.args:
-        data = find_naics({"2007_naics_us_code":str(request.args['code'])})
-    else:
-        data = find_naics()
+    year_key = '%s_naics_us_code' %(str(request.args['year'])) if 'year' in request.args else False
+    naics = int(request.args['code']) if 'code' in request.args else False
+    query = False
+    
+    if year_key:
+        query = {year_key: { '$exists' : 'true' }}
+
+    if year_key and naics:
+        query = {year_key: naics}
+
+    data = find_naics(query) if query else find_naics()
     return respond_with(data, 200)
 
 @app.route("/", methods=['GET'])
 def root():
     message = {'status': 'OK',
-               'name': 'NAICS 2007 Industry Codes',
+               'name': 'NAICS Industry Codes',
                'version': '0.1',
                'url': 'http://github.com/hernamesbarbara/NAICS',
                'license': 'None',
                'author': 'Austin Ogilvie',
-               'description': 'An API providing the 2007 NAICS industry classification codes.'}
+               'description': 'An API providing NAICS industry classification codes.'}
     
     return respond_with(message, 200)
 
