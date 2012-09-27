@@ -9,6 +9,21 @@ app.debug=True
 db = Connection()['industries']
 
 
+def get_query(params):
+    year = int(params['year']) if 'year' in params else False
+    code = int(params['code']) if 'code' in params else False
+    
+    if year:
+        query = {"year": year}
+
+    if code:
+        query = {"code": code}
+
+    if year and code:
+        query = {"year": year, "code": code}
+
+    return query
+
 def find_naics(query={}):
     data = [rm_objectid(doc) for doc in db.naics_codes.find(query)]
     return {'objects': rm_objectid(data)}
@@ -43,16 +58,8 @@ def not_found(error=None):
 
 @app.route("/naics", methods=['GET'])
 def get():
-    year_key = '%s_naics_us_code' %(str(request.args['year'])) if 'year' in request.args else False
-    naics = int(request.args['code']) if 'code' in request.args else False
-    query = False
-    
-    if year_key:
-        query = {year_key: { '$exists' : 'true' }}
-
-    if year_key and naics:
-        query = {year_key: naics}
-
+    if len(request.args.keys()) > 0:
+        query = get_query(request.args)
     data = find_naics(query) if query else find_naics()
     return respond_with(data, 200)
 
