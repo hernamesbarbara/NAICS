@@ -58,6 +58,7 @@ def not_found(error=None):
 
 @app.route("/naics", methods=['GET'])
 def get():
+    query = False
     if len(request.args.keys()) > 0:
         query = get_query(request.args)
     data = find_naics(query) if query else find_naics()
