@@ -71,6 +71,23 @@ def lists_to_dicts(list_of_lists, headers_index=0):
         
     return records
 
+def format_doc(doc):
+    to_save={}
+    
+    for key in doc:
+        print key, doc[key]
+        if "_naics_us_title" in key:
+            to_save["year"] = int(key[0:4])
+            to_save["title"] = doc[key]
+
+        if "_naics_us_code" in key:
+            try:
+                to_save["code"] = int(doc[key])
+            except:
+                to_save["code"] = int(doc[key][:2])
+
+    return to_save
+
 
 def save_to_mongo(records, db, collection):
     "save a list of dictionaries to mongo"
@@ -84,6 +101,7 @@ def save_to_mongo(records, db, collection):
 
     print 'saving %s records to the %s mongo collection...' %(len(records), collection)
     for doc in records:
+        doc = format_doc(doc)
         db['naics_codes'].save(doc)
 
 
