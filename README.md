@@ -1,6 +1,6 @@
 ####...with aspirations of becoming an API for searching NAICS industry classification codes.
 
-#####Currently it only supports querying for a specific code a specific year. All 2007 and 2012 NAICS codes are available.
+#####Currently it only supports querying for a specific code or year. All 2007 and 2012 NAICS codes are available.
 
 GET /naics to fetch all documents:
 
