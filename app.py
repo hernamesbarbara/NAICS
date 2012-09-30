@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 from pymongo import Connection
 from flask import Flask, jsonify
 from flask import request, Response, redirect
