@@ -1,9 +1,8 @@
-import csv, re, json, xlrd, codecs
+import csv, re, json, xlrd, codecs, sys
 import pprint as pp
-
 from pymongo import Connection
-db = Connection()['industries']
-
+from urlparse import urlparse
+import argparse
 
 def utf8ify(a_list):
     "returns list w/ string as utf-8 and floats as ints"
@@ -105,21 +104,43 @@ def save_to_mongo(records, db, collection):
         db['naics_codes'].save(doc)
 
 
-def main(__name__):
-    naics_2007_txt ='./data/naics07.txt'
-    naics_2012_xls = './data/2-digit_2012_Codes.xls'
-    naics_2012_sheet = 'tbl_2012_title_description_coun'
+def main():
+    parser = argparse.ArgumentParser(description=('Given a URI and a file, saves data from the file to MongoDb.'))
+    parser.add_argument('-m', '--mongodb', type=str, help='MONGO_URI')
+    parser.add_argument('-f', '--filename', type=str, help='filename')
+    parser.add_argument('-s', '--sheetname', type=str, default=None, help='sheetname if processing xls')
+    parser.add_argument('-c', '--collection', type=str, help='mongo collection name')
 
-    naics_2007 = read_txt(naics_2007_txt)
-    naics_2012 = read_xls(workbook=naics_2012_xls, sheet_name=naics_2012_sheet)
+    args = parser.parse_args()
 
-    naics_2007 = lists_to_dicts(naics_2007)
-    naics_2012 = lists_to_dicts(naics_2012)
+    #files
+    filename = args.filename
+    sheetname = args.sheetname
+    collection = args.collection
 
-    conn = Connection()['industries']
-    
-    save_to_mongo(naics_2007, conn, 'naics_codes')
-    save_to_mongo(naics_2012, conn, 'naics_codes')
+    #db
+    MONGO_URI = args.mongodb
+    try:
+        uri = urlparse(MONGO_URI)
+        db = Connection(MONGO_URI)[uri.path[1:]]
+    except:
+        sys.exit('unable to connect to the database')
+
+    if filename.endswith('.txt'):
+        rows = read_txt(filename)
+
+    elif filename.endswith('xls'):
+        if sheetname is not None:
+            rows = read_xls(filename, sheetname)
+        else:
+            sys.exit('Provide a sheetname if processing xls file')
+
+    else:
+        sys.exit('Unable to process file. Please use .txt or .xls only')
+
+    if rows:
+        row_dicts = lists_to_dicts(rows)
+        save_to_mongo(row_dicts, db, collection)
 
 if __name__=='__main__':
-    main(__name__)
+    main()
