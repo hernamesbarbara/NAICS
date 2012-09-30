@@ -7,7 +7,7 @@ from urlparse import urlparse
 #CONFIGS
 app = Flask(__name__)
 MONGO_URI = os.environ.get('MONGOLAB_URI', 'mongodb://localhost')
-DBNAME = MONGO_URI.path[1:]
+DBNAME = urlparse(MONGO_URI).path[1:]
 print 'THIS IS THE MONGO_URI\n', MONGO_URI
 print 'THIS IS THE MONGO_URI\n', DBNAME
 db = Connection(MONGO_URI)[DBNAME]
