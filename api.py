@@ -5,7 +5,7 @@ import json, os
 
 #CONFIGS
 app = Flask(__name__)
-app.debug=True
+app.debug=False
 db = Connection()['industries']
 
 
