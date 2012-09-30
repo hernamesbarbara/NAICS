@@ -2,12 +2,16 @@
 from pymongo import Connection
 from flask import Flask, jsonify
 from flask import request, Response, redirect
-import json, os
+import json, os, sys
 
 #CONFIGS
 app = Flask(__name__)
 app.debug=False
-db = Connection()['industries']
+
+mongo_url = os.environ.get('MONGOLAB_URI', 'mongodb://heroku_app8020356')
+
+
+db_name = 'industries'
 
 
 def get_query(params):
@@ -77,6 +81,18 @@ def root():
     
     return respond_with(message, 200)
 
-if __name__ == "__main__":
+
+if __name__ == '__main__':
     port = int(os.environ.get('PORT', 5000))
-    app.run(host='0.0.0.0', port=port)
+    try:
+        connection = pymongo.Connection(mongo_url)
+        if 'localhost' in self.mongo_url:
+            db_name = 'my_local_db_name'
+        else:
+            db_name = self.mongo_url.rsplit('/',1)[1]
+            db = connection[db_name]
+
+        app.run(host='0.0.0.0', port=port)
+    except:
+        print('Error: Unable to Connect')
+        sys.exit("Unable to connect to the database")
