@@ -6,7 +6,7 @@ import json, os, sys
 #CONFIGS
 app = Flask(__name__)
 MONGO_URI = os.environ.get('MONGOLAB_URI', 'mongodb://localhost')
-print MONGO_URI
+print 'THIS IS THE MONGO_URI\n', MONGO_URI
 db = Connection(MONGO_URI)['industries']
 
 
