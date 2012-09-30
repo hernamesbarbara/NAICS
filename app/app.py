@@ -6,12 +6,8 @@ import json, os, sys
 
 #CONFIGS
 app = Flask(__name__)
-app.debug=False
-
-mongo_url = os.environ.get('MONGOLAB_URI', 'mongodb://heroku_app8020356')
-
-
-db_name = 'industries'
+MONGO_URI = os.environ.get('MONGOLAB_URI', 'mongodb://localhost')
+db = Connection(MONGO_URI)['industries']
 
 
 def get_query(params):
@@ -39,6 +35,7 @@ def respond_with(body={}, status=200):
     res.status_code = status
     return res
 
+
 #HELPERS
 def rm_objectid(doc={}):
     "remove mongo objectid to serialize"
@@ -46,13 +43,16 @@ def rm_objectid(doc={}):
         del doc['_id']
     return doc
 
+
 def title():
     return 'NAICS Industry Codes'
+
 
 @app.before_request
 def strip_trailing_slash():
     if request.path != '/' and request.path.endswith('/'):
         return redirect(request.path[:-1])
+
 
 @app.errorhandler(404)
 def not_found(error=None):
@@ -60,7 +60,6 @@ def not_found(error=None):
     return respond_with(message, 404)
 
 #ROUTES
-
 @app.route("/naics", methods=['GET'])
 def get():
     query = False
@@ -82,17 +81,7 @@ def root():
     return respond_with(message, 200)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     port = int(os.environ.get('PORT', 5000))
-    app.run(host='0.0.0.0', port=port)
-    try:
-        connection = pymongo.Connection(mongo_url)
-        if 'localhost' in self.mongo_url:
-            db_name = 'my_local_db_name'
-        else:
-            db_name = self.mongo_url.rsplit('/',1)[1]
-            db = connection[db_name]
-
-    except:
-        print('Error: Unable to Connect')
-        sys.exit("Unable to connect to the database")
+    host = os.environ.get('ADDRESS', '0.0.0.0')
+    app.run(host=host, port=port)
