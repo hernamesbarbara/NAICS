@@ -2,13 +2,13 @@ from pymongo import Connection
 from flask import Flask, jsonify
 from flask import request, Response, redirect
 import json, os, sys
+from urlparse import urlparse
 
 #CONFIGS
 app = Flask(__name__)
-MONGO_URI = os.environ.get('MONGOLAB_URI', 'mongodb://localhost')
+MONGO_URI = urlparse(os.environ.get('MONGOLAB_URI', 'mongodb://localhost'))
 print 'THIS IS THE MONGO_URI\n', MONGO_URI
-db = Connection(MONGO_URI)['industries']
-
+db = Connection(MONGO_URI)[MONGO_URI.path[1:]]
 
 def get_query(params):
     year = int(params['year']) if 'year' in params else False
