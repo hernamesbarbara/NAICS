@@ -84,6 +84,7 @@ def root():
 
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 5000))
+    app.run(host='0.0.0.0', port=port)
     try:
         connection = pymongo.Connection(mongo_url)
         if 'localhost' in self.mongo_url:
@@ -92,7 +93,6 @@ if __name__ == '__main__':
             db_name = self.mongo_url.rsplit('/',1)[1]
             db = connection[db_name]
 
-        app.run(host='0.0.0.0', port=port)
     except:
         print('Error: Unable to Connect')
         sys.exit("Unable to connect to the database")
