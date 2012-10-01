@@ -4,8 +4,8 @@
 
 GET /naics to fetch all documents:
 
-http://stark-fjord-5272.herokuapp.com/naics
+http://industries.herokuapp.com/naics
 
 Or query for a specific year and code:
 
-http://stark-fjord-5272.herokuapp.com/naics?code=72&year=2007
+http://industries.herokuapp.com/naics?year=2007&code=72
