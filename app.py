@@ -1,13 +1,16 @@
 from pymongo import Connection
 from flask import Flask, jsonify
 from flask import request, Response, redirect
-import json, os
+import json, os, sys
+from urlparse import urlparse
 
 #CONFIGS
 app = Flask(__name__)
-app.debug=True
-db = Connection()['industries']
-
+MONGO_URI = os.environ.get('MONGOLAB_URI', 'mongodb://localhost')
+DBNAME = urlparse(MONGO_URI).path[1:]
+print 'THIS IS THE MONGO_URI\n', MONGO_URI
+print 'THIS IS THE MONGO_URI\n', DBNAME
+db = Connection(MONGO_URI)[DBNAME]
 
 def get_query(params):
     year = int(params['year']) if 'year' in params else False
@@ -34,6 +37,7 @@ def respond_with(body={}, status=200):
     res.status_code = status
     return res
 
+
 #HELPERS
 def rm_objectid(doc={}):
     "remove mongo objectid to serialize"
@@ -41,13 +45,16 @@ def rm_objectid(doc={}):
         del doc['_id']
     return doc
 
+
 def title():
     return 'NAICS Industry Codes'
+
 
 @app.before_request
 def strip_trailing_slash():
     if request.path != '/' and request.path.endswith('/'):
         return redirect(request.path[:-1])
+
 
 @app.errorhandler(404)
 def not_found(error=None):
@@ -55,7 +62,6 @@ def not_found(error=None):
     return respond_with(message, 404)
 
 #ROUTES
-
 @app.route("/naics", methods=['GET'])
 def get():
     query = False
@@ -76,6 +82,8 @@ def root():
     
     return respond_with(message, 200)
 
+
 if __name__ == "__main__":
     port = int(os.environ.get('PORT', 5000))
-    app.run(host='0.0.0.0', port=port)
+    host = os.environ.get('ADDRESS', '0.0.0.0')
+    app.run(host=host, port=port)

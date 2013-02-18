@@ -1,9 +1,11 @@
-####...with aspirations of becoming an API for getting industry classification NAICS codes.
+####...with aspirations of becoming an API for searching NAICS industry classification codes.
+
+#####Currently it only supports querying for a specific code or year. All 2007 and 2012 NAICS codes are available.
 
 GET /naics to fetch all documents:
 
-http://127.0.0.1:5000/naics
+http://industries.herokuapp.com/naics
 
 Or query for a specific year and code:
 
-http://127.0.0.1:5000/naics?year=2012&code=72
+http://industries.herokuapp.com/naics?year=2007&code=72
