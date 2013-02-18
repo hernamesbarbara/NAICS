@@ -1,0 +1,361 @@
+|2002_naics|2002_naics_title|sic|sic_title_and_note
+0|111110.0|Soybean Farming |116.0|Soybeans
+1|111120.0|Oilseed (except Soybean) Farming|119.0|Cash Grains, NEC (oilseed farming, except soybeans)
+2|111130.0|Dry Pea and Bean Farming|119.0|Cash Grains, NEC (dry pea and bean farms)
+3|111140.0|Wheat Farming|111.0|Wheat
+4|111150.0|Corn Farming|115.0|Corn
+5|111150.0|Corn Farming|119.0|Cash Grains, NEC (popcorn farming)
+6|111160.0|Rice Farming|112.0|Rice 
+7|111191.0|Oilseed and Grain Combination Farming|119.0|Cash Grains, NEC (oilseed and grain combination farms)
+8|111199.0|All Other Grain Farming|119.0|Cash Grains, NEC (except popcorn, dry pea and bean, oilseed (except soybean), and oilseed and grain combination farms)
+9|111199.0|All Other Grain Farming|139.0|Field Crops, Except Cash Grains, NEC (broom corn farming)
+10|111211.0|Potato Farming|134.0|Irish Potatoes
+11|111219.0|Other Vegetable (except Potato) and Melon Farming|139.0|Field Crops Except Cash Grains (sweet potatoes and yams), NEC
+12|111219.0|Other Vegetable (except Potato) and Melon Farming|161.0|Vegetables and Melons
+13|111310.0|Orange Groves|174.0|Citrus Fruits (orange groves and farms)
+14|111320.0|Citrus (except Orange) Groves |174.0|Citrus Fruits (except orange groves and farms)
+15|111331.0|Apple Orchards|175.0|Deciduous Tree Fruits (apple orchards and farms)
+16|111332.0|Grape Vineyards|172.0|Grapes
+17|111333.0|Strawberry Farming|171.0|Berry Crops (strawberry farms)
+18|111334.0|Berry (except Strawberry) Farming|171.0|Berry Crops ( except strawberry farms)
+19|111335.0|Tree Nut Farming|173.0|Tree Nuts
+20|111336.0|Fruit and Tree Nut Combination Farming|179.0|Fruits and Tree Nuts, NEC (combination farms)
+21|111339.0|Other Noncitrus Fruit Farming|175.0|Deciduous Tree Fruits (except apple orchards and farms)
+22|111339.0|Other Noncitrus Fruit Farming|179.0|Fruits and Tree Nuts, NEC (except combination farms) 
+23|111411.0|Mushroom Production|182.0|Food Crops Grown Under Cover (growing mushrooms)
+24|111419.0|Other Food Crops Grown Under Cover|182.0|Food Crops Grown Under Cover (except growing mushrooms)
+25|111421.0|Nursery and Tree Production|181.0|Ornamental Floriculture and Nursery Products (nursery farming)
+26|111421.0|Nursery and Tree Production|811.0|Timber Tracts (short rotation woody crops)
+27|111422.0|Floriculture Production|181.0|Ornamental Floriculture and Nursery Products (floriculture farming)
+28|111910.0|Tobacco Farming|132.0|Tobacco
+29|111920.0|Cotton Farming|131.0|Cotton
+30|111930.0|Sugarcane Farming|133.0|Sugarcane and Sugar Beets (sugarcane farms)
+31|111940.0|Hay Farming|139.0|Field Crops, Except Cash Grains, NEC (hay farms)
+32|111991.0|Sugar Beet Farming|133.0|Sugarcane and Sugar Beets (sugar beet farms)
+33|111992.0|Peanut Farming|139.0|Field Crops, Except Cash Grains, NEC (peanut farms)
+34|111998.0|All Other Miscellaneous Crop Farming|139.0|Field Crops, Except Cash Grains, NEC (except peanut, sweet potato, broom corn, yam and hay farms)
+35|111998.0|All Other Miscellaneous Crop Farming|191.0|General Farms, Primarily Crop
+36|111998.0|All Other Miscellaneous Crop Farming|831.0|Forest Nurseries and Gathering of Forest Products (gathering maple sap)
+37|111998.0|All Other Miscellaneous Crop Farming|919.0|Miscellaneous Marine Products (plant aquaculture)
+38|111998.0|All Other Miscellaneous Crop Farming|2099.0|Food Preparations, NEC (reducing maple sap to maple syrup)
+39|112111.0|Beef Cattle Ranching and Farming|212.0|Beef Cattle, Except Feedlots
+40|112111.0|Beef Cattle Ranching and Farming|241.0|Dairy Farms (dairy heifer replacement farms)
+41|112112.0|Cattle Feedlots|211.0|Beef Cattle Feedlots
+42|112120.0|Dairy Cattle and Milk Production|241.0|Dairy Farms (except dairy heifer replacement farms) 
+43|112130.0|Dual Purpose Cattle Ranching and Farming||Null Set for U.S.
+44|112210.0|Hog and Pig Farming|213.0|Hogs
+45|112310.0|Chicken Egg Production|252.0|Chicken Eggs
+46|112320.0|Broilers and Other Meat Type Chicken Production|251.0|Broiler, Fryer, and Roaster Chickens
+47|112330.0|Turkey Production|253.0|Turkeys and Turkey Eggs
+48|112340.0|Poultry Hatcheries|254.0|Poultry Hatcheries
+49|112390.0|Other Poultry Production|259.0|Poultry and Eggs, NEC
+50|112410.0|Sheep Farming|214.0|Sheep and Goats (sheep farms)
+51|112420.0|Goat Farming|214.0|Sheep and Goats (goat farms)
+52|112511.0|Finfish Farming and Fish Hatcheries|273.0|Animal Aquaculture (finfish farms)
+53|112511.0|Finfish Farming and Fish Hatcheries|921.0|Fish Hatcheries and Preserves (finfish hatcheries)
+54|112512.0|Shellfish Farming|273.0|Animal Aquaculture (shellfish farms)
+55|112512.0|Shellfish Farming|919.0|Miscellaneous Marine Products (cultured pearl production)
+56|112512.0|Shellfish Farming|921.0|Fish Hatcheries and Preserves (shellfish hatcheries)
+57|112519.0|Other Animal Aquaculture|273.0|Animal Aquaculture (except finfish and shellfish farms)
+58|112519.0|Other Animal Aquaculture|279.0|Animal Specialties, NEC (frog and alligator farms)
+59|112910.0|Apiculture|279.0|Animal Specialties, NEC (apiculture)
+60|112920.0|Horse and Other Equine Production|272.0|Horses and Other Equines
+61|112930.0|Fur-Bearing Animal and Rabbit Production|271.0|Fur-Bearing Animals and Rabbits
+62|112990.0|All Other Animal Production|219.0|General Livestock, Except Dairy and Poultry
+63|112990.0|All Other Animal Production|279.0|Animal Specialties, NEC (except apiculture, frog and alligator farms)
+64|112990.0|All Other Animal Production|291.0|General Farms, Primarily Livestock and Animal Specialties
+65|113110.0|Timber Tract Operations|811.0|Timber Tracts (long term timber farms)
+66|113210.0|Forest Nurseries and Gathering of Forest Products|831.0|Forest Nurseries and Gathering of Forest Products (forest products, except gathering of maple sap)
+67|113310.0|Logging|2411.0|Logging
+68|114111.0|Finfish Fishing|912.0|Finfish
+69|114112.0|Shellfish Fishing|913.0|Shellfish
+70|114112.0|Shellfish Fishing|919.0|Miscellaneous Marine Products (catching sea urchins)
+71|114119.0|Other Marine Fishing|919.0|Miscellaneous Marine Products (except plant aquaculture, cultured pearl production, and catching sea urchins)
+72|114210.0|Hunting and Trapping|971.0|Hunting and Trapping, and Game Propagation
+73|115111.0|Cotton Ginning|724.0|Cotton Ginning
+74|115112.0|Soil Preparation, Planting, and Cultivating|711.0|Soil Preparation Services
+75|115112.0|Soil Preparation, Planting, and Cultivating|721.0|Crop Planting, Cultivating, and Protecting
+76|115113.0|Crop Harvesting, Primarily by Machine|722.0|Crop Harvesting, Primarily by Machine
+77|115114.0|Postharvest Crop Activities (except Cotton Ginning)|723.0|Crop Preparation Services for Market, Except Cotton Ginning (except custom grain grinding)
+78|115115.0|Farm Labor Contractors and Crew Leaders|761.0|Farm Labor Contractors and Crew Leaders
+79|115116.0|Farm Management Services|762.0|Farm Management Services
+80|115210.0|Support Activities for Animal Production|751.0|Livestock Services, Except Veterinary (except custom slaughtering)
+81|115210.0|Support Activities for Animal Production|752.0|Animal Specialty Services, Except Veterinary (boarding and training horses (except race horses), animal semen banks, and artificial insemination services for pets)
+82|115210.0|Support Activities for Animal Production|7699.0|Repair Shops and Related Services, NEC (farriers)
+83|115310.0|Support Activities for Forestry|851.0|Forestry Services
+84|211111.0|Crude Petroleum and Natural Gas Extraction|1311.0|Crude Petroleum and Natural Gas
+85|211112.0|Natural Gas Liquid Extraction|1321.0|Natural Gas Liquids
+86|211112.0|Natural Gas Liquid Extraction|2819.0|Industrial Inorganic Chemicals, NEC (recovering sulfur from natural gas)
+87|212111.0|Bituminous Coal and Lignite Surface Mining|1221.0|Bituminous Coal and Lignite Surface Mining
+88|212112.0|Bituminous Coal Underground Mining|1222.0|Bituminous Coal Underground Mining
+89|212113.0|Anthracite Mining|1231.0|Anthracite Mining
+90|212210.0|Iron Ore Mining|1011.0|Iron Ores
+91|212221.0|Gold Ore Mining|1041.0|Gold Ores
+92|212222.0|Silver Ore Mining|1044.0|Silver Ores
+93|212231.0|Lead Ore and Zinc Ore Mining|1031.0|Lead and Zinc Ores
+94|212234.0|Copper Ore and Nickel Ore Mining|1021.0|Copper Ores
+95|212234.0|Copper Ore and Nickel Ore Mining|1061.0|Ferroalloy Ores, Except Vanadium (nickel)
+96|212291.0|Uranium-Radium-Vanadium Ore Mining|1094.0|Uranium-Radium-Vanadium Ores
+97|212299.0|All Other Metal Ore Mining|1061.0|Ferroalloy Ores, Except Vanadium (other ferroalloys except nickel)
+98|212299.0|All Other Metal Ore Mining|1099.0|Miscellaneous Metal Ores, NEC
+99|212311.0|Dimension Stone Mining and Quarrying|1411.0|Dimension Stone
+100|212312.0|Crushed and Broken Limestone Mining and Quarrying|1422.0|Crushed and Broken Limestone
+101|212313.0|Crushed and Broken Granite Mining and Quarrying|1423.0|Crushed and Broken Granite
+102|212319.0|Other Crushed and Broken Stone Mining and Quarrying|1429.0|Crushed and Broken Stone, NEC
+103|212319.0|Other Crushed and Broken Stone Mining and Quarrying|1499.0|Miscellaneous Nonmetallic Minerals, Except Fuels (bituminous limestone and bituminous sandstone)
+104|212321.0|Construction Sand and Gravel Mining|1442.0|Construction Sand and Gravel
+105|212322.0|Industrial Sand Mining|1446.0|Industrial Sand
+106|212324.0|Kaolin and Ball Clay Mining|1455.0|Kaolin and Ball Clay
+107|212324.0|Kaolin and Ball Clay Mining|3295.0|Minerals and Earths, Ground or Otherwise Treated (grinding, washing, separating, etc. of kaolin and ball clay)
+108|212325.0|Clay and Ceramic and Refractory Minerals Mining|1459.0|Clay, Ceramic, and Refractory Minerals, NEC
+109|212325.0|Clay and Ceramic and Refractory Minerals Mining|3295.0|Minerals and Earths, Ground or Otherwise Treated (grinding, washing, separating, etc. of clay, ceramic, and refractory minerals nec)
+110|212391.0|Potash, Soda, and Borate Mineral Mining|1474.0|Potash, Soda, and Borate Minerals
+111|212392.0|Phosphate Rock Mining|1475.0|Phosphate Rock
+112|212393.0|Other Chemical and Fertilizer Mineral Mining|1479.0|Chemical and Fertilizer Mineral Mining, NEC
+113|212393.0|Other Chemical and Fertilizer Mineral Mining|3295.0|Minerals and Earths, Ground or Otherwise Treated (grinding, washing, separating, etc. of chemical and fertilizer minerals, nec)
+114|212399.0|All Other Nonmetallic Mineral Mining|1499.0|Miscellaneous Nonmetallic Minerals, Except Fuels (except bituminous limestone and bituminous sandstone)
+115|212399.0|All Other Nonmetallic Mineral Mining|3295.0|Minerals and Earths, Ground or Otherwise Treated (grinding, washing, separating, etc. of nonmetallic minerals, nec)
+116|213111.0|Drilling Oil and Gas Wells|1381.0|Drilling Oil and Gas Wells
+117|213112.0|Support Activities for Oil and Gas Operations|1382.0|Oil and Gas Field Exploration Services (except geophysical mapping and surveying)
+118|213112.0|Support Activities for Oil and Gas Operations|1389.0|Oil and Gas Field Services, NEC (except construction of field gathering lines, site preparation and related construction activities performed on a contract or fee basis)
+119|213113.0|Support Activities for Coal Mining|1241.0|Coal Mining Services (except site preparation and related construction activities on a contract basis)
+120|213114.0|Support Activities for Metal Mining|1081.0|Metal Mining Services (except site preparation and related activities performed on a contract or fee basis and geophysical surveying and mapping)
+121|213115.0|Support Activities for Nonmetallic Minerals (except Fuels)|1481.0|Nonmetallic Minerals Services, Except Fuels (except geophysical surveying and mapping and site preparation and related construction activities performed on a contract or fee basis)
+122|221111.0|Hydroelectric Power Generation|4911.0|Electric Services (hydroelectric power generation)
+123|221111.0|Hydroelectric Power Generation|4931.0|Electric and Other Services Combined (hydroelectric power generation) 
+124|221111.0|Hydroelectric Power Generation|4939.0|Combination Utilities, NEC (hydroelectric power generation)
+125|221112.0|Fossil Fuel Electric Power Generation|4911.0|Electric Services (fossil fuel power generation)
+126|221112.0|Fossil Fuel Electric Power Generation|4931.0|Electric and Other Services Combined (fossil fuel power generation)
+127|221112.0|Fossil Fuel Electric Power Generation|4939.0|Combination Utilities, NEC (fossil fuel power generation)
+128|221113.0|Nuclear Electric Power Generation|4911.0|Electric Services (nuclear electric power generation)
+129|221113.0|Nuclear Electric Power Generation|4931.0|Electric and Other Services Combined (nuclear power generation)
+130|221113.0|Nuclear Electric Power Generation|4939.0|Combination Utilities, NEC (nuclear power generation)
+131|221119.0|Other Electric Power Generation|4911.0|Electric Services (other electric power generation)
+132|221119.0|Other Electric Power Generation|4931.0|Electric and Other Services Combined (other electric power generation)
+133|221119.0|Other Electric Power Generation|4939.0|Combination Utilities, NEC (other electric power generation)
+134|221121.0|Electric Bulk Power Transmission and Control|4911.0|Electric Services (electric power transmission and control)
+135|221121.0|Electric Bulk Power Transmission and Control|4931.0|Electric and Other Services Combined (electric power transmission and control)
+136|221121.0|Electric Bulk Power Transmission and Control|4939.0|Combination Utilities, NEC (electric power transmission and control) 
+137|221122.0|Electric Power Distribution|4911.0|Electric Services (electric power distribution)
+138|221122.0|Electric Power Distribution|4931.0|Electric and Other Services Combined (electric power distribution)
+139|221122.0|Electric Power Distribution|4939.0|Combination Utilities, NEC (electric power distribution)
+140|221210.0|Natural Gas Distribution|4923.0|Natural Gas Transmission and Distribution (distribution)
+141|221210.0|Natural Gas Distribution|4924.0|Natural Gas Distribution
+142|221210.0|Natural Gas Distribution|4925.0|Mixed, Manufactured, or Liquefied Petroleum Gas Production and/or Distribution
+143|221210.0|Natural Gas Distribution|4931.0|Electric and Other Services Combined (natural gas distribution)
+144|221210.0|Natural Gas Distribution|4932.0|Gas and Other Services Combined (natural gas distribution)
+145|221210.0|Natural Gas Distribution|4939.0|Combination Utilities, NEC (natural gas distribution)
+146|221310.0|Water Supply and Irrigation Systems|4941.0|Water Supply
+147|221310.0|Water Supply and Irrigation Systems|4971.0|Irrigation Systems
+148|221320.0|Sewage Treatment Facilities|4952.0|Sewerage Systems
+149|221330.0|Steam and Air-Conditioning Supply|4961.0|Steam and Air-Conditioning Supply
+150|236115.0|New Single-Family Housing Construction (except Operative Builders)|1521.0|General Contractors--Single Family Houses (except remodeling contractors)
+151|236115.0|New Single-Family Housing Construction (except Operative Builders)|8741.0|Management Services (single-family housing construction management)
+152|236116.0|New Multifamily Housing Construction (except Operative Builders)|1522.0|General Contractors - Residential Buildings Other Than Single-Family (except remodeling contractors, hotel and motel construction contractors, and dormitory and barrack construction contractors)
+153|236116.0|New Multifamily Housing Construction (except Operative Builders)|8741.0|Management Services (multifamily housing construction management)
+154|236117.0|New Housing Operative Builders|1531.0|Operative Builders (residential operative builders)
+155|236118.0|Residential Remodelers|1521.0|General Contractors - Single-Family Houses (remodeling contractors)
+156|236118.0|Residential Remodelers|1522.0|General Contractors - Residential Buildings Other Than Single-Family (remodeling contractors)
+157|236118.0|Residential Remodelers|1531.0|Operative Builders (residential operative remodelers)
+158|236118.0|Residential Remodelers|8741.0|Management Services (residential remodeling construction management)
+159|236210.0|Industrial Building Construction|1531.0|Operative Builders (Operative builders of industrial and manufacturing buildings except grain elevators, dry cleaning plants, and manufacturing and industrial warehouses)
+160|236210.0|Industrial Building Construction|1541.0|General Contractors Industrial Buildings and Warehouses ( except grain elevators; drycleaning plants; and manufacturing, public, and industrial warehouses)
+161|236210.0|Industrial Building Construction|1629.0|Heavy Construction, NEC (Industrial nonbuilding structures [except petrochemical plants and petroleum refineries])
+162|236210.0|Industrial Building Construction|8741.0|Management Services (industrial building and nonbuilding structure construction management)
+163|236220.0|Commercial and Institutional Building Construction|1522.0|General Contractors - Residential Buildings Other Than Single-Family (dormitory, barrack, hotel, and motel construction contractors)
+164|236220.0|Commercial and Institutional Building Construction|1531.0|Operative Builders (grain elevator, dry cleaning plant, and manufacturing and industrial warehouse operative builders)
+165|236220.0|Commercial and Institutional Building Construction|1541.0|General Contractors - Industrial Buildings and Warehouses (general contractors of grain elevators; dry cleaning plants; and manufacturing, industrial, and public warehouses)
+166|236220.0|Commercial and Institutional Building Construction|1542.0|General Contractors - Nonresidential Buildings, Other than Industrial Buildings and Warehouses
+167|236220.0|Commercial and Institutional Building Construction|1799.0|Special Trade Contractors, NEC (indoor swimming pool construction contractors)
+168|236220.0|Commercial and Institutional Building Construction|8741.0|Management Services (commercial and institutional building construction management)
+169|237110.0|Water and Sewer Line and Related Structures Construction|1623.0|Water, Sewer, Pipeline, and Communications and Power Line Construction (water and sewer pipelines and related construction)
+170|237110.0|Water and Sewer Line and Related Structures Construction|1629.0|Heavy Construction NEC (irrigation systems, sewage treatment plants, and water treatment plants)
+171|237110.0|Water and Sewer Line and Related Structures Construction|1781.0|Water Well Drilling
+172|237110.0|Water and Sewer Line and Related Structures Construction|8741.0|Management Services (construction management of water, sewer, and related structure construction projects)
+173|237120.0|Oil and Gas Pipeline and Related Structures Construction|1389.0|Oil and Gas Field Services, NEC (construction of field gathering lines on a contract or fee basis)
+174|237120.0|Oil and Gas Pipeline and Related Structures Construction|1623.0|Water, Sewer, Pipeline, and Communications and Power Line Construction (gas and oil pipelines, mains, and pumping stations)
+175|237120.0|Oil and Gas Pipeline and Related Structures Construction|1629.0|Heavy Construction, NEC (petrochemical plants and refineries)
+176|237120.0|Oil and Gas Pipeline and Related Structures Construction|8741.0|Management Services (construction management of oil and gas pipelines and related structure  construction projects)
+177|237130.0|Power and Communication Line and Related Structures Construction|1623.0|Water, Sewer, Pipeline, and Communications and Power Line Construction (power and communications transmission lines)
+178|237130.0|Power and Communication Line and Related Structures Construction|1629.0|Heavy Construction, NEC (power generation plants [except hydroelectric dams], transmission stations, and distribution stations)
+179|237130.0|Power and Communication Line and Related Structures Construction|8741.0|Management Services (construction management of power generation [except hydroelectric] facilities, and transmission and distribution station construction projects)
+180|237210.0|Land Subdivision|6552.0|Land Subdividers and Developers, Except Cemeteries
+181|237310.0|Highway, Street, and Bridge Construction|1611.0|Highway and Street Construction, Except Elevated Highways
+182|237310.0|Highway, Street, and Bridge Construction|1622.0|Bridge, Tunnel, and Elevated Highway Construction (bridge and elevated highway construction) 
+183|237310.0|Highway, Street, and Bridge Construction|1721.0|Painting and Paper Hanging (traffic lane painting)
+184|237310.0|Highway, Street, and Bridge Construction|8741.0|Management Services (highway, street, and bridge construction management)
+185|237990.0|Other Heavy and Civil Engineering Construction|1622.0|Bridge, Tunnel, and Elevated Highway Construction (tunnel construction)
+186|237990.0|Other Heavy and Civil Engineering Construction|1629.0|Heavy Construction, NEC (except industrial nonbuilding structures, irrigation systems, sewage and water treatment plants, petrochemical plants and refineries, power generation plants [except hydroelectric dams] transmission and distribution stations, right-of-way clearing, line slashing, blasting, and trenching)
+187|237990.0|Other Heavy and Civil Engineering Construction|1799.0|Special Trade Contractors, NEC (anchored earth retention contractors)
+188|237990.0|Other Heavy and Civil Engineering Construction|8741.0|Management Services (construction management for other heavy and civil engineering construction) 
+189|238110.0|Poured Concrete Foundation and Structure Contractors|1771.0|Concrete Work (concrete work except stucco work and asphalt, brick, and paving)
+190|238120.0|Structural Steel and Precast Concrete Contractors|1791.0|Structural Steel Erection (structural steel work)
+191|238130.0|Framing Contractors|1751.0|Carpentry Work (framing carpentry)
+192|238140.0|Masonry Contractors|1741.0|Masonry, Stone Setting, and Other Stone Work
+193|238140.0|Masonry Contractors|1771.0|Concrete Work (stucco work)
+194|238150.0|Glass and Glazing Contractors|1793.0|Glass and Glazing Work
+195|238150.0|Glass and Glazing Contractors|1799.0|Special Trade Contractors, NEC (glass tinting work)
+196|238160.0|Roofing Contractors|1761.0|Roofing, Siding, and Sheet Metal Work (roofing contractors)
+197|238170.0|Siding Contractors|1761.0|Roofing, Siding, and Sheet Metal Work (siding contractors)
+198|238190.0|Other Foundation, Structure, and Building Exterior Contractors|1791.0|Structural Steel Erection (curtain wall installation and metal furring installation)
+199|238190.0|Other Foundation, Structure, and Building Exterior Contractors|1799.0|Special Trade Contractors, NEC (forming contractors and ornamental metal work contractors)
+200|238210.0|Electrical Contractors|1711.0|Plumbing, Heating, and Air-Conditioning (environmental control installation contractors)
+201|238210.0|Electrical Contractors|1731.0|Electrical Work (electrical work except burglar and fire alarm installation)
+202|238220.0|Plumbing, Heating, and Air-Conditioning Contractors|1711.0|Plumbing, Heating, and Air-Conditioning (except environmental controls installation; and septic tank, cesspool, and dry well construction)
+203|238220.0|Plumbing, Heating, and Air-Conditioning Contractors|1791.0|Structural Steel Erection (cooling tower installation)
+204|238220.0|Plumbing, Heating, and Air-Conditioning Contractors|1796.0|Installation or Erection of Building Equipment, NEC (scrubber, dust collection, and other industrial ventilation installation)
+205|238220.0|Plumbing, Heating, and Air-Conditioning Contractors|7699.0|Repair Shops and Related Services, NEC (boiler cleaning, chipping, and scaling)
+206|238290.0|Other Building Equipment Contractors|1796.0|Installation or Erection of Building Equipment, NEC (installation of equipment not elsewhere specified such as central vacuum cleaning systems and dumb waiters)
+207|238290.0|Other Building Equipment Contractors|1799.0|Special Trade Contractors, NEC (building equipment installation contractors for service station equipment; boiler, duct, and pipe insulation; lightning rod installation; bowling alley equipment installation; church bell installation; and clock tower installation)
+208|238290.0|Other Building Equipment Contractors|7622.0|Radio and Television Repair Shops (household antenna installation and household-type satellite dish installation)
+209|238310.0|Drywall and Insulation Contractors|1742.0|Plastering, Drywall, Acoustical, and Insulation Work
+210|238310.0|Drywall and Insulation Contractors|1743.0|Terrazzo, Tile, Marble, and Mosaic Work (fresco work)
+211|238320.0|Paint and Wall Covering Contractors|1721.0|Painting and Paper Hanging
+212|238320.0|Paint and Wall Covering Contractors|1799.0|Special Trade Contractors, NEC (paint and wallpaper stripping and removing contractors)
+213|238330.0|Flooring Contractors|1752.0|Floor Laying and Other Floor Work, NEC 
+214|238340.0|Tile and Terrazzo Contractors|1743.0|Terrazzo, Tile, Marble, and Mosaic Work (except fresco work)
+215|238350.0|Finish Carpentry Contractors|1751.0|Carpentry Work (finish carpentry)
+216|238350.0|Finish Carpentry Contractors|1799.0|Special Trade Contractors, NEC (countertop, residential-type, installation)
+217|238390.0|Other Building Finishing Contractors|1761.0|Roofing, Siding, and Sheet Metal Work (except roofing and siding work)
+218|238390.0|Other Building Finishing Contractors|1799.0|Special Trade Contractors, NEC (building finishing contractors for weather stripping and damp proofing, window covering fixture installation, bathtub refinishing, modular furniture installation, trade show exhibit installation and removal, and spectator seating installation) )
+219|238910.0|Site Preparation Contractors|1081.0|Metal Mining Services (site preparation and related construction activities on a contract basis)
+220|238910.0|Site Preparation Contractors|1241.0|Coal Mining Services (site preparation and related construction activities on a contract basis)
+221|238910.0|Site Preparation Contractors|1389.0|Oil and Gas Field Services, NEC (site preparation and related construction activities on a contract basis)
+222|238910.0|Site Preparation Contractors|1481.0|Nonmetallic Minerals Services, Except Fuels (site preparation and related construction activities on a contract basis)
+223|238910.0|Site Preparation Contractors|1629.0|Heavy Construction, NEC (right-of-way clearing and line slashing, blasting, and trenching)
+224|238910.0|Site Preparation Contractors|1711.0|Plumbing, Heating, and Air-Conditioning (septic tank, cesspool, and dry well construction contractors)
+225|238910.0|Site Preparation Contractors|1794.0|Excavation Work
+226|238910.0|Site Preparation Contractors|1795.0|Wrecking and Demolition Work
+227|238910.0|Site Preparation Contractors|1799.0|Special Trade Contractors, NEC (dewatering contractors, test drilling for construction, and core drilling for construction)
+228|238910.0|Site Preparation Contractors|7353.0|Heavy Construction Equipment Rental and Leasing (rental of construction equipment [except cranes] with operator)
+229|238990.0|All Other Specialty Trade Contractors|1771.0|Concrete Work (asphalt, brick, and concrete paving)
+230|238990.0|All Other Specialty Trade Contractors|1799.0|Special Trade Contractors, NEC (except indoor swimming pool contractors; anchored earth retention contractors; glass tinting work; forming contractors; ornamental metal work contractors; lightning rod installation contractors; paint and wall paper removal contractors; countertop, residential-type, installation; miscellaneous residential building finishing contractors; dewatering contractors; test drilling for construction; and core drilling for construction)
+231|238990.0|All Other Specialty Trade Contractors|7353.0|Heavy Construction Equipment Rental and Leasing (crane rental with operator)
+232|311111.0|Dog and Cat Food Manufacturing|2047.0|Dog and Cat Food
+233|311119.0|Other Animal Food Manufacturing|723.0|Crop Preparation Services for Market, Except Cotton Ginning (custom grain grinding)
+234|311119.0|Other Animal Food Manufacturing|2048.0|Prepared Feeds and Feed Ingredients for Animals and Fowls, Except Dogs and Cats (except slaughtering animals for pet food)
+235|311211.0|Flour Milling|2034.0|Dried and Dehydrated Fruits, Vegetables and Soup Mixes (vegetable flour)
+236|311211.0|Flour Milling|2041.0|Flour and Other Grain Mill Products
+237|311212.0|Rice Milling|2044.0|Rice Milling
+238|311212.0|Rice Milling|2099.0|Food Preparations, NEC (rice, uncooked and packaged with other ingredients made in rice mills)
+239|311213.0|Malt Manufacturing|2083.0|Malt
+240|311221.0|Wet Corn Milling|2046.0|Wet Corn Milling (except refining purchased corn oil)
+241|311222.0|Soybean Processing|2075.0|Soybean Oil Mills (soybean processing, except edible soybean oil)
+242|311222.0|Soybean Processing|2079.0|Shortening, Table Oils, Margarine, and Other Edible Fats and Oils, NEC (processing soybean oil into edible cooking oils from soybeans crushed in the same establishment)
+243|311223.0|Other Oilseed Processing|2074.0|Cottonseed Oil Mills (cottonseed processing)
+244|311223.0|Other Oilseed Processing|2076.0|Vegetable Oil Mills, Except Corn, Cottonseed, and Soybean (oilseed processing)
+245|311223.0|Other Oilseed Processing|2079.0|Shortening, Table Oils, Margarine and Other Edible Fats and Oils, NEC (processing vegetable oils, except soybean, into edible cooking oils from oilseeds and vegetables crushed in the same establishment)
+246|311225.0|Fats and Oils Refining and Blending|2046.0|Wet Corn Milling (refining purchased corn oil)
+247|311225.0|Fats and Oils Refining and Blending|2074.0|Cottonseed Oil Mills (processing purchased cottonseed oil)
+248|311225.0|Fats and Oils Refining and Blending|2075.0|Soybean Oil Mills (processing purchased soybean oil)
+249|311225.0|Fats and Oils Refining and Blending|2076.0|Vegetable Oil Mills, Except Corn, Cottonseed, and Soybean (processing purchased vegetable and oilseed oils)
+250|311225.0|Fats and Oils Refining and Blending|2079.0|Shortening, Table Oils, Margarine, and Other Edible Fats and Oils, NEC (except processing vegetable and soybean oils into edible oils from oilseeds and vegetables crushed in the same establishment)
+251|311230.0|Breakfast Cereal Manufacturing|2043.0|Cereal Breakfast Foods (cereal breakfast foods and related preparations except grain based coffee substitutes)
+252|311311.0|Sugarcane Mills|2061.0|Cane Sugar, Except Refining
+253|311312.0|Cane Sugar Refining|2062.0|Cane Sugar Refining
+254|311313.0|Beet Sugar Manufacturing|2063.0|Beet Sugar
+255|311320.0|Chocolate and Confectionery Manufacturing from  Cacao Beans|2066.0|Chocolate and Cocoa Products (except chocolate products, made from purchased chocolate)
+256|311330.0|Confectionery Manufacturing from Purchased  Chocolate |2064.0|Candy and Other Confectionery Products (chocolate confectionery)
+257|311330.0|Confectionery Manufacturing from Purchased  Chocolate |2066.0|Chocolate and Cocoa Products (chocolate products made from purchased chocolate)
+258|311330.0|Confectionery Manufacturing from Purchased  Chocolate |5441.0|Candy, Nut, and Confectionery Stores (chocolate candy stores, preparing on premises)
+259|311340.0|Nonchocolate Confectionery Manufacturing|2064.0|Candy and Other Confectionery Products (nonchocolate confectionery )
+260|311340.0|Nonchocolate Confectionery Manufacturing|2067.0|Chewing Gum
+261|311340.0|Nonchocolate Confectionery Manufacturing|2099.0|Food Preparations, NEC (marshmallow creme)
+262|311340.0|Nonchocolate Confectionery Manufacturing|5441.0|Candy, Nut, and Confectionery Stores (nonchocolate candy stores, preparing on premises)
+263|311411.0|Frozen Fruit, Juice, and Vegetable Manufacturing|2037.0|Frozen Fruits, Fruit Juices, and Vegetables
+264|311412.0|Frozen Specialty Food Manufacturing|2038.0|Frozen Specialties, NEC
+265|311421.0|Fruit and Vegetable Canning|2033.0|Canned Fruits, Vegetables, Preserves, Jams, and Jellies
+266|311421.0|Fruit and Vegetable Canning|2035.0|Pickled Fruits and Vegetables, Vegetable Sauces and Seasonings, and Salad Dressings (pickled fruits and vegetables)
+267|311422.0|Specialty Canning|2032.0|Canned Specialties (except canned puddings)
+268|311423.0|Dried and Dehydrated Food Manufacturing|2034.0|Dried and Dehydrated Fruits, Vegetables and Soup Mixes (except vegetable flour and soup mixes made from purchased dried and dehydrated ingredients)
+269|311423.0|Dried and Dehydrated Food Manufacturing|2099.0|Food Preparations, NEC (bouillon and potatoes dried and packaged with other ingredients produced in dehydrating plants)
+270|311511.0|Fluid Milk Manufacturing|2023.0|Dry, Condensed and Evaporated Dairy Products (liquid non-dairy creamer)
+271|311511.0|Fluid Milk Manufacturing|2026.0|Fluid Milk (except ultra-high temperature)
+272|311512.0|Creamery Butter Manufacturing|2021.0|Creamery Butter
+273|311513.0|Cheese Manufacturing|2022.0|Natural, Processed, and Imitation Cheese
+274|311514.0|Dry, Condensed, and Evaporated Dairy Product Manufacturing|2023.0|Dry, Condensed and Evaporated Dairy Products (except liquid non-dairy creamer)
+275|311514.0|Dry, Condensed, and Evaporated Dairy Product Manufacturing|2026.0|Fluid Milk (ultra-high temperature)
+276|311520.0|Ice Cream and Frozen Dessert Manufacturing|2024.0|Ice Cream and Frozen Desserts
+277|311611.0|Animal (except Poultry) Slaughtering|751.0|Livestock Services, Except Veterinary (custom slaughtering)
+278|311611.0|Animal (except Poultry) Slaughtering|2011.0|Meat Packing Plants
+279|311611.0|Animal (except Poultry) Slaughtering|2048.0|Prepared Feeds and Feed Ingredients for Animals and Fowls, Except Dogs and Cats (slaughtering animals for pet food)
+280|311612.0|Meat Processed from Carcasses |2013.0|Sausages and Other Prepared Meat Products (except lard made from purchased materials)
+281|311612.0|Meat Processed from Carcasses |5147.0|Meats and Meat Products (boxed beef)
+282|311613.0|Rendering and Meat Byproduct Processing|2013.0|Sausages and Other Prepared Meat Products (lard made from purchased materials)
+283|311613.0|Rendering and Meat Byproduct Processing|2077.0|Animal and Marine Fats and Oils (animal fats and oils)
+284|311615.0|Poultry Processing|2015.0|Poultry Slaughtering and Processing (poultry slaughtering and processing)
+285|311711.0|Seafood Canning|2077.0|Animal and Marine Fats and Oils (canned marine fats and oils)
+286|311711.0|Seafood Canning|2091.0|Canned and Cured Fish and Seafoods
+287|311712.0|Fresh and Frozen Seafood Processing|2077.0|Animal and Marine Fats and Oils (fresh and frozen marine fats and oils)
+288|311712.0|Fresh and Frozen Seafood Processing|2092.0|Prepared Fresh or Frozen Fish and Seafoods
+289|311811.0|Retail Bakeries|5461.0|Retail Bakeries (bread, cake and related products baked and sold on premise)
+290|311812.0|Commercial Bakeries|2051.0|Bread and Other Bakery Products, Except Cookies and Crackers
+291|311812.0|Commercial Bakeries|2052.0|Cookies and Crackers (unleavened bread and soft pretzels)
+292|311813.0|Frozen Cakes, Pies, and Other Pastries Manufacturing|2053.0|Frozen Bakery Products, Except Bread
+293|311821.0|Cookie and Cracker Manufacturing|2052.0|Cookies and Crackers (except unleavened bread and pretzels)
+294|311822.0|Flour Mixes and Dough Manufacturing from Purchased Flour|2045.0|Prepared Flour Mixes and Doughs
+295|311823.0|Dry Pasta Manufacturing |2098.0|Macaroni, Spaghetti, Vermicelli and Noodles
+296|311823.0|Dry Pasta Manufacturing |2099.0|Food Preparations, NEC (dry pasta packaged with other ingredients made in dry pasta plants)
+297|311830.0|Tortilla Manufacturing |2099.0|Food Preparations, NEC (tortillas)
+298|311911.0|Roasted Nuts and Peanut Butter Manufacturing|2068.0|Salted and Roasted Nuts and Seeds
+299|311911.0|Roasted Nuts and Peanut Butter Manufacturing|2099.0|Food Preparations, NEC (peanut butter)
+300|311919.0|Other Snack Food Manufacturing|2052.0|Cookies and Crackers (hard pretzels and snack pretzels, except soft)
+301|311919.0|Other Snack Food Manufacturing|2096.0|Potato Chips, Corn Chips, and Similar Snacks
+302|311920.0|Coffee and Tea Manufacturing|2043.0|Cereal Breakfast Foods (grain based coffee substitutes)
+303|311920.0|Coffee and Tea Manufacturing|2087.0|Flavoring Extracts and Flavoring Syrups, NEC (coffee flavoring and syrups)
+304|311920.0|Coffee and Tea Manufacturing|2095.0|Roasted Coffee
+305|311920.0|Coffee and Tea Manufacturing|2099.0|Food Preparations, NEC (tea)
+306|311930.0|Flavoring Syrup and Concentrate Manufacturing|2087.0|Flavoring Extracts and Flavoring Syrups, NEC  (flavoring syrups and concentrates except coffee)
+307|311941.0|Mayonnaise, Dressing, and Other Prepared Sauce Manufacturing|2035.0|Pickled Fruits and Vegetables, Vegetable Sauces and Seasonings, and Salad Dressings (sauces and salad dressings)
+308|311941.0|Mayonnaise, Dressing, and Other Prepared Sauce Manufacturing|2099.0|Food Preparations, NEC (vinegar, prepared dip)
+309|311942.0|Spice and Extract Manufacturing|2082.0|Malt Beverages (malt extract)
+310|311942.0|Spice and Extract Manufacturing|2087.0|Flavoring Extracts and Flavoring Syrups, NEC (flavoring extracts and natural food colorings)
+311|311942.0|Spice and Extract Manufacturing|2099.0|Food Preparations, NEC (spices, dry dip mix, dry salad dressing mix, and seasoning mix)
+312|311942.0|Spice and Extract Manufacturing|2899.0|Chemicals and Chemical Preparations, NEC (table salt)
+313|311991.0|Perishable Prepared Food Manufacturing|2099.0|Food Preparations, NEC (perishable prepared food)
+314|311999.0|All Other Miscellaneous Food Manufacturing|2015.0|Poultry Slaughtering and Processing (egg processing)
+315|311999.0|All Other Miscellaneous Food Manufacturing|2032.0|Canned Specialties (canned puddings)
+316|311999.0|All Other Miscellaneous Food Manufacturing|2034.0|Dried and Dehydrated Fruits, Vegetables, and Soup Mixes (soup mixes made from purchased dehydrated ingredients)
+317|311999.0|All Other Miscellaneous Food Manufacturing|2087.0|Flavoring Extracts and Flavoring Syrups, NEC (powered drink mix)
+318|311999.0|All Other Miscellaneous Food Manufacturing|2099.0|Food Preparations, NEC (except bouillon, marshmallow creme, spices, peanut butter, perishable prepared foods, tortillas, tea and tea extracts, dry dip mix, prepared dips, dry salad dressing mix, seasoning mix, dried potatoes, pasta, and rice mixed with other ingredients in mills or dehydrating plants, reducing maple sap to maple syrup, wool grease, and vinegar)
+319|312111.0|Soft Drink Manufacturing|2086.0|Bottled and Canned Soft Drinks and Carbonated Water (except bottled water)
+320|312112.0|Bottled Water Manufacturing|2086.0|Bottled and Canned Soft Drinks and Carbonated Water (bottled water)
+321|312112.0|Bottled Water Manufacturing|5149.0|Groceries and Related Products, NEC (processed bottled water manufacturing) 
+322|312113.0|Ice Manufacturing|2097.0|Manufactured Ice
+323|312120.0|Breweries|2082.0|Malt Beverages (except malt extract)
+324|312130.0|Wineries|2084.0|Wines, Brandy, and Brandy Spirits
+325|312130.0|Wineries|2085.0|Distilled and Blended Liquors (apple jack)
+326|312140.0|Distilleries|2085.0|Distilled and Blended Liquors (except apple jack)
+327|312210.0|Tobacco Stemming and Redrying|2141.0|Tobacco Stemming and Redrying (stemming and redrying tobacco)
+328|312221.0|Cigarette Manufacturing|2111.0|Cigarettes
+329|312229.0|Other Tobacco Product Manufacturing|2121.0|Cigars
+330|312229.0|Other Tobacco Product Manufacturing|2131.0|Chewing and Smoking Tobacco and Snuff
+331|312229.0|Other Tobacco Product Manufacturing|2141.0|Tobacco Stemming and Redrying (reconstituted tobacco)
+332|312229.0|Other Tobacco Product Manufacturing|7389.0|Business Services, NEC (tobacco sheeting service)
+333|313111.0|Yarn Spinning Mills|2281.0|Yarn Spinning Mills
+334|313111.0|Yarn Spinning Mills|2298.0|Cordage and Twine (hemp rope made in spinning mills)
+335|313111.0|Yarn Spinning Mills|2299.0|Textile Goods, NEC (hemp bags made in spinning mills)
+336|313111.0|Yarn Spinning Mills|2299.0|Textile Goods, NEC (spinning yarn of flax, hemp, jute, and ramie)
+337|313112.0|Yarn Texturing, Throwing, and Twisting Mills|2282.0|Yarn Texturizing, Throwing, Twisting and Winding Mills 
+338|313113.0|Thread Mills|2284.0|Thread Mills (except finishing thread without manufacturing thread)
+339|313113.0|Thread Mills|2299.0|Textile Goods, NEC (manufacturing thread of hemp, linen, and ramie)
+340|313210.0|Broadwoven Fabric Mills|2211.0|Broadwoven Fabric Mills, Cotton
+341|313210.0|Broadwoven Fabric Mills|2221.0|Broadwoven Fabric Mills, Manmade Fiber and Silk
+342|313210.0|Broadwoven Fabric Mills|2231.0|Broadwoven Fabric Mills, Wool (Including Dyeing and Finishing) (except finishing wool fabric without weaving wool fabric)
+343|313210.0|Broadwoven Fabric Mills|2299.0|Textile Goods, NEC (broadwoven fabrics of jute, linen, hemp, and ramie and hand woven fabrics)
+344|313221.0|Narrow Fabric Mills|2241.0|Narrow Fabric and Other Smallware Mills: Cotton, Wool, Silk and Manmade Fiber
+345|313221.0|Narrow Fabric Mills|2299.0|Textile Goods, NEC (narrow woven fabric of jute, linen, hemp, and ramie)
+346|313222.0|Schiffli Machine Embroidery|2397.0|Schiffli Machine Embroideries
+347|313230.0|Nonwoven Fabric Mills|2297.0|Nonwoven Fabrics
+348|313230.0|Nonwoven Fabric Mills|2299.0|Textile Goods, NEC (nonwoven felt)
+349|313241.0|Weft Knit Fabric Mills|2257.0|Weft Knit Fabric Mills (except finishing without knitting weft fabric)
+350|313241.0|Weft Knit Fabric Mills|2259.0|Knitting Mills, NEC (knitting weft fabric and fabricating textile products, such as bedspreads, curtains, or towels)
+351|313249.0|Other Knit Fabric and Lace Mills|2258.0|Lace and Warp Knit Fabric Mills (except finishing lace or warp fabric without knitting lace or warp fabric)
+352|313249.0|Other Knit Fabric and Lace Mills|2259.0|Knitting Mills, NEC (knitting lace or warp fabric and fabricating textile products, such as bedspreads, curtains, or towels)
+353|313311.0|Broadwoven Fabric Finishing Mills|2231.0|Broadwoven Fabric Mills, Wool (wool broadwoven fabric finishing without weaving fabric)
+354|313311.0|Broadwoven Fabric Finishing Mills|2261.0|Finishers of Broadwoven Fabrics of Cotton
+355|313311.0|Broadwoven Fabric Finishing Mills|2262.0|Finishers of Broadwoven Fabrics of Manmade Fiber and Silk
+356|313311.0|Broadwoven Fabric Finishing Mills|2269.0|Finishers of Textiles, NEC (linen fabric finishing)
+357|313311.0|Broadwoven Fabric Finishing Mills|5131.0|Piece Goods, Notions, and Other Dry Goods (broadwoven converters)
+358|313311.0|Broadwoven Fabric Finishing Mills|7389.0|Business Services, NEC (sponging, shrinking, etc. fabric for tailors and dress makers, batik work)
+359|313312.0|Textile and Fabric Finishing (except Broadwoven Fabric) Mills|2231.0|Broadwoven Fabric Mills, Wool (wool fabric, except broadwoven, finishing without weaving fabric)

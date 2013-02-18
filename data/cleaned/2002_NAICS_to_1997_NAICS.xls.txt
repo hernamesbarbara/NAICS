@@ -1,0 +1,1356 @@
+|naics02|2002_naics_title|naics97|1997_naics_title|explanation_of_parts|filename|end|start
+0|111110.0|Soybean Farming|111110.0|Soybean Farming||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1|111120.0|Oilseed (except Soybean) Farming|111120.0|Oilseed (except Soybean) Farming||2002_NAICS_to_1997_NAICS.xls|1997|2002
+2|111130.0|Dry Pea and Bean Farming|111130.0|Dry Pea and Bean Farming||2002_NAICS_to_1997_NAICS.xls|1997|2002
+3|111140.0|Wheat Farming|111140.0|Wheat Farming||2002_NAICS_to_1997_NAICS.xls|1997|2002
+4|111150.0|Corn Farming|111150.0|Corn Farming||2002_NAICS_to_1997_NAICS.xls|1997|2002
+5|111160.0|Rice Farming|111160.0|Rice Farming||2002_NAICS_to_1997_NAICS.xls|1997|2002
+6|111191.0|Oilseed and Grain Combination Farming|111191.0|Oilseed and Grain Combination Farming||2002_NAICS_to_1997_NAICS.xls|1997|2002
+7|111199.0|All Other Grain Farming|111199.0|All Other Grain Farming||2002_NAICS_to_1997_NAICS.xls|1997|2002
+8|111211.0|Potato Farming|111211.0|Potato Farming||2002_NAICS_to_1997_NAICS.xls|1997|2002
+9|111219.0|Other Vegetable (except Potato) and Melon Farming|111219.0|Other Vegetable (except Potato) and Melon Farming||2002_NAICS_to_1997_NAICS.xls|1997|2002
+10|111310.0|Orange Groves|111310.0|Orange Groves||2002_NAICS_to_1997_NAICS.xls|1997|2002
+11|111320.0|Citrus (except Orange) Groves|111320.0|Citrus (except Orange) Groves||2002_NAICS_to_1997_NAICS.xls|1997|2002
+12|111331.0|Apple Orchards|111331.0|Apple Orchards||2002_NAICS_to_1997_NAICS.xls|1997|2002
+13|111332.0|Grape Vineyards|111332.0|Grape Vineyards||2002_NAICS_to_1997_NAICS.xls|1997|2002
+14|111333.0|Strawberry Farming|111333.0|Strawberry Farming||2002_NAICS_to_1997_NAICS.xls|1997|2002
+15|111334.0|Berry (except Strawberry) Farming|111334.0|Berry (except Strawberry) Farming||2002_NAICS_to_1997_NAICS.xls|1997|2002
+16|111335.0|Tree Nut Farming|111335.0|Tree Nut Farming||2002_NAICS_to_1997_NAICS.xls|1997|2002
+17|111336.0|Fruit and Tree Nut Combination Farming|111336.0|Fruit and Tree Nut Combination Farming||2002_NAICS_to_1997_NAICS.xls|1997|2002
+18|111339.0|Other Noncitrus Fruit Farming|111339.0|Other Noncitrus Fruit Farming||2002_NAICS_to_1997_NAICS.xls|1997|2002
+19|111411.0|Mushroom Production|111411.0|Mushroom Production||2002_NAICS_to_1997_NAICS.xls|1997|2002
+20|111419.0|Other Food Crops Grown Under Cover|111419.0|Other Food Crops Grown Under Cover||2002_NAICS_to_1997_NAICS.xls|1997|2002
+21|111421.0|Nursery and Tree Production|111421.0|Nursery and Tree Production||2002_NAICS_to_1997_NAICS.xls|1997|2002
+22|111422.0|Floriculture Production|111422.0|Floriculture Production||2002_NAICS_to_1997_NAICS.xls|1997|2002
+23|111910.0|Tobacco Farming|111910.0|Tobacco Farming||2002_NAICS_to_1997_NAICS.xls|1997|2002
+24|111920.0|Cotton Farming|111920.0|Cotton Farming||2002_NAICS_to_1997_NAICS.xls|1997|2002
+25|111930.0|Sugarcane Farming|111930.0|Sugarcane Farming||2002_NAICS_to_1997_NAICS.xls|1997|2002
+26|111940.0|Hay Farming|111940.0|Hay Farming||2002_NAICS_to_1997_NAICS.xls|1997|2002
+27|111991.0|Sugar Beet Farming|111991.0|Sugar Beet Farming||2002_NAICS_to_1997_NAICS.xls|1997|2002
+28|111992.0|Peanut Farming|111992.0|Peanut Farming||2002_NAICS_to_1997_NAICS.xls|1997|2002
+29|111998.0|All Other Miscellaneous Crop Farming|111998.0|All Other Miscellaneous Crop Farming||2002_NAICS_to_1997_NAICS.xls|1997|2002
+30|112111.0|Beef Cattle Ranching and Farming|112111.0|Beef Cattle Ranching and Farming||2002_NAICS_to_1997_NAICS.xls|1997|2002
+31|112112.0|Cattle Feedlots|112112.0|Cattle Feedlots||2002_NAICS_to_1997_NAICS.xls|1997|2002
+32|112120.0|Dairy Cattle and Milk Production|112120.0|Dairy Cattle and Milk Production||2002_NAICS_to_1997_NAICS.xls|1997|2002
+33|112130.0|Dual-Purpose Cattle Ranching and Farming|112130.0|Dual-Purpose Cattle Ranching and Farming||2002_NAICS_to_1997_NAICS.xls|1997|2002
+34|112210.0|Hog and Pig Farming|112210.0|Hog and Pig Farming||2002_NAICS_to_1997_NAICS.xls|1997|2002
+35|112310.0|Chicken Egg Production|112310.0|Chicken Egg Production||2002_NAICS_to_1997_NAICS.xls|1997|2002
+36|112320.0|Broilers and Other Meat Type Chicken Production|112320.0|Broilers and Other Meat Type Chicken Production||2002_NAICS_to_1997_NAICS.xls|1997|2002
+37|112330.0|Turkey Production|112330.0|Turkey Production||2002_NAICS_to_1997_NAICS.xls|1997|2002
+38|112340.0|Poultry Hatcheries|112340.0|Poultry Hatcheries||2002_NAICS_to_1997_NAICS.xls|1997|2002
+39|112390.0|Other Poultry Production|112390.0|Other Poultry Production||2002_NAICS_to_1997_NAICS.xls|1997|2002
+40|112410.0|Sheep Farming|112410.0|Sheep Farming||2002_NAICS_to_1997_NAICS.xls|1997|2002
+41|112420.0|Goat Farming|112420.0|Goat Farming||2002_NAICS_to_1997_NAICS.xls|1997|2002
+42|112511.0|Finfish Farming and Fish Hatcheries|112511.0|Finfish Farming and Fish Hatcheries||2002_NAICS_to_1997_NAICS.xls|1997|2002
+43|112512.0|Shellfish Farming|112512.0|Shellfish Farming||2002_NAICS_to_1997_NAICS.xls|1997|2002
+44|112519.0|Other Animal Aquaculture|112519.0|Other Animal Aquaculture||2002_NAICS_to_1997_NAICS.xls|1997|2002
+45|112910.0|Apiculture|112910.0|Apiculture||2002_NAICS_to_1997_NAICS.xls|1997|2002
+46|112920.0|Horses and Other Equine Production|112920.0|Horses and Other Equine Production||2002_NAICS_to_1997_NAICS.xls|1997|2002
+47|112930.0|Fur-Bearing Animal and Rabbit Production|112930.0|Fur-Bearing Animal and Rabbit Production||2002_NAICS_to_1997_NAICS.xls|1997|2002
+48|112990.0|All Other Animal Production|112990.0|All Other Animal Production||2002_NAICS_to_1997_NAICS.xls|1997|2002
+49|113110.0|Timber Tract Operations|113110.0|Timber Tract Operations||2002_NAICS_to_1997_NAICS.xls|1997|2002
+50|113210.0|Forest Nurseries and Gathering of Forest Products|113210.0|Forest Nurseries and Gathering of Forest Products||2002_NAICS_to_1997_NAICS.xls|1997|2002
+51|113310.0|Logging|113310.0|Logging||2002_NAICS_to_1997_NAICS.xls|1997|2002
+52|114111.0|Finfish Fishing|114111.0|Finfish Fishing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+53|114112.0|Shellfish Fishing|114112.0|Shellfish Fishing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+54|114119.0|Other Marine Fishing|114119.0|Other Marine Fishing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+55|114210.0|Hunting and Trapping|114210.0|Hunting and Trapping||2002_NAICS_to_1997_NAICS.xls|1997|2002
+56|115111.0|Cotton Ginning|115111.0|Cotton Ginning||2002_NAICS_to_1997_NAICS.xls|1997|2002
+57|115112.0|Soil Preparation, Planting, and Cultivating|115112.0|Soil Preparation, Planting, and Cultivating||2002_NAICS_to_1997_NAICS.xls|1997|2002
+58|115113.0|Crop Harvesting, Primarily by Machine|115113.0|Crop Harvesting, Primarily by Machine||2002_NAICS_to_1997_NAICS.xls|1997|2002
+59|115114.0|Postharvest Crop Activities (except Cotton Ginning)|115114.0|Postharvest Crop Activities (except Cotton Ginning)||2002_NAICS_to_1997_NAICS.xls|1997|2002
+60|115115.0|Farm Labor Contractors and Crew Leaders|115115.0|Farm Labor Contractors and Crew Leaders||2002_NAICS_to_1997_NAICS.xls|1997|2002
+61|115116.0|Farm Management Services|115116.0|Farm Management Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+62|115210.0|Support Activities for Animal Production|115210.0|Support Activities for Animal Production||2002_NAICS_to_1997_NAICS.xls|1997|2002
+63|115310.0|Support Activities for Forestry|115310.0|Support Activities for Forestry||2002_NAICS_to_1997_NAICS.xls|1997|2002
+64|211111.0|Crude Petroleum and Natural Gas Extraction|211111.0|Crude Petroleum and Natural Gas Extraction||2002_NAICS_to_1997_NAICS.xls|1997|2002
+65|211112.0|Natural Gas Liquid Extraction|211112.0|Natural Gas Liquid Extraction||2002_NAICS_to_1997_NAICS.xls|1997|2002
+66|212111.0|Bituminous Coal and Lignite Surface Mining|212111.0|Bituminous Coal and Lignite Surface Mining||2002_NAICS_to_1997_NAICS.xls|1997|2002
+67|212112.0|Bituminous Coal Underground Mining|212112.0|Bituminous Coal Underground Mining||2002_NAICS_to_1997_NAICS.xls|1997|2002
+68|212113.0|Anthracite Mining|212113.0|Anthracite Mining||2002_NAICS_to_1997_NAICS.xls|1997|2002
+69|212210.0|Iron Ore Mining|212210.0|Iron Ore Mining||2002_NAICS_to_1997_NAICS.xls|1997|2002
+70|212221.0|Gold Ore Mining|212221.0|Gold Ore Mining||2002_NAICS_to_1997_NAICS.xls|1997|2002
+71|212222.0|Silver Ore Mining|212222.0|Silver Ore Mining||2002_NAICS_to_1997_NAICS.xls|1997|2002
+72|212231.0|Lead Ore and Zinc Ore Mining|212231.0|Lead Ore and Zinc Ore Mining||2002_NAICS_to_1997_NAICS.xls|1997|2002
+73|212234.0|Copper Ore and Nickel Ore Mining|212234.0|Copper Ore and Nickel Ore Mining||2002_NAICS_to_1997_NAICS.xls|1997|2002
+74|212291.0|Uranium-Radium-Vanadium Ore Mining|212291.0|Uranium-Radium-Vanadium Ore Mining||2002_NAICS_to_1997_NAICS.xls|1997|2002
+75|212299.0|All Other Metal Ore Mining|212299.0|All Other Metal Ore Mining||2002_NAICS_to_1997_NAICS.xls|1997|2002
+76|212311.0|Dimension Stone Mining and Quarrying|212311.0|Dimension Stone Mining and Quarrying||2002_NAICS_to_1997_NAICS.xls|1997|2002
+77|212312.0|Crushed and Broken Limestone Mining and Quarrying|212312.0|Crushed and Broken Limestone Mining and Quarrying||2002_NAICS_to_1997_NAICS.xls|1997|2002
+78|212313.0|Crushed and Broken Granite Mining and Quarrying|212313.0|Crushed and Broken Granite Mining and Quarrying||2002_NAICS_to_1997_NAICS.xls|1997|2002
+79|212319.0|Other Crushed and Broken Stone Mining and Quarrying|212319.0|Other Crushed and Broken Stone Mining and Quarrying||2002_NAICS_to_1997_NAICS.xls|1997|2002
+80|212321.0|Construction Sand and Gravel Mining|212321.0|Construction Sand and Gravel Mining||2002_NAICS_to_1997_NAICS.xls|1997|2002
+81|212322.0|Industrial Sand Mining|212322.0|Industrial Sand Mining||2002_NAICS_to_1997_NAICS.xls|1997|2002
+82|212324.0|Kaolin and Ball Clay Mining|212324.0|Kaolin and Ball Clay Mining||2002_NAICS_to_1997_NAICS.xls|1997|2002
+83|212325.0|Clay and Ceramic and Refractory Minerals Mining|212325.0|Clay and Ceramic and Refractory Minerals Mining||2002_NAICS_to_1997_NAICS.xls|1997|2002
+84|212391.0|Potash, Soda, and Borate Mineral Mining|212391.0|Potash, Soda, and Borate Mineral Mining||2002_NAICS_to_1997_NAICS.xls|1997|2002
+85|212392.0|Phosphate Rock Mining|212392.0|Phosphate Rock Mining||2002_NAICS_to_1997_NAICS.xls|1997|2002
+86|212393.0|Other Chemical and Fertilizer Mineral Mining|212393.0|Other Chemical and Fertilizer Mineral Mining||2002_NAICS_to_1997_NAICS.xls|1997|2002
+87|212399.0|All Other Nonmetallic Mineral Mining|212399.0|All Other Nonmetallic Mineral Mining||2002_NAICS_to_1997_NAICS.xls|1997|2002
+88|213111.0|Drilling Oil and Gas Wells|213111.0|Drilling Oil and Gas Wells||2002_NAICS_to_1997_NAICS.xls|1997|2002
+89|213112.0|Support Activities for Oil and Gas Operations|213112.0|Support Activities for Oil and Gas Operations|Support Activities For Oil and Gas Operations Except Site Preparation and Related Construction Activities|2002_NAICS_to_1997_NAICS.xls|1997|2002
+90|213113.0|Support Activities for Coal Mining|213113.0|Support Activities for Coal Mining |Support Activities For Coal Mining Except Site Preparation and Related Construction Activities|2002_NAICS_to_1997_NAICS.xls|1997|2002
+91|213114.0|Support Activities for Metal Mining |213114.0|Support Activities for Metal Mining|Support Activities For Metal Mining Except Site Preparation and Related Construction Activities|2002_NAICS_to_1997_NAICS.xls|1997|2002
+92|213115.0|Support Activities for Nonmetallic Minerals (except Fuels) Mining|213115.0|Support Activities for Nonmetallic Minerals (except Fuels) |Support Activities For Nonmetallic Mineral (Except Fuel) Mining Except Site Preparation and Related Construction Activities|2002_NAICS_to_1997_NAICS.xls|1997|2002
+93|221111.0|Hydroelectric Power Generation|221111.0|Hydroelectric Power Generation||2002_NAICS_to_1997_NAICS.xls|1997|2002
+94|221112.0|Fossil Fuel Electric Power Generation|221112.0|Fossil Fuel Electric Power Generation||2002_NAICS_to_1997_NAICS.xls|1997|2002
+95|221113.0|Nuclear Electric Power Generation|221113.0|Nuclear Electric Power Generation||2002_NAICS_to_1997_NAICS.xls|1997|2002
+96|221119.0|Other Electric Power Generation|221119.0|Other Electric Power Generation||2002_NAICS_to_1997_NAICS.xls|1997|2002
+97|221121.0|Electric Bulk Power Transmission and Control|221121.0|Electric Bulk Power Transmission and Control||2002_NAICS_to_1997_NAICS.xls|1997|2002
+98|221122.0|Electric Power Distribution|221122.0|Electric Power Distribution||2002_NAICS_to_1997_NAICS.xls|1997|2002
+99|221210.0|Natural Gas Distribution|221210.0|Natural Gas Distribution||2002_NAICS_to_1997_NAICS.xls|1997|2002
+100|221310.0|Water Supply and Irrigation Systems|221310.0|Water Supply and Irrigation Systems||2002_NAICS_to_1997_NAICS.xls|1997|2002
+101|221320.0|Sewage Treatment Facilities|221320.0|Sewage Treatment Facilities||2002_NAICS_to_1997_NAICS.xls|1997|2002
+102|221330.0|Steam and Air-Conditioning Supply|221330.0|Steam and Air-Conditioning Supply||2002_NAICS_to_1997_NAICS.xls|1997|2002
+103|236115.0|New Single-Family Housing Construction (except Operative Builders)|233210.0|Single Family Housing Construction|General Contractors|2002_NAICS_to_1997_NAICS.xls|1997|2002
+104|236116.0|New Multifamily Housing Construction (except Operative Builders)|233220.0|Multifamily Housing Construction|General Contractors|2002_NAICS_to_1997_NAICS.xls|1997|2002
+105|236117.0|New Housing Operative Builders (pt)|233210.0|Single Family Housing Construction|Operative Builders|2002_NAICS_to_1997_NAICS.xls|1997|2002
+106|236117.0|New Housing Operative Builders (pt)|233220.0|Multifamily Housing Construction|Operative Builders|2002_NAICS_to_1997_NAICS.xls|1997|2002
+107|236118.0|Residential Remodelers (pt)|233210.0|Single Family Housing Construction|Remodeling Contractors|2002_NAICS_to_1997_NAICS.xls|1997|2002
+108|236118.0|Residential Remodelers (pt)|233220.0|Multifamily Housing Construction|Remodeling Contractors|2002_NAICS_to_1997_NAICS.xls|1997|2002
+109|236210.0|Industrial Building Construction (pt)|233310.0|Manufacturing and Industrial Building Construction|Except Grain Elevators, Dry Cleaning Plants, and Manufacturing and Industrial Warehouses|2002_NAICS_to_1997_NAICS.xls|1997|2002
+110|236210.0|Industrial Building Construction (pt)|234930.0|Industrial Nonbuilding Structure Construction|Process Batch Plants, Incinerators, Industrial Furnaces and Kilns, Mining Appurtenance, and Construction Management of these Projects|2002_NAICS_to_1997_NAICS.xls|1997|2002
+111|236210.0|Industrial Building Construction (pt)|234990.0|All Other Heavy Construction |Waste Disposal Plant Construction|2002_NAICS_to_1997_NAICS.xls|1997|2002
+112|236220.0|Commercial and Institutional Building Construction (pt)|233220.0|Multifamily Housing Construction|Barrack and Dormitory Construction|2002_NAICS_to_1997_NAICS.xls|1997|2002
+113|236220.0|Commercial and Institutional Building Construction (pt)|233310.0|Manufacturing and Industrial Building Construction|Grain Elevators, Dry Cleaning Plants, and Manufacturing and Industrial Warehouses|2002_NAICS_to_1997_NAICS.xls|1997|2002
+114|236220.0|Commercial and Institutional Building Construction (pt)|233320.0|Commercial and Institutional Building Construction||2002_NAICS_to_1997_NAICS.xls|1997|2002
+115|236220.0|Commercial and Institutional Building Construction (pt)|235990.0|All Other Special Trade Contractors|Indoor Swimming Pool Contractors|2002_NAICS_to_1997_NAICS.xls|1997|2002
+116|237110.0|Water and Sewer Line and Related Structures Construction (pt)|234910.0|Water, Sewer, and Pipeline Construction|Water/Sewer Pumping Stations, Sewage Collection and Disposal Lines, Storm Sewers, Sewer/Water Mains and Lines, and Water Storage Tanks and Towers, and Construction Management of these Projects|2002_NAICS_to_1997_NAICS.xls|1997|2002
+117|237110.0|Water and Sewer Line and Related Structures Construction (pt)|234990.0|All Other Heavy Construction |Irrigation Systems, Sewage Treatment and Water Treatment Plants, Construction Management of these Projects|2002_NAICS_to_1997_NAICS.xls|1997|2002
+118|237110.0|Water and Sewer Line and Related Structures Construction (pt)|235810.0|Water Well Drilling Contractors||2002_NAICS_to_1997_NAICS.xls|1997|2002
+119|237120.0|Oil and Gas Pipeline and Related Structures Construction (pt)|213112.0|Support Activities for Oil and Gas Operations|Construction of Field Gathering Lines On A Contract Basis|2002_NAICS_to_1997_NAICS.xls|1997|2002
+120|237120.0|Oil and Gas Pipeline and Related Structures Construction (pt)|234910.0|Water, Sewer, and Pipeline Construction|Gas and Oil Pumping Stations, Gas and Oil Pipeline Construction, Gas Mains, Gas and Oil Storage Tank Construction, and Construction Management of these Projects|2002_NAICS_to_1997_NAICS.xls|1997|2002
+121|237120.0|Oil and Gas Pipeline and Related Structures Construction (pt)|234930.0|Industrial Nonbuilding Structure Construction|Petrochemical Plants, Refineries, and Construction Management of these Projects|2002_NAICS_to_1997_NAICS.xls|1997|2002
+122|237130.0|Power and Communication Line and Related Structures Construction (pt)|234920.0|Power and Communication Transmission Line Construction||2002_NAICS_to_1997_NAICS.xls|1997|2002
+123|237130.0|Power and Communication Line and Related Structures Construction (pt)|234930.0|Industrial Nonbuilding Structure Construction|Power Generation Plants (excluding Hydroelectric Dams),  Transmission and Distribution Transformer Stations, and Construction Management of these Projects|2002_NAICS_to_1997_NAICS.xls|1997|2002
+124|237210.0|Land Subdivision|233110.0|Land Subdivision and Land Development||2002_NAICS_to_1997_NAICS.xls|1997|2002
+125|237310.0|Highway, Street, and Bridge Construction (pt)|234110.0|Highway and Street Construction||2002_NAICS_to_1997_NAICS.xls|1997|2002
+126|237310.0|Highway, Street, and Bridge Construction (pt)|234120.0|Bridge and Tunnel Construction |Bridge Construction|2002_NAICS_to_1997_NAICS.xls|1997|2002
+127|237310.0|Highway, Street, and Bridge Construction (pt)|235210.0|Painting and Wall Covering Contractors|Highway and Traffic Line Painting|2002_NAICS_to_1997_NAICS.xls|1997|2002
+128|237990.0|Other Heavy and Civil Engineering Construction (pt)|234120.0|Bridge and Tunnel Construction |Tunnel Construction|2002_NAICS_to_1997_NAICS.xls|1997|2002
+129|237990.0|Other Heavy and Civil Engineering Construction (pt)|234990.0|All Other Heavy Construction |Except Waste Disposal Plant Construction, Irrigation Systems, Sewage Treatment and Water Treatment Plants, Right-of-Way Clearing and Line Slashing, Blasting, Trenching, and Equipment Rental with Operator|2002_NAICS_to_1997_NAICS.xls|1997|2002
+130|237990.0|Other Heavy and Civil Engineering Construction (pt)|235990.0|All Other Special Trade Contractors|Anchored Earth Retention Contractors|2002_NAICS_to_1997_NAICS.xls|1997|2002
+131|238110.0|Poured Concrete Foundation and Structure Contractors|235710.0|Concrete Contractors|Except Residential and Commercial Asphalt, Brick, and Concrete Paving|2002_NAICS_to_1997_NAICS.xls|1997|2002
+132|238120.0|Structural Steel and Precast Concrete Contractors|235910.0|Structural Steel Erection Contractors|Except Curtain Walls, Metal Furring Installation, and Cooling Tower Installation|2002_NAICS_to_1997_NAICS.xls|1997|2002
+133|238130.0|Framing Contractors|235510.0|Carpentry Contractors |Framing Carpentry|2002_NAICS_to_1997_NAICS.xls|1997|2002
+134|238140.0|Masonry Contractors (pt)|235410.0|Masonry and Stone Contractors ||2002_NAICS_to_1997_NAICS.xls|1997|2002
+135|238140.0|Masonry Contractors (pt)|235420.0|Drywall, Plastering, Acoustical, and Insulation Contractors |Stucco Contractors|2002_NAICS_to_1997_NAICS.xls|1997|2002
+136|238150.0|Glass and Glazing Contractors|235920.0|Glass and Glazing Contractors||2002_NAICS_to_1997_NAICS.xls|1997|2002
+137|238160.0|Roofing Contractors|235610.0|Roofing, Siding, and Sheet Metal Contractors |Roofing Contractors|2002_NAICS_to_1997_NAICS.xls|1997|2002
+138|238170.0|Siding Contractors|235610.0|Roofing, Siding, and Sheet Metal Contractors |Siding Contractors|2002_NAICS_to_1997_NAICS.xls|1997|2002
+139|238190.0|Other Foundation, Structure, and Building Exterior Contractors (pt)|235910.0|Structural Steel Erection Contractors|Curtain Walls and Metal Furring Installation|2002_NAICS_to_1997_NAICS.xls|1997|2002
+140|238190.0|Other Foundation, Structure, and Building Exterior Contractors (pt)|235990.0|All Other Special Trade Contractors|Forming Contractors|2002_NAICS_to_1997_NAICS.xls|1997|2002
+141|238210.0|Electrical Contractors (pt)|235110.0|Plumbing, Heating, and Air-Conditioning Contractors|Environmental Controls Installation Contractors|2002_NAICS_to_1997_NAICS.xls|1997|2002
+142|238210.0|Electrical Contractors (pt)|235310.0|Electrical Contractors||2002_NAICS_to_1997_NAICS.xls|1997|2002
+143|238220.0|Plumbing, Heating, and Air-Conditioning Contractors (pt)|235110.0|Plumbing, Heating, and Air-Conditioning Contractors|Except Environmental Controls Installation Contractors and Septic Tank, Cesspool, and Dry Well Construction Contractors|2002_NAICS_to_1997_NAICS.xls|1997|2002
+144|238220.0|Plumbing, Heating, and Air-Conditioning Contractors (pt)|235910.0|Structural Steel Erection Contractors|Cooling Tower Installation|2002_NAICS_to_1997_NAICS.xls|1997|2002
+145|238220.0|Plumbing, Heating, and Air-Conditioning Contractors (pt)|235950.0|Building Equipment and Other Machinery Installation Contractors |Scrubber, Dust Collection, and Other Industrial Ventilation Installation|2002_NAICS_to_1997_NAICS.xls|1997|2002
+146|238290.0|Other Building Equipment Contractors (pt)|235950.0|Building Equipment and Other Machinery Installation Contractors |Except Scrubber, Dust Collection, and Other Industrial Ventilation Installation|2002_NAICS_to_1997_NAICS.xls|1997|2002
+147|238290.0|Other Building Equipment Contractors (pt)|235990.0|All Other Special Trade Contractors|Service Station Equipment Installation Contractors; Boiler, Duct, and Pipe Insulation; Lightning Rod Installation; Bowling Alley Installation; Household-Type Antenna Installation; Church Bell Installation; and Tower Clock Installation|2002_NAICS_to_1997_NAICS.xls|1997|2002
+148|238310.0|Drywall and Insulation Contractors|235420.0|Drywall, Plastering, Acoustical, and Insulation Contractors |Except Stucco Contractors|2002_NAICS_to_1997_NAICS.xls|1997|2002
+149|238320.0|Painting and Wall Covering Contractors|235210.0|Painting and Wall Covering Contractors|Except Highway and Traffic Line Painting|2002_NAICS_to_1997_NAICS.xls|1997|2002
+150|238330.0|Flooring Contractors|235520.0|Floor Laying and Other Floor Contractors||2002_NAICS_to_1997_NAICS.xls|1997|2002
+151|238340.0|Tile and Terrazzo Contractors|235430.0|Tile, Marble, Terrazzo, and Mosaic Contractors||2002_NAICS_to_1997_NAICS.xls|1997|2002
+152|238350.0|Finish Carpentry Contractors|235510.0|Carpentry Contractors |Finish Carpentry|2002_NAICS_to_1997_NAICS.xls|1997|2002
+153|238390.0|Other Building Finishing Contractors (pt)|235610.0|Roofing, Siding, and Sheet Metal Contractors |Metal Ceiling, Panel, and Shelving Installation|2002_NAICS_to_1997_NAICS.xls|1997|2002
+154|238390.0|Other Building Finishing Contractors (pt)|235990.0|All Other Special Trade Contractors|Weather Stripping and Damp-Proofing, Modular Furniture Installation, Bathtub Refinishing, Window Covering Fixture Installation, Trade Show Exhibit Installation and Dismantling, and Spectator Seating Installation|2002_NAICS_to_1997_NAICS.xls|1997|2002
+155|238910.0|Site Preparation Contractors (pt)|213112.0|Support Activities for Oil and Gas Operations|Site Preparation and Related Construction Activities On A Contract Basis|2002_NAICS_to_1997_NAICS.xls|1997|2002
+156|238910.0|Site Preparation Contractors (pt)|213113.0|Support Activities for Coal Mining |Site Preparation and Related Construction Activities On A Contract Basis|2002_NAICS_to_1997_NAICS.xls|1997|2002
+157|238910.0|Site Preparation Contractors (pt)|213114.0|Support Activities for Metal Mining|Site Preparation and Related Construction Activities On A Contract Basis|2002_NAICS_to_1997_NAICS.xls|1997|2002
+158|238910.0|Site Preparation Contractors (pt)|213115.0|Support Activities for Nonmetallic Minerals (except Fuels)|Site Preparation and Related Construction Activities On A Contract Basis|2002_NAICS_to_1997_NAICS.xls|1997|2002
+159|238910.0|Site Preparation Contractors (pt)|234990.0|All Other Heavy Construction |Right-of-Way Clearing and Line Slashing, Blasting, Trenching, and Equipment Rental (except cranes) with Operator|2002_NAICS_to_1997_NAICS.xls|1997|2002
+160|238910.0|Site Preparation Contractors (pt)|235110.0|Plumbing, Heating, and Air-Conditioning Contractors|Septic Tank, Cesspool, and Dry Well Construction Contractors|2002_NAICS_to_1997_NAICS.xls|1997|2002
+161|238910.0|Site Preparation Contractors (pt)|235930.0|Excavation Contractors||2002_NAICS_to_1997_NAICS.xls|1997|2002
+162|238910.0|Site Preparation Contractors (pt)|235940.0|Wrecking and Demolition Contractors||2002_NAICS_to_1997_NAICS.xls|1997|2002
+163|238910.0|Site Preparation Contractors (pt)|235990.0|All Other Special Trade Contractors|Dewatering Contractors, Core Drilling For Construction, and Test Boring for Construction|2002_NAICS_to_1997_NAICS.xls|1997|2002
+164|238990.0|All Other Specialty Trade Contractors (pt)|234990.0|All Other Heavy Construction |Crane Rental with Operator|2002_NAICS_to_1997_NAICS.xls|1997|2002
+165|238990.0|All Other Specialty Trade Contractors (pt)|235710.0|Concrete Contractors|Residential and Commercial Asphalt, Brick, and Concrete Paving|2002_NAICS_to_1997_NAICS.xls|1997|2002
+166|238990.0|All Other Specialty Trade Contractors (pt)|235990.0|All Other Special Trade Contractors|Except Indoor Swimming Pools, Earth Retention Contractors, Forming Contractors, Ornamental Metal Work, Building Equipment Contractors, Building Finishing Contractors, Dewatering Contractors, Test Boring For Construction, and Core Drilling For Construction|2002_NAICS_to_1997_NAICS.xls|1997|2002
+167|238990.0|All Other Specialty Trade Contractors (pt)|561720.0|Janitorial Services|Cleaning Buildings During and Immediately After Construction|2002_NAICS_to_1997_NAICS.xls|1997|2002
+168|311111.0|Dog and Cat Food Manufacturing|311111.0|Dog and Cat Food Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+169|311119.0|Other Animal Food Manufacturing|311119.0|Other Animal Food Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+170|311211.0|Flour Milling|311211.0|Flour Milling||2002_NAICS_to_1997_NAICS.xls|1997|2002
+171|311212.0|Rice Milling|311212.0|Rice Milling||2002_NAICS_to_1997_NAICS.xls|1997|2002
+172|311213.0|Malt Manufacturing|311213.0|Malt Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+173|311221.0|Wet Corn Milling|311221.0|Wet Corn Milling||2002_NAICS_to_1997_NAICS.xls|1997|2002
+174|311222.0|Soybean Processing|311222.0|Soybean Processing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+175|311223.0|Other Oilseed Processing|311223.0|Other Oilseed Processing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+176|311225.0|Fats and Oils Refining and Blending|311225.0|Fats and Oils Refining and Blending||2002_NAICS_to_1997_NAICS.xls|1997|2002
+177|311230.0|Breakfast Cereal Manufacturing|311230.0|Breakfast Cereal Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+178|311311.0|Sugarcane Mills|311311.0|Sugarcane Mills||2002_NAICS_to_1997_NAICS.xls|1997|2002
+179|311312.0|Cane Sugar Refining|311312.0|Cane Sugar Refining||2002_NAICS_to_1997_NAICS.xls|1997|2002
+180|311313.0|Beet Sugar Manufacturing|311313.0|Beet Sugar Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+181|311320.0|Chocolate and Confectionery Manufacturing from Cacao Beans|311320.0|Chocolate and Confectionery Manufacturing from Cacao Beans||2002_NAICS_to_1997_NAICS.xls|1997|2002
+182|311330.0|Confectionery Manufacturing from Purchased Chocolate|311330.0|Confectionery Manufacturing from Purchased Chocolate||2002_NAICS_to_1997_NAICS.xls|1997|2002
+183|311340.0|Nonchocolate Confectionery Manufacturing|311340.0|Nonchocolate Confectionery Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+184|311411.0|Frozen Fruit, Juice, and Vegetable Manufacturing|311411.0|Frozen Fruit, Juice, and Vegetable Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+185|311412.0|Frozen Specialty Food Manufacturing|311412.0|Frozen Specialty Food Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+186|311421.0|Fruit and Vegetable Canning|311421.0|Fruit and Vegetable Canning||2002_NAICS_to_1997_NAICS.xls|1997|2002
+187|311422.0|Specialty Canning|311422.0|Specialty Canning||2002_NAICS_to_1997_NAICS.xls|1997|2002
+188|311423.0|Dried and Dehydrated Food Manufacturing|311423.0|Dried and Dehydrated Food Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+189|311511.0|Fluid Milk Manufacturing|311511.0|Fluid Milk Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+190|311512.0|Creamery Butter Manufacturing|311512.0|Creamery Butter Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+191|311513.0|Cheese Manufacturing|311513.0|Cheese Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+192|311514.0|Dry, Condensed, and Evaporated Dairy Product Manufacturing|311514.0|Dry, Condensed, and Evaporated Dairy Product Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+193|311520.0|Ice Cream and Frozen Dessert Manufacturing|311520.0|Ice Cream and Frozen Dessert Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+194|311611.0|Animal (except Poultry) Slaughtering|311611.0|Animal (except Poultry) Slaughtering||2002_NAICS_to_1997_NAICS.xls|1997|2002
+195|311612.0|Meat Processed from Carcasses|311612.0|Meat Processed from Carcasses||2002_NAICS_to_1997_NAICS.xls|1997|2002
+196|311613.0|Rendering and Meat Byproduct Processing|311613.0|Rendering and Meat Byproduct Processing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+197|311615.0|Poultry Processing|311615.0|Poultry Processing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+198|311711.0|Seafood Canning|311711.0|Seafood Canning||2002_NAICS_to_1997_NAICS.xls|1997|2002
+199|311712.0|Fresh and Frozen Seafood Processing|311712.0|Fresh and Frozen Seafood Processing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+200|311811.0|Retail Bakeries|311811.0|Retail Bakeries||2002_NAICS_to_1997_NAICS.xls|1997|2002
+201|311812.0|Commercial Bakeries|311812.0|Commercial Bakeries||2002_NAICS_to_1997_NAICS.xls|1997|2002
+202|311813.0|Frozen Cakes, Pies, and Other Pastries Manufacturing|311813.0|Frozen Cakes, Pies, and Other Pastries Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+203|311821.0|Cookie and Cracker Manufacturing|311821.0|Cookie and Cracker Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+204|311822.0|Flour Mixes and Dough Manufacturing from Purchased Flour|311822.0|Flour Mixes and Dough Manufacturing from Purchased Flour||2002_NAICS_to_1997_NAICS.xls|1997|2002
+205|311823.0|Dry Pasta Manufacturing|311823.0|Dry Pasta Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+206|311830.0|Tortilla Manufacturing|311830.0|Tortilla Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+207|311911.0|Roasted Nuts and Peanut Butter Manufacturing|311911.0|Roasted Nuts and Peanut Butter Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+208|311919.0|Other Snack Food Manufacturing|311919.0|Other Snack Food Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+209|311920.0|Coffee and Tea Manufacturing|311920.0|Coffee and Tea Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+210|311930.0|Flavoring Syrup and Concentrate Manufacturing|311930.0|Flavoring Syrup and Concentrate Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+211|311941.0|Mayonnaise, Dressing, and Other Prepared Sauce Manufacturing|311941.0|Mayonnaise, Dressing, and Other Prepared Sauce Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+212|311942.0|Spice and Extract Manufacturing|311942.0|Spice and Extract Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+213|311991.0|Perishable Prepared Food Manufacturing|311991.0|Perishable Prepared Food Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+214|311999.0|All Other Miscellaneous Food Manufacturing|311999.0|All Other Miscellaneous Food Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+215|312111.0|Soft Drink Manufacturing|312111.0|Soft Drink Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+216|312112.0|Bottled Water Manufacturing|312112.0|Bottled Water Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+217|312113.0|Ice Manufacturing|312113.0|Ice Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+218|312120.0|Breweries|312120.0|Breweries||2002_NAICS_to_1997_NAICS.xls|1997|2002
+219|312130.0|Wineries|312130.0|Wineries||2002_NAICS_to_1997_NAICS.xls|1997|2002
+220|312140.0|Distilleries|312140.0|Distilleries||2002_NAICS_to_1997_NAICS.xls|1997|2002
+221|312210.0|Tobacco Stemming and Redrying|312210.0|Tobacco Stemming and Redrying||2002_NAICS_to_1997_NAICS.xls|1997|2002
+222|312221.0|Cigarette Manufacturing|312221.0|Cigarette Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+223|312229.0|Other Tobacco Product Manufacturing|312229.0|Other Tobacco Product Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+224|313111.0|Yarn Spinning Mills|313111.0|Yarn Spinning Mills||2002_NAICS_to_1997_NAICS.xls|1997|2002
+225|313112.0|Yarn Texturizing, Throwing, and Twisting Mills|313112.0|Yarn Texturizing, Throwing, and Twisting Mills||2002_NAICS_to_1997_NAICS.xls|1997|2002
+226|313113.0|Thread Mills|313113.0|Thread Mills||2002_NAICS_to_1997_NAICS.xls|1997|2002
+227|313210.0|Broadwoven Fabric Mills|313210.0|Broadwoven Fabric Mills||2002_NAICS_to_1997_NAICS.xls|1997|2002
+228|313221.0|Narrow Fabric Mills|313221.0|Narrow Fabric Mills||2002_NAICS_to_1997_NAICS.xls|1997|2002
+229|313222.0|Schiffli Machine Embroidery|313222.0|Schiffli Machine Embroidery||2002_NAICS_to_1997_NAICS.xls|1997|2002
+230|313230.0|Nonwoven Fabric Mills|313230.0|Nonwoven Fabric Mills||2002_NAICS_to_1997_NAICS.xls|1997|2002
+231|313241.0|Weft Knit Fabric Mills|313241.0|Weft Knit Fabric Mills||2002_NAICS_to_1997_NAICS.xls|1997|2002
+232|313249.0|Other Knit Fabric and Lace Mills|313249.0|Other Knit Fabric and Lace Mills||2002_NAICS_to_1997_NAICS.xls|1997|2002
+233|313311.0|Broadwoven Fabric Finishing Mills|313311.0|Broadwoven Fabric Finishing Mills||2002_NAICS_to_1997_NAICS.xls|1997|2002
+234|313312.0|Textile and Fabric Finishing (except Broadwoven Fabric) Mills|313312.0|Textile and Fabric Finishing (except Broadwoven Fabric) Mills||2002_NAICS_to_1997_NAICS.xls|1997|2002
+235|313320.0|Fabric Coating Mills|313320.0|Fabric Coating Mills||2002_NAICS_to_1997_NAICS.xls|1997|2002
+236|314110.0|Carpet and Rug Mills|314110.0|Carpet and Rug Mills||2002_NAICS_to_1997_NAICS.xls|1997|2002
+237|314121.0|Curtain and Drapery Mills|314121.0|Curtain and Drapery Mills||2002_NAICS_to_1997_NAICS.xls|1997|2002
+238|314129.0|Other Household Textile Product Mills|314129.0|Other Household Textile Product Mills||2002_NAICS_to_1997_NAICS.xls|1997|2002
+239|314911.0|Textile Bag Mills|314911.0|Textile Bag Mills||2002_NAICS_to_1997_NAICS.xls|1997|2002
+240|314912.0|Canvas and Related Product Mills|314912.0|Canvas and Related Product Mills||2002_NAICS_to_1997_NAICS.xls|1997|2002
+241|314991.0|Rope, Cordage, and Twine Mills|314991.0|Rope, Cordage, and Twine Mills||2002_NAICS_to_1997_NAICS.xls|1997|2002
+242|314992.0|Tire Cord and Tire Fabric Mills|314992.0|Tire Cord and Tire Fabric Mills||2002_NAICS_to_1997_NAICS.xls|1997|2002
+243|314999.0|All Other Miscellaneous Textile Product Mills|314999.0|All Other Miscellaneous Textile Product Mills||2002_NAICS_to_1997_NAICS.xls|1997|2002
+244|315111.0|Sheer Hosiery Mills|315111.0|Sheer Hosiery Mills||2002_NAICS_to_1997_NAICS.xls|1997|2002
+245|315119.0|Other Hosiery and Sock Mills|315119.0|Other Hosiery and Sock Mills||2002_NAICS_to_1997_NAICS.xls|1997|2002
+246|315191.0|Outerwear Knitting Mills|315191.0|Outerwear Knitting Mills||2002_NAICS_to_1997_NAICS.xls|1997|2002
+247|315192.0|Underwear and Nightwear Knitting Mills|315192.0|Underwear and Nightwear Knitting Mills||2002_NAICS_to_1997_NAICS.xls|1997|2002
+248|315211.0|Men's and Boys' Cut and Sew Apparel Contractors|315211.0|Men's and Boys' Cut and Sew Apparel Contractors||2002_NAICS_to_1997_NAICS.xls|1997|2002
+249|315212.0|Women's, Girls', and Infants' Cut and Sew Apparel Contractors|315212.0|Women's, Girls', and Infants' Cut and Sew Apparel Contractors||2002_NAICS_to_1997_NAICS.xls|1997|2002
+250|315221.0|Men's and Boys' Cut and Sew Underwear and Nightwear Manufacturing|315221.0|Men's and Boys' Cut and Sew Underwear and Nightwear Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+251|315222.0|Men's and Boys' Cut and Sew Suit, Coat, and Overcoat Manufacturing|315222.0|Men's and Boys' Cut and Sew Suit, Coat, and Overcoat Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+252|315223.0|Men's and Boys' Cut and Sew Shirt (except Work Shirt) Manufacturing|315223.0|Men's and Boys' Cut and Sew Shirt (except Work Shirt) Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+253|315224.0|Men's and Boys' Cut and Sew Trouser, Slack, and Jean Manufacturing|315224.0|Men's and Boys' Cut and Sew Trouser, Slack, and Jean Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+254|315225.0|Men's and Boys' Cut and Sew Work Clothing Manufacturing|315225.0|Men's and Boys' Cut and Sew Work Clothing Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+255|315228.0|Men's and Boys' Cut and Sew Other Outerwear Manufacturing|315228.0|Men's and Boys' Cut and Sew Other Outerwear Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+256|315231.0|Women's and Girls' Cut and Sew Lingerie, Loungewear, and Nightwear Manufacturing|315231.0|Women's and Girls' Cut and Sew Lingerie, Loungewear, and Nightwear Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+257|315232.0|Women's and Girls' Cut and Sew Blouse and Shirt Manufacturing|315232.0|Women's and Girls' Cut and Sew Blouse and Shirt Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+258|315233.0|Women's and Girls' Cut and Sew Dress Manufacturing|315233.0|Women's and Girls' Cut and Sew Dress Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+259|315234.0|Women's and Girls' Cut and Sew Suit, Coat, Tailored Jacket, and Skirt Manufacturing|315234.0|Women's and Girls' Cut and Sew Suit, Coat, Tailored Jacket, and Skirt Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+260|315239.0|Women's and Girls' Cut and Sew Other Outerwear Manufacturing|315239.0|Women's and Girls' Cut and Sew Other Outerwear Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+261|315291.0|Infants' Cut and Sew Apparel Manufacturing|315291.0|Infants' Cut and Sew Apparel Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+262|315292.0|Fur and Leather Apparel Manufacturing|315292.0|Fur and Leather Apparel Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+263|315299.0|All Other Cut and Sew Apparel Manufacturing|315299.0|All Other Cut and Sew Apparel Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+264|315991.0|Hat, Cap, and Millinery Manufacturing|315991.0|Hat, Cap, and Millinery Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+265|315992.0|Glove and Mitten Manufacturing|315992.0|Glove and Mitten Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+266|315993.0|Men's and Boys' Neckwear Manufacturing|315993.0|Men's and Boys' Neckwear Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+267|315999.0|Other Apparel Accessories and Other Apparel Manufacturing|315999.0|Other Apparel Accessories and Other Apparel Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+268|316110.0|Leather and Hide Tanning and Finishing|316110.0|Leather and Hide Tanning and Finishing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+269|316211.0|Rubber and Plastics Footwear Manufacturing|316211.0|Rubber and Plastics Footwear Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+270|316212.0|House Slipper Manufacturing|316212.0|House Slipper Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+271|316213.0|Men's Footwear (except Athletic) Manufacturing|316213.0|Men's Footwear (except Athletic) Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+272|316214.0|Women's Footwear (except Athletic) Manufacturing|316214.0|Women's Footwear (except Athletic) Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+273|316219.0|Other Footwear Manufacturing|316219.0|Other Footwear Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+274|316991.0|Luggage Manufacturing|316991.0|Luggage Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+275|316992.0|Women's Handbag and Purse Manufacturing|316992.0|Women's Handbag and Purse Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+276|316993.0|Personal Leather Good (except Women's Handbag and Purse) Manufacturing|316993.0|Personal Leather Good (except Women's Handbag and Purse) Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+277|316999.0|All Other Leather Good Manufacturing|316999.0|All Other Leather Good Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+278|321113.0|Sawmills|321113.0|Sawmills||2002_NAICS_to_1997_NAICS.xls|1997|2002
+279|321114.0|Wood Preservation|321114.0|Wood Preservation||2002_NAICS_to_1997_NAICS.xls|1997|2002
+280|321211.0|Hardwood Veneer and Plywood Manufacturing|321211.0|Hardwood Veneer and Plywood Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+281|321212.0|Softwood Veneer and Plywood Manufacturing|321212.0|Softwood Veneer and Plywood Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+282|321213.0|Engineered Wood Member (except Truss) Manufacturing|321213.0|Engineered Wood Member (except Truss) Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+283|321214.0|Truss Manufacturing|321214.0|Truss Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+284|321219.0|Reconstituted Wood Product Manufacturing|321219.0|Reconstituted Wood Product Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+285|321911.0|Wood Window and Door Manufacturing|321911.0|Wood Window and Door Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+286|321912.0|Cut Stock, Resawing Lumber, and Planing|321912.0|Cut Stock, Resawing Lumber, and Planing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+287|321918.0|Other Millwork (including Flooring)|321918.0|Other Millwork (including Flooring)||2002_NAICS_to_1997_NAICS.xls|1997|2002
+288|321920.0|Wood Container and Pallet Manufacturing|321920.0|Wood Container and Pallet Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+289|321991.0|Manufactured Home (Mobile Home) Manufacturing|321991.0|Manufactured Home (Mobile Home) Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+290|321992.0|Prefabricated Wood Building Manufacturing|321992.0|Prefabricated Wood Building Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+291|321999.0|All Other Miscellaneous Wood Product Manufacturing|321999.0|All Other Miscellaneous Wood Product Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+292|322110.0|Pulp Mills|322110.0|Pulp Mills||2002_NAICS_to_1997_NAICS.xls|1997|2002
+293|322121.0|Paper (except Newsprint) Mills|322121.0|Paper (except Newsprint) Mills||2002_NAICS_to_1997_NAICS.xls|1997|2002
+294|322122.0|Newsprint Mills|322122.0|Newsprint Mills||2002_NAICS_to_1997_NAICS.xls|1997|2002
+295|322130.0|Paperboard Mills|322130.0|Paperboard Mills||2002_NAICS_to_1997_NAICS.xls|1997|2002
+296|322211.0|Corrugated and Solid Fiber Box Manufacturing|322211.0|Corrugated and Solid Fiber Box Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+297|322212.0|Folding Paperboard Box Manufacturing|322212.0|Folding Paperboard Box Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+298|322213.0|Setup Paperboard Box Manufacturing|322213.0|Setup Paperboard Box Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+299|322214.0|Fiber Can, Tube, Drum, and Similar Products Manufacturing|322214.0|Fiber Can, Tube, Drum, and Similar Products Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+300|322215.0|Nonfolding Sanitary Food Container Manufacturing|322215.0|Nonfolding Sanitary Food Container Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+301|322221.0|Coated and Laminated Packaging Paper and Plastics Film Manufacturing|322221.0|Coated and Laminated Packaging Paper and Plastics Film Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+302|322222.0|Coated and Laminated Paper Manufacturing|322222.0|Coated and Laminated Paper Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+303|322223.0|Plastics, Foil, and Coated Paper Bag Manufacturing|322223.0|Plastics, Foil, and Coated Paper Bag Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+304|322224.0|Uncoated Paper and Multiwall Bag Manufacturing|322224.0|Uncoated Paper and Multiwall Bag Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+305|322225.0|Laminated Aluminum Foil Manufacturing for Flexible Packaging Uses|322225.0|Laminated Aluminum Foil Manufacturing for Flexible Packaging Uses||2002_NAICS_to_1997_NAICS.xls|1997|2002
+306|322226.0|Surface-Coated Paperboard Manufacturing|322226.0|Surface-Coated Paperboard Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+307|322231.0|Die-Cut Paper and Paperboard Office Supplies Manufacturing|322231.0|Die-Cut Paper and Paperboard Office Supplies Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+308|322232.0|Envelope Manufacturing|322232.0|Envelope Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+309|322233.0|Stationery, Tablet, and Related Product Manufacturing|322233.0|Stationery, Tablet, and Related Product Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+310|322291.0|Sanitary Paper Product Manufacturing|322291.0|Sanitary Paper Product Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+311|322299.0|All Other Converted Paper Product Manufacturing|322299.0|All Other Converted Paper Product Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+312|323110.0|Commercial Lithographic Printing|323110.0|Commercial Lithographic Printing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+313|323111.0|Commercial Gravure Printing|323111.0|Commercial Gravure Printing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+314|323112.0|Commercial Flexographic Printing|323112.0|Commercial Flexographic Printing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+315|323113.0|Commercial Screen Printing|323113.0|Commercial Screen Printing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+316|323114.0|Quick Printing|323114.0|Quick Printing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+317|323115.0|Digital Printing|323115.0|Digital Printing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+318|323116.0|Manifold Business Forms Printing|323116.0|Manifold Business Forms Printing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+319|323117.0|Books Printing|323117.0|Books Printing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+320|323118.0|Blankbook, Looseleaf Binders, and Devices Manufacturing|323118.0|Blankbook, Looseleaf Binders, and Devices Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+321|323119.0|Other Commercial Printing|323119.0|Other Commercial Printing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+322|323121.0|Tradebinding and Related Work|323121.0|Tradebinding and Related Work||2002_NAICS_to_1997_NAICS.xls|1997|2002
+323|323122.0|Prepress Services|323122.0|Prepress Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+324|324110.0|Petroleum Refineries|324110.0|Petroleum Refineries||2002_NAICS_to_1997_NAICS.xls|1997|2002
+325|324121.0|Asphalt Paving Mixture and Block Manufacturing|324121.0|Asphalt Paving Mixture and Block Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+326|324122.0|Asphalt Shingle and Coating Materials Manufacturing|324122.0|Asphalt Shingle and Coating Materials Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+327|324191.0|Petroleum Lubricating Oil and Grease Manufacturing|324191.0|Petroleum Lubricating Oil and Grease Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+328|324199.0|All Other Petroleum and Coal Products Manufacturing|324199.0|All Other Petroleum and Coal Products Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+329|325110.0|Petrochemical Manufacturing|325110.0|Petrochemical Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+330|325120.0|Industrial Gas Manufacturing|325120.0|Industrial Gas Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+331|325131.0|Inorganic Dye and Pigment Manufacturing|325131.0|Inorganic Dye and Pigment Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+332|325132.0|Synthetic Organic Dye and Pigment Manufacturing|325132.0|Synthetic Organic Dye and Pigment Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+333|325181.0|Alkalies and Chlorine Manufacturing|325181.0|Alkalies and Chlorine Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+334|325182.0|Carbon Black Manufacturing|325182.0|Carbon Black Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+335|325188.0|All Other Basic Inorganic Chemical Manufacturing|325188.0|All Other Basic Inorganic Chemical Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+336|325191.0|Gum and Wood Chemical Manufacturing|325191.0|Gum and Wood Chemical Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+337|325192.0|Cyclic Crude and Intermediate Manufacturing|325192.0|Cyclic Crude and Intermediate Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+338|325193.0|Ethyl Alcohol Manufacturing|325193.0|Ethyl Alcohol Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+339|325199.0|All Other Basic Organic Chemical Manufacturing|325199.0|All Other Basic Organic Chemical Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+340|325211.0|Plastics Material and Resin Manufacturing|325211.0|Plastics Material and Resin Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+341|325212.0|Synthetic Rubber Manufacturing|325212.0|Synthetic Rubber Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+342|325221.0|Cellulosic Organic Fiber Manufacturing|325221.0|Cellulosic Organic Fiber Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+343|325222.0|Noncellulosic Organic Fiber Manufacturing|325222.0|Noncellulosic Organic Fiber Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+344|325311.0|Nitrogenous Fertilizer Manufacturing|325311.0|Nitrogenous Fertilizer Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+345|325312.0|Phosphatic Fertilizer Manufacturing|325312.0|Phosphatic Fertilizer Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+346|325314.0|Fertilizer (Mixing Only) Manufacturing|325314.0|Fertilizer (Mixing Only) Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+347|325320.0|Pesticide and Other Agricultural Chemical Manufacturing|325320.0|Pesticide and Other Agricultural Chemical Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+348|325411.0|Medicinal and Botanical Manufacturing|325411.0|Medicinal and Botanical Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+349|325412.0|Pharmaceutical Preparation Manufacturing|325412.0|Pharmaceutical Preparation Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+350|325413.0|In-Vitro Diagnostic Substance Manufacturing|325413.0|In-Vitro Diagnostic Substance Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+351|325414.0|Biological Product (except Diagnostic) Manufacturing|325414.0|Biological Product (except Diagnostic) Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+352|325510.0|Paint and Coating Manufacturing|325510.0|Paint and Coating Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+353|325520.0|Adhesive Manufacturing|325520.0|Adhesive Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+354|325611.0|Soap and Other Detergent Manufacturing|325611.0|Soap and Other Detergent Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+355|325612.0|Polish and Other Sanitation Good Manufacturing|325612.0|Polish and Other Sanitation Good Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+356|325613.0|Surface Active Agent Manufacturing|325613.0|Surface Active Agent Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+357|325620.0|Toilet Preparation Manufacturing|325620.0|Toilet Preparation Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+358|325910.0|Printing Ink Manufacturing|325910.0|Printing Ink Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+359|325920.0|Explosives Manufacturing|325920.0|Explosives Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+360|325991.0|Custom Compounding of Purchased Resins|325991.0|Custom Compounding of Purchased Resins||2002_NAICS_to_1997_NAICS.xls|1997|2002
+361|325992.0|Photographic Film, Paper, Plate, and Chemical Manufacturing|325992.0|Photographic Film, Paper, Plate, and Chemical Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+362|325998.0|All Other Miscellaneous Chemical Product and Preparation Manufacturing|325998.0|All Other Miscellaneous Chemical Product and Preparation Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+363|326111.0|Plastics Bag Manufacturing|326111.0|Unsupported Plastics Bag Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+364|326112.0|Plastics Packaging Film and Sheet (including Laminated) Manufacturing|326112.0|Unsupported Plastics Packaging Film and Sheet Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+365|326113.0|Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing|326113.0|Unsupported Plastics Film and Sheet (except Packaging) Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+366|326121.0|Unlaminated Plastics Profile Shape Manufacturing|326121.0|Unsupported Plastics Profile Shapes Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+367|326122.0|Plastics Pipe and Pipe Fitting Manufacturing|326122.0|Plastics Pipe and Pipe Fitting Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+368|326130.0|Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing|326130.0|Laminated Plastics Plate, Sheet, and Shape Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+369|326140.0|Polystyrene Foam Product Manufacturing|326140.0|Polystyrene Foam Product Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+370|326150.0|Urethane and Other Foam Product (except Polystyrene) Manufacturing|326150.0|Urethane and Other Foam Product (except Polystyrene) Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+371|326160.0|Plastics Bottle Manufacturing|326160.0|Plastics Bottle Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+372|326191.0|Plastics Plumbing Fixture Manufacturing|326191.0|Plastics Plumbing Fixture Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+373|326192.0|Resilient Floor Covering Manufacturing|326192.0|Resilient Floor Covering Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+374|326199.0|All Other Plastics Product Manufacturing|326199.0|All Other Plastics Product Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+375|326211.0|Tire Manufacturing (except Retreading)|326211.0|Tire Manufacturing (except Retreading)||2002_NAICS_to_1997_NAICS.xls|1997|2002
+376|326212.0|Tire Retreading|326212.0|Tire Retreading||2002_NAICS_to_1997_NAICS.xls|1997|2002
+377|326220.0|Rubber and Plastics Hoses and Belting Manufacturing|326220.0|Rubber and Plastics Hoses and Belting Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+378|326291.0|Rubber Product Manufacturing for Mechanical Use|326291.0|Rubber Product Manufacturing for Mechanical Use||2002_NAICS_to_1997_NAICS.xls|1997|2002
+379|326299.0|All Other Rubber Product Manufacturing|326299.0|All Other Rubber Product Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+380|327111.0|Vitreous China Plumbing Fixture and China and Earthenware Bathroom Accessories Manufacturing|327111.0|Vitreous China Plumbing Fixture and China and Earthenware Bathroom Accessories Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+381|327112.0|Vitreous China, Fine Earthenware, and Other Pottery Product Manufacturing|327112.0|Vitreous China, Fine Earthenware, and Other Pottery Product Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+382|327113.0|Porcelain Electrical Supply Manufacturing|327113.0|Porcelain Electrical Supply Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+383|327121.0|Brick and Structural Clay Tile Manufacturing|327121.0|Brick and Structural Clay Tile Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+384|327122.0|Ceramic Wall and Floor Tile Manufacturing|327122.0|Ceramic Wall and Floor Tile Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+385|327123.0|Other Structural Clay Product Manufacturing|327123.0|Other Structural Clay Product Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+386|327124.0|Clay Refractory Manufacturing|327124.0|Clay Refractory Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+387|327125.0|Nonclay Refractory Manufacturing|327125.0|Nonclay Refractory Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+388|327211.0|Flat Glass Manufacturing|327211.0|Flat Glass Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+389|327212.0|Other Pressed and Blown Glass and Glassware Manufacturing|327212.0|Other Pressed and Blown Glass and Glassware Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+390|327213.0|Glass Container Manufacturing|327213.0|Glass Container Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+391|327215.0|Glass Product Manufacturing Made of Purchased Glass|327215.0|Glass Product Manufacturing Made of Purchased Glass||2002_NAICS_to_1997_NAICS.xls|1997|2002
+392|327310.0|Cement Manufacturing|327310.0|Cement Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+393|327320.0|Ready-Mix Concrete Manufacturing|327320.0|Ready-Mix Concrete Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+394|327331.0|Concrete Block and Brick Manufacturing|327331.0|Concrete Block and Brick Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+395|327332.0|Concrete Pipe Manufacturing|327332.0|Concrete Pipe Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+396|327390.0|Other Concrete Product Manufacturing|327390.0|Other Concrete Product Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+397|327410.0|Lime Manufacturing|327410.0|Lime Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+398|327420.0|Gypsum Product Manufacturing|327420.0|Gypsum Product Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+399|327910.0|Abrasive Product Manufacturing|327910.0|Abrasive Product Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+400|327991.0|Cut Stone and Stone Product Manufacturing|327991.0|Cut Stone and Stone Product Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+401|327992.0|Ground or Treated Mineral and Earth Manufacturing|327992.0|Ground or Treated Mineral and Earth Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+402|327993.0|Mineral Wool Manufacturing|327993.0|Mineral Wool Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+403|327999.0|All Other Miscellaneous Nonmetallic Mineral Product Manufacturing|327999.0|All Other Miscellaneous Nonmetallic Mineral Product Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+404|331111.0|Iron and Steel Mills|331111.0|Iron and Steel Mills||2002_NAICS_to_1997_NAICS.xls|1997|2002
+405|331112.0|Electrometallurgical Ferroalloy Product Manufacturing|331112.0|Electrometallurgical Ferroalloy Product Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+406|331210.0|Iron and Steel Pipe and Tube Manufacturing from Purchased Steel|331210.0|Iron and Steel Pipe and Tube Manufacturing from Purchased Steel||2002_NAICS_to_1997_NAICS.xls|1997|2002
+407|331221.0|Rolled Steel Shape Manufacturing|331221.0|Rolled Steel Shape Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+408|331222.0|Steel Wire Drawing|331222.0|Steel Wire Drawing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+409|331311.0|Alumina Refining|331311.0|Alumina Refining||2002_NAICS_to_1997_NAICS.xls|1997|2002
+410|331312.0|Primary Aluminum Production|331312.0|Primary Aluminum Production||2002_NAICS_to_1997_NAICS.xls|1997|2002
+411|331314.0|Secondary Smelting and Alloying of Aluminum|331314.0|Secondary Smelting and Alloying of Aluminum||2002_NAICS_to_1997_NAICS.xls|1997|2002
+412|331315.0|Aluminum Sheet, Plate, and Foil Manufacturing|331315.0|Aluminum Sheet, Plate, and Foil Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+413|331316.0|Aluminum Extruded Product Manufacturing|331316.0|Aluminum Extruded Product Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+414|331319.0|Other Aluminum Rolling and Drawing|331319.0|Other Aluminum Rolling and Drawing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+415|331411.0|Primary Smelting and Refining of Copper|331411.0|Primary Smelting and Refining of Copper||2002_NAICS_to_1997_NAICS.xls|1997|2002
+416|331419.0|Primary Smelting and Refining of Nonferrous Metal (except Copper and Aluminum)|331419.0|Primary Smelting and Refining of Nonferrous Metal (except Copper and Aluminum)||2002_NAICS_to_1997_NAICS.xls|1997|2002
+417|331421.0|Copper Rolling, Drawing, and Extruding|331421.0|Copper Rolling, Drawing, and Extruding||2002_NAICS_to_1997_NAICS.xls|1997|2002
+418|331422.0|Copper Wire (except Mechanical) Drawing|331422.0|Copper Wire (except Mechanical) Drawing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+419|331423.0|Secondary Smelting, Refining, and Alloying of Copper|331423.0|Secondary Smelting, Refining, and Alloying of Copper||2002_NAICS_to_1997_NAICS.xls|1997|2002
+420|331491.0|Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding|331491.0|Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding||2002_NAICS_to_1997_NAICS.xls|1997|2002
+421|331492.0|Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum)|331492.0|Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum)||2002_NAICS_to_1997_NAICS.xls|1997|2002
+422|331511.0|Iron Foundries|331511.0|Iron Foundries||2002_NAICS_to_1997_NAICS.xls|1997|2002
+423|331512.0|Steel Investment Foundries|331512.0|Steel Investment Foundries||2002_NAICS_to_1997_NAICS.xls|1997|2002
+424|331513.0|Steel Foundries (except Investment)|331513.0|Steel Foundries (except Investment)||2002_NAICS_to_1997_NAICS.xls|1997|2002
+425|331521.0|Aluminum Die-Casting Foundries|331521.0|Aluminum Die-Casting Foundries||2002_NAICS_to_1997_NAICS.xls|1997|2002
+426|331522.0|Nonferrous (except Aluminum) Die-Casting Foundries|331522.0|Nonferrous (except Aluminum) Die-Casting Foundries||2002_NAICS_to_1997_NAICS.xls|1997|2002
+427|331524.0|Aluminum Foundries (except Die-Casting)|331524.0|Aluminum Foundries (except Die-Casting)||2002_NAICS_to_1997_NAICS.xls|1997|2002
+428|331525.0|Copper Foundries (except Die-Casting)|331525.0|Copper Foundries (except Die-Casting)||2002_NAICS_to_1997_NAICS.xls|1997|2002
+429|331528.0|Other Nonferrous Foundries (except Die-Casting)|331528.0|Other Nonferrous Foundries (except Die-Casting)||2002_NAICS_to_1997_NAICS.xls|1997|2002
+430|332111.0|Iron and Steel Forging|332111.0|Iron and Steel Forging||2002_NAICS_to_1997_NAICS.xls|1997|2002
+431|332112.0|Nonferrous Forging|332112.0|Nonferrous Forging||2002_NAICS_to_1997_NAICS.xls|1997|2002
+432|332114.0|Custom Roll Forming|332114.0|Custom Roll Forming||2002_NAICS_to_1997_NAICS.xls|1997|2002
+433|332115.0|Crown and Closure Manufacturing|332115.0|Crown and Closure Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+434|332116.0|Metal Stamping|332116.0|Metal Stamping||2002_NAICS_to_1997_NAICS.xls|1997|2002
+435|332117.0|Powder Metallurgy Part Manufacturing|332117.0|Powder Metallurgy Part Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+436|332211.0|Cutlery and Flatware (except Precious) Manufacturing|332211.0|Cutlery and Flatware (except Precious) Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+437|332212.0|Hand and Edge Tool Manufacturing|332212.0|Hand and Edge Tool Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+438|332213.0|Saw Blade and Handsaw Manufacturing|332213.0|Saw Blade and Handsaw Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+439|332214.0|Kitchen Utensil, Pot, and Pan Manufacturing|332214.0|Kitchen Utensil, Pot, and Pan Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+440|332311.0|Prefabricated Metal Building and Component Manufacturing|332311.0|Prefabricated Metal Building and Component Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+441|332312.0|Fabricated Structural Metal Manufacturing|332312.0|Fabricated Structural Metal Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+442|332313.0|Plate Work Manufacturing|332313.0|Plate Work Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+443|332321.0|Metal Window and Door Manufacturing|332321.0|Metal Window and Door Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+444|332322.0|Sheet Metal Work Manufacturing|332322.0|Sheet Metal Work Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+445|332323.0|Ornamental and Architectural Metal Work Manufacturing|332323.0|Ornamental and Architectural Metal Work Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+446|332410.0|Power Boiler and Heat Exchanger Manufacturing|332410.0|Power Boiler and Heat Exchanger Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+447|332420.0|Metal Tank (Heavy Gauge) Manufacturing|332420.0|Metal Tank (Heavy Gauge) Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+448|332431.0|Metal Can Manufacturing|332431.0|Metal Can Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+449|332439.0|Other Metal Container Manufacturing|332439.0|Other Metal Container Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+450|332510.0|Hardware Manufacturing|332510.0|Hardware Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+451|332611.0|Spring (Heavy Gauge) Manufacturing|332611.0|Spring (Heavy Gauge) Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+452|332612.0|Spring (Light Gauge) Manufacturing|332612.0|Spring (Light Gauge) Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+453|332618.0|Other Fabricated Wire Product Manufacturing|332618.0|Other Fabricated Wire Product Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+454|332710.0|Machine Shops|332710.0|Machine Shops||2002_NAICS_to_1997_NAICS.xls|1997|2002
+455|332721.0|Precision Turned Product Manufacturing|332721.0|Precision Turned Product Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+456|332722.0|Bolt, Nut, Screw, Rivet, and Washer Manufacturing|332722.0|Bolt, Nut, Screw, Rivet, and Washer Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+457|332811.0|Metal Heat Treating|332811.0|Metal Heat Treating||2002_NAICS_to_1997_NAICS.xls|1997|2002
+458|332812.0|Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers|332812.0|Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+459|332813.0|Electroplating, Plating, Polishing, Anodizing, and Coloring|332813.0|Electroplating, Plating, Polishing, Anodizing, and Coloring||2002_NAICS_to_1997_NAICS.xls|1997|2002
+460|332911.0|Industrial Valve Manufacturing|332911.0|Industrial Valve Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+461|332912.0|Fluid Power Valve and Hose Fitting Manufacturing|332912.0|Fluid Power Valve and Hose Fitting Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+462|332913.0|Plumbing Fixture Fitting and Trim Manufacturing|332913.0|Plumbing Fixture Fitting and Trim Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+463|332919.0|Other Metal Valve and Pipe Fitting Manufacturing|332919.0|Other Metal Valve and Pipe Fitting Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+464|332991.0|Ball and Roller Bearing Manufacturing|332991.0|Ball and Roller Bearing Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+465|332992.0|Small Arms Ammunition Manufacturing|332992.0|Small Arms Ammunition Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+466|332993.0|Ammunition (except Small Arms) Manufacturing|332993.0|Ammunition (except Small Arms) Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+467|332994.0|Small Arms Manufacturing|332994.0|Small Arms Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+468|332995.0|Other Ordnance and Accessories Manufacturing|332995.0|Other Ordnance and Accessories Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+469|332996.0|Fabricated Pipe and Pipe Fitting Manufacturing|332996.0|Fabricated Pipe and Pipe Fitting Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+470|332997.0|Industrial Pattern Manufacturing|332997.0|Industrial Pattern Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+471|332998.0|Enameled Iron and Metal Sanitary Ware Manufacturing|332998.0|Enameled Iron and Metal Sanitary Ware Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+472|332999.0|All Other Miscellaneous Fabricated Metal Product Manufacturing|332999.0|All Other Miscellaneous Fabricated Metal Product Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+473|333111.0|Farm Machinery and Equipment Manufacturing|333111.0|Farm Machinery and Equipment Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+474|333112.0|Lawn and Garden Tractor and Home Lawn and Garden Equipment Manufacturing|333112.0|Lawn and Garden Tractor and Home Lawn and Garden Equipment Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+475|333120.0|Construction Machinery Manufacturing|333120.0|Construction Machinery Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+476|333131.0|Mining Machinery and Equipment Manufacturing|333131.0|Mining Machinery and Equipment Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+477|333132.0|Oil and Gas Field Machinery and Equipment Manufacturing|333132.0|Oil and Gas Field Machinery and Equipment Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+478|333210.0|Sawmill and Woodworking Machinery Manufacturing|333210.0|Sawmill and Woodworking Machinery Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+479|333220.0|Plastics and Rubber Industry Machinery Manufacturing|333220.0|Plastics and Rubber Industry Machinery Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+480|333291.0|Paper Industry Machinery Manufacturing|333291.0|Paper Industry Machinery Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+481|333292.0|Textile Machinery Manufacturing|333292.0|Textile Machinery Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+482|333293.0|Printing Machinery and Equipment Manufacturing|333293.0|Printing Machinery and Equipment Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+483|333294.0|Food Product Machinery Manufacturing|333294.0|Food Product Machinery Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+484|333295.0|Semiconductor Machinery Manufacturing|333295.0|Semiconductor Machinery Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+485|333298.0|All Other Industrial Machinery Manufacturing|333298.0|All Other Industrial Machinery Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+486|333311.0|Automatic Vending Machine Manufacturing|333311.0|Automatic Vending Machine Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+487|333312.0|Commercial Laundry, Drycleaning, and Pressing Machine Manufacturing|333312.0|Commercial Laundry, Drycleaning, and Pressing Machine Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+488|333313.0|Office Machinery Manufacturing|333313.0|Office Machinery Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+489|333314.0|Optical Instrument and Lens Manufacturing|333314.0|Optical Instrument and Lens Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+490|333315.0|Photographic and Photocopying Equipment Manufacturing|333315.0|Photographic and Photocopying Equipment Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+491|333319.0|Other Commercial and Service Industry Machinery Manufacturing|333319.0|Other Commercial and Service Industry Machinery Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+492|333411.0|Air Purification Equipment Manufacturing|333411.0|Air Purification Equipment Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+493|333412.0|Industrial and Commercial Fan and Blower Manufacturing|333412.0|Industrial and Commercial Fan and Blower Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+494|333414.0|Heating Equipment (except Warm Air Furnaces) Manufacturing|333414.0|Heating Equipment (except Warm Air Furnaces) Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+495|333415.0|Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing|333415.0|Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+496|333511.0|Industrial Mold Manufacturing|333511.0|Industrial Mold Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+497|333512.0|Machine Tool (Metal Cutting Types) Manufacturing|333512.0|Machine Tool (Metal Cutting Types) Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+498|333513.0|Machine Tool (Metal Forming Types) Manufacturing|333513.0|Machine Tool (Metal Forming Types) Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+499|333514.0|Special Die and Tool, Die Set, Jig, and Fixture Manufacturing|333514.0|Special Die and Tool, Die Set, Jig, and Fixture Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+500|333515.0|Cutting Tool and Machine Tool Accessory Manufacturing|333515.0|Cutting Tool and Machine Tool Accessory Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+501|333516.0|Rolling Mill Machinery and Equipment Manufacturing|333516.0|Rolling Mill Machinery and Equipment Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+502|333518.0|Other Metalworking Machinery Manufacturing|333518.0|Other Metalworking Machinery Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+503|333611.0|Turbine and Turbine Generator Set Units Manufacturing|333611.0|Turbine and Turbine Generator Set Units Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+504|333612.0|Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing|333612.0|Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+505|333613.0|Mechanical Power Transmission Equipment Manufacturing|333613.0|Mechanical Power Transmission Equipment Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+506|333618.0|Other Engine Equipment Manufacturing|333618.0|Other Engine Equipment Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+507|333911.0|Pump and Pumping Equipment Manufacturing|333911.0|Pump and Pumping Equipment Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+508|333912.0|Air and Gas Compressor Manufacturing|333912.0|Air and Gas Compressor Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+509|333913.0|Measuring and Dispensing Pump Manufacturing|333913.0|Measuring and Dispensing Pump Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+510|333921.0|Elevator and Moving Stairway Manufacturing|333921.0|Elevator and Moving Stairway Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+511|333922.0|Conveyor and Conveying Equipment Manufacturing|333922.0|Conveyor and Conveying Equipment Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+512|333923.0|Overhead Traveling Crane, Hoist, and Monorail System Manufacturing|333923.0|Overhead Traveling Crane, Hoist, and Monorail System Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+513|333924.0|Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing|333924.0|Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+514|333991.0|Power-Driven Handtool Manufacturing|333991.0|Power-Driven Handtool Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+515|333992.0|Welding and Soldering Equipment Manufacturing|333992.0|Welding and Soldering Equipment Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+516|333993.0|Packaging Machinery Manufacturing|333993.0|Packaging Machinery Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+517|333994.0|Industrial Process Furnace and Oven Manufacturing|333994.0|Industrial Process Furnace and Oven Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+518|333995.0|Fluid Power Cylinder and Actuator Manufacturing|333995.0|Fluid Power Cylinder and Actuator Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+519|333996.0|Fluid Power Pump and Motor Manufacturing|333996.0|Fluid Power Pump and Motor Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+520|333997.0|Scale and Balance (except Laboratory) Manufacturing|333997.0|Scale and Balance (except Laboratory) Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+521|333999.0|All Other Miscellaneous General Purpose Machinery Manufacturing|333999.0|All Other Miscellaneous General Purpose Machinery Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+522|334111.0|Electronic Computer Manufacturing|334111.0|Electronic Computer Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+523|334112.0|Computer Storage Device Manufacturing|334112.0|Computer Storage Device Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+524|334113.0|Computer Terminal Manufacturing|334113.0|Computer Terminal Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+525|334119.0|Other Computer Peripheral Equipment Manufacturing|334119.0|Other Computer Peripheral Equipment Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+526|334210.0|Telephone Apparatus Manufacturing|334210.0|Telephone Apparatus Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+527|334220.0|Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing|334220.0|Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+528|334290.0|Other Communications Equipment Manufacturing|334290.0|Other Communications Equipment Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+529|334310.0|Audio and Video Equipment Manufacturing|334310.0|Audio and Video Equipment Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+530|334411.0|Electron Tube Manufacturing|334411.0|Electron Tube Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+531|334412.0|Bare Printed Circuit Board Manufacturing|334412.0|Bare Printed Circuit Board Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+532|334413.0|Semiconductor and Related Device Manufacturing|334413.0|Semiconductor and Related Device Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+533|334414.0|Electronic Capacitor Manufacturing|334414.0|Electronic Capacitor Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+534|334415.0|Electronic Resistor Manufacturing|334415.0|Electronic Resistor Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+535|334416.0|Electronic Coil, Transformer, and Other Inductor Manufacturing|334416.0|Electronic Coil, Transformer, and Other Inductor Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+536|334417.0|Electronic Connector Manufacturing|334417.0|Electronic Connector Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+537|334418.0|Printed Circuit Assembly (Electronic Assembly) Manufacturing|334418.0|Printed Circuit Assembly (Electronic Assembly) Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+538|334419.0|Other Electronic Component Manufacturing|334419.0|Other Electronic Component Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+539|334510.0|Electromedical and Electrotherapeutic Apparatus Manufacturing|334510.0|Electromedical and Electrotherapeutic Apparatus Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+540|334511.0|Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing|334511.0|Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+541|334512.0|Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use|334512.0|Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use||2002_NAICS_to_1997_NAICS.xls|1997|2002
+542|334513.0|Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables|334513.0|Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables||2002_NAICS_to_1997_NAICS.xls|1997|2002
+543|334514.0|Totalizing Fluid Meter and Counting Device Manufacturing|334514.0|Totalizing Fluid Meter and Counting Device Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+544|334515.0|Instrument Manufacturing for Measuring and Testing Electricity and Electrical Signals|334515.0|Instrument Manufacturing for Measuring and Testing Electricity and Electrical Signals||2002_NAICS_to_1997_NAICS.xls|1997|2002
+545|334516.0|Analytical Laboratory Instrument Manufacturing|334516.0|Analytical Laboratory Instrument Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+546|334517.0|Irradiation Apparatus Manufacturing|334517.0|Irradiation Apparatus Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+547|334518.0|Watch, Clock, and Part Manufacturing|334518.0|Watch, Clock, and Part Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+548|334519.0|Other Measuring and Controlling Device Manufacturing|334519.0|Other Measuring and Controlling Device Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+549|334611.0|Software Reproducing|334611.0|Software Reproducing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+550|334612.0|Prerecorded Compact Disc (except Software), Tape, and Record Reproducing|334612.0|Prerecorded Compact Disc (except Software), Tape, and Record Reproducing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+551|334613.0|Magnetic and Optical Recording Media Manufacturing|334613.0|Magnetic and Optical Recording Media Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+552|335110.0|Electric Lamp Bulb and Part Manufacturing|335110.0|Electric Lamp Bulb and Part Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+553|335121.0|Residential Electric Lighting Fixture Manufacturing|335121.0|Residential Electric Lighting Fixture Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+554|335122.0|Commercial, Industrial, and Institutional Electric Lighting Fixture Manufacturing|335122.0|Commercial, Industrial, and Institutional Electric Lighting Fixture Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+555|335129.0|Other Lighting Equipment Manufacturing|335129.0|Other Lighting Equipment Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+556|335211.0|Electric Housewares and Household Fan Manufacturing|335211.0|Electric Housewares and Household Fan Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+557|335212.0|Household Vacuum Cleaner Manufacturing|335212.0|Household Vacuum Cleaner Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+558|335221.0|Household Cooking Appliance Manufacturing|335221.0|Household Cooking Appliance Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+559|335222.0|Household Refrigerator and Home Freezer Manufacturing|335222.0|Household Refrigerator and Home Freezer Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+560|335224.0|Household Laundry Equipment Manufacturing|335224.0|Household Laundry Equipment Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+561|335228.0|Other Major Household Appliance Manufacturing|335228.0|Other Major Household Appliance Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+562|335311.0|Power, Distribution, and Specialty Transformer Manufacturing|335311.0|Power, Distribution, and Specialty Transformer Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+563|335312.0|Motor and Generator Manufacturing|335312.0|Motor and Generator Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+564|335313.0|Switchgear and Switchboard Apparatus Manufacturing|335313.0|Switchgear and Switchboard Apparatus Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+565|335314.0|Relay and Industrial Control Manufacturing|335314.0|Relay and Industrial Control Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+566|335911.0|Storage Battery Manufacturing|335911.0|Storage Battery Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+567|335912.0|Primary Battery Manufacturing|335912.0|Primary Battery Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+568|335921.0|Fiber Optic Cable Manufacturing|335921.0|Fiber Optic Cable Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+569|335929.0|Other Communication and Energy Wire Manufacturing|335929.0|Other Communication and Energy Wire Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+570|335931.0|Current-Carrying Wiring Device Manufacturing|335931.0|Current-Carrying Wiring Device Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+571|335932.0|Noncurrent-Carrying Wiring Device Manufacturing|335932.0|Noncurrent-Carrying Wiring Device Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+572|335991.0|Carbon and Graphite Product Manufacturing|335991.0|Carbon and Graphite Product Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+573|335999.0|All Other Miscellaneous Electrical Equipment and Component Manufacturing|335999.0|All Other Miscellaneous Electrical Equipment and Component Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+574|336111.0|Automobile Manufacturing|336111.0|Automobile Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+575|336112.0|Light Truck and Utility Vehicle Manufacturing|336112.0|Light Truck and Utility Vehicle Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+576|336120.0|Heavy Duty Truck Manufacturing|336120.0|Heavy Duty Truck Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+577|336211.0|Motor Vehicle Body Manufacturing|336211.0|Motor Vehicle Body Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+578|336212.0|Truck Trailer Manufacturing|336212.0|Truck Trailer Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+579|336213.0|Motor Home Manufacturing|336213.0|Motor Home Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+580|336214.0|Travel Trailer and Camper Manufacturing|336214.0|Travel Trailer and Camper Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+581|336311.0|Carburetor, Piston, Piston Ring, and Valve Manufacturing|336311.0|Carburetor, Piston, Piston Ring, and Valve Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+582|336312.0|Gasoline Engine and Engine Parts Manufacturing|336312.0|Gasoline Engine and Engine Parts Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+583|336321.0|Vehicular Lighting Equipment Manufacturing|336321.0|Vehicular Lighting Equipment Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+584|336322.0|Other Motor Vehicle Electrical and Electronic Equipment Manufacturing|336322.0|Other Motor Vehicle Electrical and Electronic Equipment Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+585|336330.0|Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing|336330.0|Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+586|336340.0|Motor Vehicle Brake System Manufacturing|336340.0|Motor Vehicle Brake System Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+587|336350.0|Motor Vehicle Transmission and Power Train Parts Manufacturing|336350.0|Motor Vehicle Transmission and Power Train Parts Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+588|336360.0|Motor Vehicle Seating and Interior Trim Manufacturing|336360.0|Motor Vehicle Seating and Interior Trim Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+589|336370.0|Motor Vehicle Metal Stamping|336370.0|Motor Vehicle Metal Stamping||2002_NAICS_to_1997_NAICS.xls|1997|2002
+590|336391.0|Motor Vehicle Air-Conditioning Manufacturing|336391.0|Motor Vehicle Air-Conditioning Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+591|336399.0|All Other Motor Vehicle Parts Manufacturing|336399.0|All Other Motor Vehicle Parts Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+592|336411.0|Aircraft Manufacturing|336411.0|Aircraft Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+593|336412.0|Aircraft Engine and Engine Parts Manufacturing|336412.0|Aircraft Engine and Engine Parts Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+594|336413.0|Other Aircraft Parts and Auxiliary Equipment Manufacturing|336413.0|Other Aircraft Parts and Auxiliary Equipment Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+595|336414.0|Guided Missile and Space Vehicle Manufacturing|336414.0|Guided Missile and Space Vehicle Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+596|336415.0|Guided Missile and Space Vehicle Propulsion Unit and Propulsion Unit Parts Manufacturing|336415.0|Guided Missile and Space Vehicle Propulsion Unit and Propulsion Unit Parts Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+597|336419.0|Other Guided Missile and Space Vehicle Parts and Auxiliary Equipment Manufacturing|336419.0|Other Guided Missile and Space Vehicle Parts and Auxiliary Equipment Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+598|336510.0|Railroad Rolling Stock Manufacturing|336510.0|Railroad Rolling Stock Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+599|336611.0|Ship Building and Repairing|336611.0|Ship Building and Repairing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+600|336612.0|Boat Building|336612.0|Boat Building||2002_NAICS_to_1997_NAICS.xls|1997|2002
+601|336991.0|Motorcycle, Bicycle, and Parts Manufacturing|336991.0|Motorcycle, Bicycle, and Parts Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+602|336992.0|Military Armored Vehicle, Tank, and Tank Component Manufacturing|336992.0|Military Armored Vehicle, Tank, and Tank Component Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+603|336999.0|All Other Transportation Equipment Manufacturing|336999.0|All Other Transportation Equipment Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+604|337110.0|Wood Kitchen Cabinet and Countertop Manufacturing|337110.0|Wood Kitchen Cabinet and Countertop Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+605|337121.0|Upholstered Household Furniture Manufacturing|337121.0|Upholstered Household Furniture Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+606|337122.0|Nonupholstered Wood Household Furniture Manufacturing|337122.0|Nonupholstered Wood Household Furniture Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+607|337124.0|Metal Household Furniture Manufacturing|337124.0|Metal Household Furniture Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+608|337125.0|Household Furniture (except Wood and Metal) Manufacturing|337125.0|Household Furniture (except Wood and Metal) Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+609|337127.0|Institutional Furniture Manufacturing|337127.0|Institutional Furniture Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+610|337129.0|Wood Television, Radio, and Sewing Machine Cabinet Manufacturing|337129.0|Wood Television, Radio, and Sewing Machine Cabinet Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+611|337211.0|Wood Office Furniture Manufacturing|337211.0|Wood Office Furniture Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+612|337212.0|Custom Architectural Woodwork and Millwork Manufacturing|337212.0|Custom Architectural Woodwork and Millwork Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+613|337214.0|Office Furniture (except Wood) Manufacturing|337214.0|Office Furniture (except Wood) Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+614|337215.0|Showcase, Partition, Shelving, and Locker Manufacturing|337215.0|Showcase, Partition, Shelving, and Locker Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+615|337910.0|Mattress Manufacturing|337910.0|Mattress Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+616|337920.0|Blind and Shade Manufacturing|337920.0|Blind and Shade Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+617|339111.0|Laboratory Apparatus and Furniture Manufacturing|339111.0|Laboratory Apparatus and Furniture Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+618|339112.0|Surgical and Medical Instrument Manufacturing|339112.0|Surgical and Medical Instrument Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+619|339113.0|Surgical Appliance and Supplies Manufacturing|339113.0|Surgical Appliance and Supplies Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+620|339114.0|Dental Equipment and Supplies Manufacturing|339114.0|Dental Equipment and Supplies Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+621|339115.0|Ophthalmic Goods Manufacturing|339115.0|Ophthalmic Goods Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+622|339116.0|Dental Laboratories|339116.0|Dental Laboratories||2002_NAICS_to_1997_NAICS.xls|1997|2002
+623|339911.0|Jewelry (except Costume) Manufacturing|339911.0|Jewelry (except Costume) Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+624|339912.0|Silverware and Hollowware Manufacturing|339912.0|Silverware and Hollowware Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+625|339913.0|Jewelers' Material and Lapidary Work Manufacturing|339913.0|Jewelers' Material and Lapidary Work Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+626|339914.0|Costume Jewelry and Novelty Manufacturing|339914.0|Costume Jewelry and Novelty Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+627|339920.0|Sporting and Athletic Goods Manufacturing|339920.0|Sporting and Athletic Goods Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+628|339931.0|Doll and Stuffed Toy Manufacturing|339931.0|Doll and Stuffed Toy Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+629|339932.0|Game, Toy, and Children's Vehicle Manufacturing|339932.0|Game, Toy, and Children's Vehicle Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+630|339941.0|Pen and Mechanical Pencil Manufacturing|339941.0|Pen and Mechanical Pencil Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+631|339942.0|Lead Pencil and Art Good Manufacturing|339942.0|Lead Pencil and Art Good Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+632|339943.0|Marking Device Manufacturing|339943.0|Marking Device Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+633|339944.0|Carbon Paper and Inked Ribbon Manufacturing|339944.0|Carbon Paper and Inked Ribbon Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+634|339950.0|Sign Manufacturing|339950.0|Sign Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+635|339991.0|Gasket, Packing, and Sealing Device Manufacturing|339991.0|Gasket, Packing, and Sealing Device Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+636|339992.0|Musical Instrument Manufacturing|339992.0|Musical Instrument Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+637|339993.0|Fastener, Button, Needle, and Pin Manufacturing|339993.0|Fastener, Button, Needle, and Pin Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+638|339994.0|Broom, Brush, and Mop Manufacturing|339994.0|Broom, Brush, and Mop Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+639|339995.0|Burial Casket Manufacturing|339995.0|Burial Casket Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+640|339999.0|All Other Miscellaneous Manufacturing|339999.0|All Other Miscellaneous Manufacturing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+641|423110.0|Automobile and Other Motor Vehicle Merchant Wholesalers|421110.0|Automobile and Other Motor Vehicle Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+642|423120.0|Motor Vehicle Supplies and New Parts Merchant Wholesalers|421120.0|Motor Vehicle Supplies and New Parts Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+643|423130.0|Tire and Tube Merchant Wholesalers|421130.0|Tire and Tube Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+644|423140.0|Motor Vehicle Parts (Used) Merchant Wholesalers|421140.0|Motor Vehicle Parts (Used) Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+645|423210.0|Furniture Merchant Wholesalers|421210.0|Furniture Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+646|423220.0|Home Furnishing Merchant Wholesalers|421220.0|Home Furnishing Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+647|423310.0|Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers|421310.0|Lumber, Plywood, Millwork, and Wood Panel Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+648|423320.0|Brick, Stone, and Related Construction Material Merchant Wholesalers|421320.0|Brick, Stone, and Related Construction Material Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+649|423330.0|Roofing, Siding, and Insulation Material Merchant Wholesalers|421330.0|Roofing, Siding, and Insulation Material Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+650|423390.0|Other Construction Material Merchant Wholesalers|421390.0|Other Construction Material Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+651|423410.0|Photographic Equipment and Supplies Merchant Wholesalers|421410.0|Photographic Equipment and Supplies Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+652|423420.0|Office Equipment Merchant Wholesalers|421420.0|Office Equipment Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+653|423430.0|Computer and Computer Peripheral Equipment and Software Merchant Wholesalers|421430.0|Computer and Computer Peripheral Equipment and Software Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+654|423440.0|Other Commercial Equipment Merchant Wholesalers|421440.0|Other Commercial Equipment Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+655|423450.0|Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers|421450.0|Medical, Dental, and Hospital Equipment and Supplies Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+656|423460.0|Ophthalmic Goods Merchant  Wholesalers|421460.0|Ophthalmic Goods Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+657|423490.0|Other Professional Equipment and Supplies Merchant Wholesalers|421490.0|Other Professional Equipment and Supplies Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+658|423510.0|Metal Service Centers and Other Metal Merchant Wholesalers|421510.0|Metal Service Centers and Offices|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+659|423520.0|Coal and Other Mineral and Ore Merchant Wholesalers|421520.0|Coal and Other Mineral and Ore Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+660|423610.0|Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers|421610.0|Electrical Apparatus and Equipment, Wiring Supplies, and Construction Material Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+661|423620.0|Electrical and Electronic Appliance, Television, and Radio Set Merchant Wholesalers|421620.0|Electrical Appliance, Television, and Radio Set Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+662|423690.0|Other Electronic Parts and Equipment Merchant Wholesalers|421690.0|Other Electronic Parts and Equipment Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+663|423710.0|Hardware Merchant Wholesalers|421710.0|Hardware Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+664|423720.0|Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers|421720.0|Plumbing and Heating Equipment and Supplies (Hydronics) Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+665|423730.0|Warm Air Heating and Air-Conditioning Equipment and Supplies Merchant Wholesalers|421730.0|Warm Air Heating and Air-Conditioning Equipment and Supplies Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+666|423740.0|Refrigeration Equipment and Supplies Merchant Wholesalers|421740.0|Refrigeration Equipment and Supplies Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+667|423810.0|Construction and Mining (except Oil Well) Machinery and Equipment Merchant Wholesalers|421810.0|Construction and Mining (except Oil Well) Machinery and Equipment Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+668|423820.0|Farm and Garden Machinery and Equipment Merchant Wholesalers|421820.0|Farm and Garden Machinery and Equipment Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+669|423830.0|Industrial Machinery and Equipment Merchant Wholesalers|421830.0|Industrial Machinery and Equipment Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+670|423840.0|Industrial Supplies Merchant Wholesalers|421840.0|Industrial Supplies Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+671|423850.0|Service Establishment Equipment and Supplies Merchant Wholesalers|421850.0|Service Establishment Equipment and Supplies Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+672|423860.0|Transportation Equipment and Supplies (except Motor Vehicle) Merchant Wholesalers|421860.0|Transportation Equipment and Supplies (except Motor Vehicle) Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+673|423910.0|Sporting and Recreational Goods and Supplies Merchant Wholesalers|421910.0|Sporting and Recreational Goods and Supplies Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+674|423920.0| Toy and Hobby Goods and Supplies Merchant Wholesalers|421920.0| Toy and Hobby Goods and Supplies Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+675|423930.0|Recyclable Material Merchant Wholesalers|421930.0|Recyclable Material Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+676|423940.0|Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers|421940.0|Jewelry, Watch, Precious Stone, and Precious Metal Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+677|423990.0|Other Miscellaneous Durable Goods Merchant Wholesalers|421990.0|Other Miscellaneous Durable Goods Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+678|424110.0|Printing and Writing Paper Merchant Wholesalers|422110.0|Printing and Writing Paper Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+679|424120.0|Stationary and Office Supplies Merchant Wholesalers|422120.0|Stationary and Office Supplies Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+680|424130.0|Industrial and Personal Service Paper Merchant Wholesalers|422130.0|Industrial and Personal Service Paper Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+681|424210.0|Drugs and Druggists' Sundries Merchant Wholesalers|422210.0|Drugs and Druggists' Sundries Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+682|424310.0|Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers|422310.0|Piece Goods, Notions, and Other Dry Goods Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+683|424320.0|Men's and Boys' Clothing and Furnishings Merchant Wholesalers|422320.0|Men's and Boys' Clothing and Furnishings Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+684|424330.0|Women's, Children's, and Infants' Clothing and Accessories Merchant Wholesalers|422330.0|Women's, Children's, and Infants' Clothing and Accessories Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+685|424340.0|Footwear Merchant Wholesalers|422340.0|Footwear Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+686|424410.0|General Line Grocery Merchant Wholesalers|422410.0|General Line Grocery Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+687|424420.0|Packaged Frozen Food Merchant Wholesalers|422420.0|Packaged Frozen Food Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+688|424430.0|Dairy Product (except Dried or Canned) Merchant Wholesalers|422430.0|Dairy Product (except Dried or Canned) Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+689|424440.0|Poultry and Poultry Product Merchant Wholesalers|422440.0|Poultry and Poultry Product Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+690|424450.0|Confectionery Merchant Wholesalers|422450.0|Confectionery Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+691|424460.0|Fish and Seafood Merchant Wholesalers|422460.0|Fish and Seafood Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+692|424470.0|Meat and Meat Product Merchant Wholesalers|422470.0|Meat and Meat Product Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+693|424480.0|Fresh Fruit and Vegetable Merchant Wholesalers|422480.0|Fresh Fruit and Vegetable Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+694|424490.0|Other Grocery and Related Products Merchant Wholesalers|422490.0|Other Grocery and Related Products Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+695|424510.0|Grain and Field Bean Merchant Wholesalers|422510.0|Grain and Field Bean Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+696|424520.0|Livestock Merchant Wholesalers|422520.0|Livestock Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+697|424590.0|Other Farm Product Raw Material Merchant Wholesalers|422590.0|Other Farm Product Raw Material Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+698|424610.0|Plastics Materials and Basic Forms and Shapes Merchant Wholesalers|422610.0|Plastics Materials and Basic Forms and Shapes Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+699|424690.0|Other Chemical and Allied Products Merchant Wholesalers|422690.0|Other Chemical and Allied Products Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+700|424710.0|Petroleum Bulk Stations and Terminals|422710.0|Petroleum Bulk Stations and Terminals|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+701|424720.0|Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals)|422720.0|Petroleum and Petroleum Products Wholesalers (except Bulk Stations and Terminals)|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+702|424810.0|Beer and Ale Merchant Wholesalers|422810.0|Beer and Ale Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+703|424820.0|Wine and Distilled Alcoholic Beverage Merchant Wholesalers|422820.0|Wine and Distilled Alcoholic Beverage Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+704|424910.0|Farm Supplies Merchant Wholesalers|422910.0|Farm Supplies Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+705|424920.0|Book, Periodical, and Newspaper Merchant Wholesalers|422920.0|Book, Periodical, and Newspaper Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+706|424930.0|Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers|422930.0|Flower, Nursery Stock, and Florists' Supplies Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+707|424940.0|Tobacco and Tobacco Product Merchant Wholesalers|422940.0|Tobacco and Tobacco Product Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+708|424950.0|Paint, Varnish, and Supplies Merchant Wholesalers|422950.0|Paint, Varnish, and Supplies Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+709|424990.0|Other Miscellaneous Nondurable Goods Merchant Wholesalers|422990.0|Other Miscellaneous Nondurable Goods Wholesalers|Merchant Wholesalers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+710|425110.0|Business to Business Electronic Markets (pt)|421110.0|Automobile and Other Motor Vehicle Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+711|425110.0|Business to Business Electronic Markets (pt)|421120.0|Motor Vehicle Supplies and New Parts Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+712|425110.0|Business to Business Electronic Markets (pt)|421130.0|Tire and Tube Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+713|425110.0|Business to Business Electronic Markets (pt)|421140.0|Motor Vehicle Parts (Used) Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+714|425110.0|Business to Business Electronic Markets (pt)|421210.0|Furniture Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+715|425110.0|Business to Business Electronic Markets (pt)|421220.0|Home Furnishing Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+716|425110.0|Business to Business Electronic Markets (pt)|421310.0|Lumber, Plywood, Millwork, and Wood Panel Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+717|425110.0|Business to Business Electronic Markets (pt)|421320.0|Brick, Stone, and Related Construction Material Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+718|425110.0|Business to Business Electronic Markets (pt)|421330.0|Roofing, Siding, and Insulation Material Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+719|425110.0|Business to Business Electronic Markets (pt)|421390.0|Other Construction Material Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+720|425110.0|Business to Business Electronic Markets (pt)|421410.0|Photographic Equipment and Supplies Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+721|425110.0|Business to Business Electronic Markets (pt)|421420.0|Office Equipment Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+722|425110.0|Business to Business Electronic Markets (pt)|421430.0|Computer and Computer Peripheral Equipment and Software Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+723|425110.0|Business to Business Electronic Markets (pt)|421440.0|Other Commercial Equipment Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+724|425110.0|Business to Business Electronic Markets (pt)|421450.0|Medical, Dental, and Hospital Equipment and Supplies Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+725|425110.0|Business to Business Electronic Markets (pt)|421460.0|Ophthalmic Goods Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+726|425110.0|Business to Business Electronic Markets (pt)|421490.0|Other Professional Equipment and Supplies Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+727|425110.0|Business to Business Electronic Markets (pt)|421510.0|Metal Service Centers and Offices|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+728|425110.0|Business to Business Electronic Markets (pt)|421520.0|Coal and Other Mineral and Ore Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+729|425110.0|Business to Business Electronic Markets (pt)|421610.0|Electrical Apparatus and Equipment, Wiring Supplies, and Construction Material Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+730|425110.0|Business to Business Electronic Markets (pt)|421620.0|Electrical Appliance, Television, and Radio Set Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+731|425110.0|Business to Business Electronic Markets (pt)|421690.0|Other Electronic Parts and Equipment Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+732|425110.0|Business to Business Electronic Markets (pt)|421710.0|Hardware Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+733|425110.0|Business to Business Electronic Markets (pt)|421720.0|Plumbing and Heating Equipment and Supplies (Hydronics) Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+734|425110.0|Business to Business Electronic Markets (pt)|421730.0|Warm Air Heating and Air-Conditioning Equipment and Supplies Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+735|425110.0|Business to Business Electronic Markets (pt)|421740.0|Refrigeration Equipment and Supplies Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+736|425110.0|Business to Business Electronic Markets (pt)|421810.0|Construction and Mining (except Oil Well) Machinery and Equipment Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+737|425110.0|Business to Business Electronic Markets (pt)|421820.0|Farm and Garden Machinery and Equipment Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+738|425110.0|Business to Business Electronic Markets (pt)|421830.0|Industrial Machinery and Equipment Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+739|425110.0|Business to Business Electronic Markets (pt)|421840.0|Industrial Supplies Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+740|425110.0|Business to Business Electronic Markets (pt)|421850.0|Service Establishment Equipment and Supplies Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+741|425110.0|Business to Business Electronic Markets (pt)|421860.0|Transportation Equipment and Supplies (except Motor Vehicle) Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+742|425110.0|Business to Business Electronic Markets (pt)|421910.0|Sporting and Recreational Goods and Supplies Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+743|425110.0|Business to Business Electronic Markets (pt)|421920.0| Toy and Hobby Goods and Supplies Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+744|425110.0|Business to Business Electronic Markets (pt)|421930.0|Recyclable Material Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+745|425110.0|Business to Business Electronic Markets (pt)|421940.0|Jewelry, Watch, Precious Stone, and Precious Metal Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+746|425110.0|Business to Business Electronic Markets (pt)|421990.0|Other Miscellaneous Durable Goods Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+747|425110.0|Business to Business Electronic Markets (pt)|422110.0|Printing and Writing Paper Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+748|425110.0|Business to Business Electronic Markets (pt)|422120.0|Stationary and Office Supplies Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+749|425110.0|Business to Business Electronic Markets (pt)|422130.0|Industrial and Personal Service Paper Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+750|425110.0|Business to Business Electronic Markets (pt)|422210.0|Drugs and Druggists' Sundries Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+751|425110.0|Business to Business Electronic Markets (pt)|422310.0|Piece Goods, Notions, and Other Dry Goods Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+752|425110.0|Business to Business Electronic Markets (pt)|422320.0|Men's and Boys' Clothing and Furnishings Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+753|425110.0|Business to Business Electronic Markets (pt)|422330.0|Women's, Children's, and Infants' Clothing and Accessories Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+754|425110.0|Business to Business Electronic Markets (pt)|422340.0|Footwear Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+755|425110.0|Business to Business Electronic Markets (pt)|422410.0|General Line Grocery Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+756|425110.0|Business to Business Electronic Markets (pt)|422420.0|Packaged Frozen Food Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+757|425110.0|Business to Business Electronic Markets (pt)|422430.0|Dairy Product (except Dried or Canned) Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+758|425110.0|Business to Business Electronic Markets (pt)|422440.0|Poultry and Poultry Product Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+759|425110.0|Business to Business Electronic Markets (pt)|422450.0|Confectionery Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+760|425110.0|Business to Business Electronic Markets (pt)|422460.0|Fish and Seafood Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+761|425110.0|Business to Business Electronic Markets (pt)|422470.0|Meat and Meat Product Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+762|425110.0|Business to Business Electronic Markets (pt)|422480.0|Fresh Fruit and Vegetable Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+763|425110.0|Business to Business Electronic Markets (pt)|422490.0|Other Grocery and Related Products Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+764|425110.0|Business to Business Electronic Markets (pt)|422510.0|Grain and Field Bean Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+765|425110.0|Business to Business Electronic Markets (pt)|422520.0|Livestock Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+766|425110.0|Business to Business Electronic Markets (pt)|422590.0|Other Farm Product Raw Material Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+767|425110.0|Business to Business Electronic Markets (pt)|422610.0|Plastics Materials and Basic Forms and Shapes Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+768|425110.0|Business to Business Electronic Markets (pt)|422690.0|Other Chemical and Allied Products Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+769|425110.0|Business to Business Electronic Markets (pt)|422720.0|Petroleum and Petroleum Products Wholesalers (except Bulk Stations and Terminals)|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+770|425110.0|Business to Business Electronic Markets (pt)|422810.0|Beer and Ale Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+771|425110.0|Business to Business Electronic Markets (pt)|422820.0|Wine and Distilled Alcoholic Beverage Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+772|425110.0|Business to Business Electronic Markets (pt)|422910.0|Farm Supplies Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+773|425110.0|Business to Business Electronic Markets (pt)|422920.0|Book, Periodical, and Newspaper Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+774|425110.0|Business to Business Electronic Markets (pt)|422930.0|Flower, Nursery Stock, and Florists' Supplies Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+775|425110.0|Business to Business Electronic Markets (pt)|422940.0|Tobacco and Tobacco Product Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+776|425110.0|Business to Business Electronic Markets (pt)|422950.0|Paint, Varnish, and Supplies Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+777|425110.0|Business to Business Electronic Markets (pt)|422990.0|Other Miscellaneous Nondurable Goods Wholesalers|Business to Business Electronic Markets|2002_NAICS_to_1997_NAICS.xls|1997|2002
+778|425120.0|Wholesale Trade Agents and Brokers (pt)|421110.0|Automobile and Other Motor Vehicle Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+779|425120.0|Wholesale Trade Agents and Brokers (pt)|421120.0|Motor Vehicle Supplies and New Parts Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+780|425120.0|Wholesale Trade Agents and Brokers (pt)|421130.0|Tire and Tube Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+781|425120.0|Wholesale Trade Agents and Brokers (pt)|421140.0|Motor Vehicle Parts (Used) Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+782|425120.0|Wholesale Trade Agents and Brokers (pt)|421210.0|Furniture Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+783|425120.0|Wholesale Trade Agents and Brokers (pt)|421220.0|Home Furnishing Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+784|425120.0|Wholesale Trade Agents and Brokers (pt)|421310.0|Lumber, Plywood, Millwork, and Wood Panel Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+785|425120.0|Wholesale Trade Agents and Brokers (pt)|421320.0|Brick, Stone, and Related Construction Material Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+786|425120.0|Wholesale Trade Agents and Brokers (pt)|421330.0|Roofing, Siding, and Insulation Material Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+787|425120.0|Wholesale Trade Agents and Brokers (pt)|421390.0|Other Construction Material Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+788|425120.0|Wholesale Trade Agents and Brokers (pt)|421410.0|Photographic Equipment and Supplies Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+789|425120.0|Wholesale Trade Agents and Brokers (pt)|421420.0|Office Equipment Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+790|425120.0|Wholesale Trade Agents and Brokers (pt)|421430.0|Computer and Computer Peripheral Equipment and Software Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+791|425120.0|Wholesale Trade Agents and Brokers (pt)|421440.0|Other Commercial Equipment Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+792|425120.0|Wholesale Trade Agents and Brokers (pt)|421450.0|Medical, Dental, and Hospital Equipment and Supplies Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+793|425120.0|Wholesale Trade Agents and Brokers (pt)|421460.0|Ophthalmic Goods Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+794|425120.0|Wholesale Trade Agents and Brokers (pt)|421490.0|Other Professional Equipment and Supplies Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+795|425120.0|Wholesale Trade Agents and Brokers (pt)|421510.0|Metal Service Centers and Offices|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+796|425120.0|Wholesale Trade Agents and Brokers (pt)|421520.0|Coal and Other Mineral and Ore Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+797|425120.0|Wholesale Trade Agents and Brokers (pt)|421610.0|Electrical Apparatus and Equipment, Wiring Supplies, and Construction Material Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+798|425120.0|Wholesale Trade Agents and Brokers (pt)|421620.0|Electrical Appliance, Television, and Radio Set Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+799|425120.0|Wholesale Trade Agents and Brokers (pt)|421690.0|Other Electronic Parts and Equipment Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+800|425120.0|Wholesale Trade Agents and Brokers (pt)|421710.0|Hardware Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+801|425120.0|Wholesale Trade Agents and Brokers (pt)|421720.0|Plumbing and Heating Equipment and Supplies (Hydronics) Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+802|425120.0|Wholesale Trade Agents and Brokers (pt)|421730.0|Warm Air Heating and Air-Conditioning Equipment and Supplies Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+803|425120.0|Wholesale Trade Agents and Brokers (pt)|421740.0|Refrigeration Equipment and Supplies Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+804|425120.0|Wholesale Trade Agents and Brokers (pt)|421810.0|Construction and Mining (except Oil Well) Machinery and Equipment Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+805|425120.0|Wholesale Trade Agents and Brokers (pt)|421820.0|Farm and Garden Machinery and Equipment Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+806|425120.0|Wholesale Trade Agents and Brokers (pt)|421830.0|Industrial Machinery and Equipment Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+807|425120.0|Wholesale Trade Agents and Brokers (pt)|421840.0|Industrial Supplies Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+808|425120.0|Wholesale Trade Agents and Brokers (pt)|421850.0|Service Establishment Equipment and Supplies Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+809|425120.0|Wholesale Trade Agents and Brokers (pt)|421860.0|Transportation Equipment and Supplies (except Motor Vehicle) Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+810|425120.0|Wholesale Trade Agents and Brokers (pt)|421910.0|Sporting and Recreational Goods and Supplies Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+811|425120.0|Wholesale Trade Agents and Brokers (pt)|421920.0| Toy and Hobby Goods and Supplies Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+812|425120.0|Wholesale Trade Agents and Brokers (pt)|421930.0|Recyclable Material Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+813|425120.0|Wholesale Trade Agents and Brokers (pt)|421940.0|Jewelry, Watch, Precious Stone, and Precious Metal Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+814|425120.0|Wholesale Trade Agents and Brokers (pt)|421990.0|Other Miscellaneous Durable Goods Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+815|425120.0|Wholesale Trade Agents and Brokers (pt)|422110.0|Printing and Writing Paper Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+816|425120.0|Wholesale Trade Agents and Brokers (pt)|422120.0|Stationary and Office Supplies Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+817|425120.0|Wholesale Trade Agents and Brokers (pt)|422130.0|Industrial and Personal Service Paper Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+818|425120.0|Wholesale Trade Agents and Brokers (pt)|422210.0|Drugs and Druggists' Sundries Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+819|425120.0|Wholesale Trade Agents and Brokers (pt)|422310.0|Piece Goods, Notions, and Other Dry Goods Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+820|425120.0|Wholesale Trade Agents and Brokers (pt)|422320.0|Men's and Boys' Clothing and Furnishings Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+821|425120.0|Wholesale Trade Agents and Brokers (pt)|422330.0|Women's, Children's, and Infants' Clothing and Accessories Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+822|425120.0|Wholesale Trade Agents and Brokers (pt)|422340.0|Footwear Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+823|425120.0|Wholesale Trade Agents and Brokers (pt)|422410.0|General Line Grocery Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+824|425120.0|Wholesale Trade Agents and Brokers (pt)|422420.0|Packaged Frozen Food Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+825|425120.0|Wholesale Trade Agents and Brokers (pt)|422430.0|Dairy Product (except Dried or Canned) Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+826|425120.0|Wholesale Trade Agents and Brokers (pt)|422440.0|Poultry and Poultry Product Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+827|425120.0|Wholesale Trade Agents and Brokers (pt)|422450.0|Confectionery Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+828|425120.0|Wholesale Trade Agents and Brokers (pt)|422460.0|Fish and Seafood Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+829|425120.0|Wholesale Trade Agents and Brokers (pt)|422470.0|Meat and Meat Product Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+830|425120.0|Wholesale Trade Agents and Brokers (pt)|422480.0|Fresh Fruit and Vegetable Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+831|425120.0|Wholesale Trade Agents and Brokers (pt)|422490.0|Other Grocery and Related Products Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+832|425120.0|Wholesale Trade Agents and Brokers (pt)|422510.0|Grain and Field Bean Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+833|425120.0|Wholesale Trade Agents and Brokers (pt)|422520.0|Livestock Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+834|425120.0|Wholesale Trade Agents and Brokers (pt)|422590.0|Other Farm Product Raw Material Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+835|425120.0|Wholesale Trade Agents and Brokers (pt)|422610.0|Plastics Materials and Basic Forms and Shapes Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+836|425120.0|Wholesale Trade Agents and Brokers (pt)|422690.0|Other Chemical and Allied Products Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+837|425120.0|Wholesale Trade Agents and Brokers (pt)|422720.0|Petroleum and Petroleum Products Wholesalers (except Bulk Stations and Terminals)|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+838|425120.0|Wholesale Trade Agents and Brokers (pt)|422810.0|Beer and Ale Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+839|425120.0|Wholesale Trade Agents and Brokers (pt)|422820.0|Wine and Distilled Alcoholic Beverage Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+840|425120.0|Wholesale Trade Agents and Brokers (pt)|422910.0|Farm Supplies Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+841|425120.0|Wholesale Trade Agents and Brokers (pt)|422920.0|Book, Periodical, and Newspaper Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+842|425120.0|Wholesale Trade Agents and Brokers (pt)|422930.0|Flower, Nursery Stock, and Florists' Supplies Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+843|425120.0|Wholesale Trade Agents and Brokers (pt)|422940.0|Tobacco and Tobacco Product Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+844|425120.0|Wholesale Trade Agents and Brokers (pt)|422950.0|Paint, Varnish, and Supplies Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+845|425120.0|Wholesale Trade Agents and Brokers (pt)|422990.0|Other Miscellaneous Nondurable Goods Wholesalers|Agents and Brokers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+846|441110.0|New Car Dealers|441110.0|New Car Dealers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+847|441120.0|Used Car Dealers|441120.0|Used Car Dealers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+848|441210.0|Recreational Vehicle Dealers|441210.0|Recreational Vehicle Dealers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+849|441221.0|Motorcycle Dealers|441221.0|Motorcycle Dealers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+850|441222.0|Boat Dealers|441222.0|Boat Dealers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+851|441229.0|All Other Motor Vehicle Dealers|441229.0|All Other Motor Vehicle Dealers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+852|441310.0|Automotive Parts and Accessories Stores|441310.0|Automotive Parts and Accessories Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+853|441320.0|Tire Dealers|441320.0|Tire Dealers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+854|442110.0|Furniture Stores|442110.0|Furniture Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+855|442210.0|Floor Covering Stores|442210.0|Floor Covering Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+856|442291.0|Window Treatment Stores|442291.0|Window Treatment Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+857|442299.0|All Other Home Furnishings Stores|442299.0|All Other Home Furnishings Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+858|443111.0|Household Appliance Stores|443111.0|Household Appliance Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+859|443112.0|Radio, Television, and Other Electronics Stores|443112.0|Radio, Television, and Other Electronics Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+860|443120.0|Computer and Software Stores|443120.0|Computer and Software Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+861|443130.0|Camera and Photographic Supplies Stores|443130.0|Camera and Photographic Supplies Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+862|444110.0|Home Centers|444110.0|Home Centers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+863|444120.0|Paint and Wallpaper Stores|444120.0|Paint and Wallpaper Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+864|444130.0|Hardware Stores|444130.0|Hardware Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+865|444190.0|Other Building Material Dealers|444190.0|Other Building Material Dealers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+866|444210.0|Outdoor Power Equipment Stores|444210.0|Outdoor Power Equipment Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+867|444220.0|Nursery, Garden Center, and Farm Supply Stores|444220.0|Nursery and Garden Centers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+868|445110.0|Supermarkets and Other Grocery (except Convenience) Stores|445110.0|Supermarkets and Other Grocery (except Convenience) Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+869|445120.0|Convenience Stores|445120.0|Convenience Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+870|445210.0|Meat Markets|445210.0|Meat Markets||2002_NAICS_to_1997_NAICS.xls|1997|2002
+871|445220.0|Fish and Seafood Markets|445220.0|Fish and Seafood Markets||2002_NAICS_to_1997_NAICS.xls|1997|2002
+872|445230.0|Fruit and Vegetable Markets|445230.0|Fruit and Vegetable Markets||2002_NAICS_to_1997_NAICS.xls|1997|2002
+873|445291.0|Baked Goods Stores|445291.0|Baked Goods Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+874|445292.0|Confectionery and Nut Stores|445292.0|Confectionery and Nut Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+875|445299.0|All Other Specialty Food Stores|445299.0|All Other Specialty Food Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+876|445310.0|Beer, Wine, and Liquor Stores|445310.0|Beer, Wine, and Liquor Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+877|446110.0|Pharmacies and Drug Stores|446110.0|Pharmacies and Drug Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+878|446120.0|Cosmetics, Beauty Supplies, and Perfume Stores|446120.0|Cosmetics, Beauty Supplies, and Perfume Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+879|446130.0|Optical Goods Stores|446130.0|Optical Goods Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+880|446191.0|Food (Health) Supplement Stores|446191.0|Food (Health) Supplement Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+881|446199.0|All Other Health and Personal Care Stores|446199.0|All Other Health and Personal Care Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+882|447110.0|Gasoline Stations with Convenience Stores|447110.0|Gasoline Stations with Convenience Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+883|447190.0|Other Gasoline Stations|447190.0|Other Gasoline Stations||2002_NAICS_to_1997_NAICS.xls|1997|2002
+884|448110.0|Men's Clothing Stores|448110.0|Men's Clothing Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+885|448120.0|Women's Clothing Stores|448120.0|Women's Clothing Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+886|448130.0|Children's and Infants' Clothing Stores|448130.0|Children's and Infants' Clothing Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+887|448140.0|Family Clothing Stores|448140.0|Family Clothing Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+888|448150.0|Clothing Accessories Stores|448150.0|Clothing Accessories Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+889|448190.0|Other Clothing Stores|448190.0|Other Clothing Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+890|448210.0|Shoe Stores|448210.0|Shoe Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+891|448310.0|Jewelry Stores|448310.0|Jewelry Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+892|448320.0|Luggage and Leather Goods Stores|448320.0|Luggage and Leather Goods Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+893|451110.0|Sporting Goods Stores|451110.0|Sporting Goods Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+894|451120.0|Hobby, Toy, and Game Stores|451120.0|Hobby, Toy, and Game Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+895|451130.0|Sewing, Needlework, and Piece Goods Stores|451130.0|Sewing, Needlework, and Piece Goods Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+896|451140.0|Musical Instrument and Supplies Stores|451140.0|Musical Instrument and Supplies Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+897|451211.0|Book Stores|451211.0|Book Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+898|451212.0|News Dealers and Newsstands|451212.0|News Dealers and Newsstands||2002_NAICS_to_1997_NAICS.xls|1997|2002
+899|451220.0|Prerecorded Tape, Compact Disc, and Record Stores|451220.0|Prerecorded Tape, Compact Disc, and Record Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+900|452111.0|Department Stores (except Discount Department Stores)|452110.0|Department Stores|Department Stores (except Discount Department Stores)|2002_NAICS_to_1997_NAICS.xls|1997|2002
+901|452112.0|Discount Department Stores|452110.0|Department Stores|Discount Department Stores|2002_NAICS_to_1997_NAICS.xls|1997|2002
+902|452910.0|Warehouse Clubs and Supercenters|452910.0|Warehouse Clubs and Superstores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+903|452990.0|All Other General Merchandise Stores|452990.0|All Other General Merchandise Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+904|453110.0|Florists|453110.0|Florists||2002_NAICS_to_1997_NAICS.xls|1997|2002
+905|453210.0|Office Supplies and Stationery Stores|453210.0|Office Supplies and Stationery Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+906|453220.0|Gift, Novelty, and Souvenir Stores|453220.0|Gift, Novelty, and Souvenir Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+907|453310.0|Used Merchandise Stores|453310.0|Used Merchandise Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+908|453910.0|Pet and Pet Supplies Stores|453910.0|Pet and Pet Supplies Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+909|453920.0|Art Dealers|453920.0|Art Dealers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+910|453930.0|Manufactured (Mobile) Home Dealers|453930.0|Manufactured (Mobile) Home Dealers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+911|453991.0|Tobacco Stores|453991.0|Tobacco Stores||2002_NAICS_to_1997_NAICS.xls|1997|2002
+912|453998.0|All Other Miscellaneous Store Retailers (except Tobacco Stores)|453998.0|All Other Miscellaneous Store Retailers (except Tobacco Stores)||2002_NAICS_to_1997_NAICS.xls|1997|2002
+913|454111.0|Electronic Shopping|454110.0|Electronic Shopping and Mail-Order Houses|Electronic Shopping|2002_NAICS_to_1997_NAICS.xls|1997|2002
+914|454112.0|Electronic Auctions|454110.0|Electronic Shopping and Mail-Order Houses|Electronic Auctions|2002_NAICS_to_1997_NAICS.xls|1997|2002
+915|454113.0|Mail-Order Houses|454110.0|Electronic Shopping and Mail-Order Houses|Mail-Order Houses|2002_NAICS_to_1997_NAICS.xls|1997|2002
+916|454210.0|Vending Machine Operators|454210.0|Vending Machine Operators||2002_NAICS_to_1997_NAICS.xls|1997|2002
+917|454311.0|Heating Oil Dealers|454311.0|Heating Oil Dealers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+918|454312.0|Liquefied Petroleum Gas (Bottled Gas) Dealers|454312.0|Liquefied Petroleum Gas (Bottled Gas) Dealers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+919|454319.0|Other Fuel Dealers|454319.0|Other Fuel Dealers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+920|454390.0|Other Direct Selling Establishments|454390.0|Other Direct Selling Establishments||2002_NAICS_to_1997_NAICS.xls|1997|2002
+921|481111.0|Scheduled Passenger Air Transportation|481111.0|Scheduled Passenger Air Transportation||2002_NAICS_to_1997_NAICS.xls|1997|2002
+922|481112.0|Scheduled Freight Air Transportation|481112.0|Scheduled Freight Air Transportation||2002_NAICS_to_1997_NAICS.xls|1997|2002
+923|481211.0|Nonscheduled Chartered Passenger Air Transportation|481211.0|Nonscheduled Chartered Passenger Air Transportation||2002_NAICS_to_1997_NAICS.xls|1997|2002
+924|481212.0|Nonscheduled Chartered Freight Air Transportation|481212.0|Nonscheduled Chartered Freight Air Transportation||2002_NAICS_to_1997_NAICS.xls|1997|2002
+925|481219.0|Other Nonscheduled Air Transportation|481219.0|Other Nonscheduled Air Transportation||2002_NAICS_to_1997_NAICS.xls|1997|2002
+926|482111.0|Line-Haul Railroads|482111.0|Line-Haul Railroads||2002_NAICS_to_1997_NAICS.xls|1997|2002
+927|482112.0|Short Line Railroads|482112.0|Short Line Railroads||2002_NAICS_to_1997_NAICS.xls|1997|2002
+928|483111.0|Deep Sea Freight Transportation|483111.0|Deep Sea Freight Transportation||2002_NAICS_to_1997_NAICS.xls|1997|2002
+929|483112.0|Deep Sea Passenger Transportation|483112.0|Deep Sea Passenger Transportation||2002_NAICS_to_1997_NAICS.xls|1997|2002
+930|483113.0|Coastal and Great Lakes Freight Transportation|483113.0|Coastal and Great Lakes Freight Transportation||2002_NAICS_to_1997_NAICS.xls|1997|2002
+931|483114.0|Coastal and Great Lakes Passenger Transportation|483114.0|Coastal and Great Lakes Passenger Transportation||2002_NAICS_to_1997_NAICS.xls|1997|2002
+932|483211.0|Inland Water Freight Transportation|483211.0|Inland Water Freight Transportation||2002_NAICS_to_1997_NAICS.xls|1997|2002
+933|483212.0|Inland Water Passenger Transportation|483212.0|Inland Water Passenger Transportation||2002_NAICS_to_1997_NAICS.xls|1997|2002
+934|484110.0|General Freight Trucking, Local|484110.0|General Freight Trucking, Local||2002_NAICS_to_1997_NAICS.xls|1997|2002
+935|484121.0|General Freight Trucking, Long-Distance, Truckload|484121.0|General Freight Trucking, Long-Distance, Truckload||2002_NAICS_to_1997_NAICS.xls|1997|2002
+936|484122.0|General Freight Trucking, Long-Distance, Less Than Truckload|484122.0|General Freight Trucking, Long-Distance, Less Than Truckload||2002_NAICS_to_1997_NAICS.xls|1997|2002
+937|484210.0|Used Household and Office Goods Moving|484210.0|Used Household and Office Goods Moving||2002_NAICS_to_1997_NAICS.xls|1997|2002
+938|484220.0|Specialized Freight (except Used Goods) Trucking, Local|484220.0|Specialized Freight (except Used Goods) Trucking, Local||2002_NAICS_to_1997_NAICS.xls|1997|2002
+939|484230.0|Specialized Freight (except Used Goods) Trucking, Long-Distance|484230.0|Specialized Freight (except Used Goods) Trucking, Long-Distance||2002_NAICS_to_1997_NAICS.xls|1997|2002
+940|485111.0|Mixed Mode Transit Systems|485111.0|Mixed Mode Transit Systems||2002_NAICS_to_1997_NAICS.xls|1997|2002
+941|485112.0|Commuter Rail Systems|485112.0|Commuter Rail Systems||2002_NAICS_to_1997_NAICS.xls|1997|2002
+942|485113.0|Bus and Other Motor Vehicle Transit Systems|485113.0|Bus and Other Motor Vehicle Transit Systems||2002_NAICS_to_1997_NAICS.xls|1997|2002
+943|485119.0|Other Urban Transit Systems|485119.0|Other Urban Transit Systems||2002_NAICS_to_1997_NAICS.xls|1997|2002
+944|485210.0|Interurban and Rural Bus Transportation|485210.0|Interurban and Rural Bus Transportation||2002_NAICS_to_1997_NAICS.xls|1997|2002
+945|485310.0|Taxi Service|485310.0|Taxi Service||2002_NAICS_to_1997_NAICS.xls|1997|2002
+946|485320.0|Limousine Service|485320.0|Limousine Service||2002_NAICS_to_1997_NAICS.xls|1997|2002
+947|485410.0|School and Employee Bus Transportation|485410.0|School and Employee Bus Transportation||2002_NAICS_to_1997_NAICS.xls|1997|2002
+948|485510.0|Charter Bus Industry|485510.0|Charter Bus Industry||2002_NAICS_to_1997_NAICS.xls|1997|2002
+949|485991.0|Special Needs Transportation|485991.0|Special Needs Transportation||2002_NAICS_to_1997_NAICS.xls|1997|2002
+950|485999.0|All Other Transit and Ground Passenger Transportation|485999.0|All Other Transit and Ground Passenger Transportation||2002_NAICS_to_1997_NAICS.xls|1997|2002
+951|486110.0|Pipeline Transportation of Crude Oil|486110.0|Pipeline Transportation of Crude Oil||2002_NAICS_to_1997_NAICS.xls|1997|2002
+952|486210.0|Pipeline Transportation of Natural Gas|486210.0|Pipeline Transportation of Natural Gas||2002_NAICS_to_1997_NAICS.xls|1997|2002
+953|486910.0|Pipeline Transportation of Refined Petroleum Products|486910.0|Pipeline Transportation of Refined Petroleum Products||2002_NAICS_to_1997_NAICS.xls|1997|2002
+954|486990.0|All Other Pipeline Transportation|486990.0|All Other Pipeline Transportation||2002_NAICS_to_1997_NAICS.xls|1997|2002
+955|487110.0|Scenic and Sightseeing Transportation, Land|487110.0|Scenic and Sightseeing Transportation, Land||2002_NAICS_to_1997_NAICS.xls|1997|2002
+956|487210.0|Scenic and Sightseeing Transportation, Water|487210.0|Scenic and Sightseeing Transportation, Water||2002_NAICS_to_1997_NAICS.xls|1997|2002
+957|487990.0|Scenic and Sightseeing Transportation, Other|487990.0|Scenic and Sightseeing Transportation, Other||2002_NAICS_to_1997_NAICS.xls|1997|2002
+958|488111.0|Air Traffic Control|488111.0|Air Traffic Control||2002_NAICS_to_1997_NAICS.xls|1997|2002
+959|488119.0|Other Airport Operations|488119.0|Other Airport Operations||2002_NAICS_to_1997_NAICS.xls|1997|2002
+960|488190.0|Other Support Activities for Air Transportation|488190.0|Other Support Activities for Air Transportation||2002_NAICS_to_1997_NAICS.xls|1997|2002
+961|488210.0|Support Activities for Rail Transportation|488210.0|Support Activities for Rail Transportation||2002_NAICS_to_1997_NAICS.xls|1997|2002
+962|488310.0|Port and Harbor Operations|488310.0|Port and Harbor Operations||2002_NAICS_to_1997_NAICS.xls|1997|2002
+963|488320.0|Marine Cargo Handling|488320.0|Marine Cargo Handling||2002_NAICS_to_1997_NAICS.xls|1997|2002
+964|488330.0|Navigational Services to Shipping|488330.0|Navigational Services to Shipping||2002_NAICS_to_1997_NAICS.xls|1997|2002
+965|488390.0|Other Support Activities for Water Transportation|488390.0|Other Support Activities for Water Transportation||2002_NAICS_to_1997_NAICS.xls|1997|2002
+966|488410.0|Motor Vehicle Towing|488410.0|Motor Vehicle Towing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+967|488490.0|Other Support Activities for Road Transportation|488490.0|Other Support Activities for Road Transportation||2002_NAICS_to_1997_NAICS.xls|1997|2002
+968|488510.0|Freight Transportation Arrangement|488510.0|Freight Transportation Arrangement||2002_NAICS_to_1997_NAICS.xls|1997|2002
+969|488991.0|Packing and Crating|488991.0|Packing and Crating||2002_NAICS_to_1997_NAICS.xls|1997|2002
+970|488999.0|All Other Support Activities for Transportation|488999.0|All Other Support Activities for Transportation||2002_NAICS_to_1997_NAICS.xls|1997|2002
+971|491110.0|Postal Service|491110.0|Postal Service||2002_NAICS_to_1997_NAICS.xls|1997|2002
+972|492110.0|Couriers|492110.0|Couriers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+973|492210.0|Local Messengers and Local Delivery|492210.0|Local Messengers and Local Delivery||2002_NAICS_to_1997_NAICS.xls|1997|2002
+974|493110.0|General Warehousing and Storage|493110.0|General Warehousing and Storage||2002_NAICS_to_1997_NAICS.xls|1997|2002
+975|493120.0|Refrigerated Warehousing and Storage|493120.0|Refrigerated Warehousing and Storage||2002_NAICS_to_1997_NAICS.xls|1997|2002
+976|493130.0|Farm Product Warehousing and Storage|493130.0|Farm Product Warehousing and Storage||2002_NAICS_to_1997_NAICS.xls|1997|2002
+977|493190.0|Other Warehousing and Storage|493190.0|Other Warehousing and Storage||2002_NAICS_to_1997_NAICS.xls|1997|2002
+978|511110.0|Newspaper Publishers|511110.0|Newspaper Publishers|Newspaper Publishers (except Internet Publishers)|2002_NAICS_to_1997_NAICS.xls|1997|2002
+979|511120.0|Periodical Publishers|511120.0|Periodical Publishers|Periodical Publishers (except Internet Publishers)|2002_NAICS_to_1997_NAICS.xls|1997|2002
+980|511130.0|Book Publishers|511130.0|Book Publishers|Book Publishers (except Internet Publishers)|2002_NAICS_to_1997_NAICS.xls|1997|2002
+981|511130.0|Book Publishers|511199.0|All Other Publishers|Atlas and Map Publishers (except Internet Publishers)|2002_NAICS_to_1997_NAICS.xls|1997|2002
+982|511140.0|Directory and Mailing List Publishers|511140.0|Database and Directory Publishers|Database and Directory Publishers (except Internet Publishers)|2002_NAICS_to_1997_NAICS.xls|1997|2002
+983|511191.0|Greeting Card Publishers|511191.0|Greeting Card Publishers|Greeting Card Publishers (except Internet Publishers)|2002_NAICS_to_1997_NAICS.xls|1997|2002
+984|511199.0|All Other Publishers|511199.0|All Other Publishers|All Other Publishers (except Internet Publishers)|2002_NAICS_to_1997_NAICS.xls|1997|2002
+985|511210.0|Software Publishers|511210.0|Software Publishers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+986|512110.0|Motion Picture and Video Production|512110.0|Motion Picture and Video Production||2002_NAICS_to_1997_NAICS.xls|1997|2002
+987|512120.0|Motion Picture and Video Distribution|512120.0|Motion Picture and Video Distribution||2002_NAICS_to_1997_NAICS.xls|1997|2002
+988|512131.0|Motion Picture Theaters (except Drive-Ins)|512131.0|Motion Picture Theaters (except Drive-Ins)||2002_NAICS_to_1997_NAICS.xls|1997|2002
+989|512132.0|Drive-In Motion Picture Theaters|512132.0|Drive-In Motion Picture Theaters||2002_NAICS_to_1997_NAICS.xls|1997|2002
+990|512191.0|Teleproduction and other Postproduction Services|512191.0|Teleproduction and Other Postproduction Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+991|512199.0|Other Motion Picture and Video Industries|512199.0|Other Motion Picture and Video Industries||2002_NAICS_to_1997_NAICS.xls|1997|2002
+992|512210.0|Record Production|512210.0|Record Production||2002_NAICS_to_1997_NAICS.xls|1997|2002
+993|512220.0|Integrated Record Production/Distribution|512220.0|Integrated Record Production/Distribution||2002_NAICS_to_1997_NAICS.xls|1997|2002
+994|512230.0|Music Publishers|512230.0|Music Publishers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+995|512240.0|Sound Recording Studios|512240.0|Sound Recording Studios||2002_NAICS_to_1997_NAICS.xls|1997|2002
+996|512290.0|Other Sound Recording Industries|512290.0|Other Sound Recording Industries||2002_NAICS_to_1997_NAICS.xls|1997|2002
+997|515111.0|Radio Networks |513111.0|Radio Networks||2002_NAICS_to_1997_NAICS.xls|1997|2002
+998|515112.0|Radio Stations|513112.0|Radio Stations||2002_NAICS_to_1997_NAICS.xls|1997|2002
+999|515120.0|Television Broadcasting|513120.0|Television Broadcasting||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1000|515210.0|Cable and Other Subscription Programming|513210.0|Cable Networks||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1001|516110.0|Internet Publishing and Broadcasting (pt.)|511110.0|Newspaper Publishers|Internet Newspaper Publishers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+1002|516110.0|Internet Publishing and Broadcasting (pt.)|511120.0|Periodical Publishers|Internet Periodical Publishers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+1003|516110.0|Internet Publishing and Broadcasting (pt.)|511130.0|Book Publishers|Internet Book Publishers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+1004|516110.0|Internet Publishing and Broadcasting (pt.)|511140.0|Database and Directory Publishers|Internet Database and Directory Publishers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+1005|516110.0|Internet Publishing and Broadcasting (pt.)|511191.0|Greeting Card Publishers|Internet Greeting Card Publishers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+1006|516110.0|Internet Publishing and Broadcasting (pt.)|511199.0|All Other Publishers|All Other Internet Publishers|2002_NAICS_to_1997_NAICS.xls|1997|2002
+1007|516110.0|Internet Publishing and Broadcasting (pt.)|514199.0|All Other Information Services|Internet Broadcasting|2002_NAICS_to_1997_NAICS.xls|1997|2002
+1008|517110.0|Wired Telecommunications Carriers|513310.0|Wired Telecommunications Carriers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1009|517211.0|Paging|513321.0|Paging||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1010|517212.0|Cellular and Other Wireless Telecommunications|513322.0|Cellular and Other Wireless Telecommunications||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1011|517310.0|Telecommunications Resellers|513330.0|Telecommunications Resellers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1012|517410.0|Satellite Telecommunications|513340.0|Satellite Telecommunications||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1013|517510.0|Cable and Other Program Distribution|513220.0|Cable and Other Program Distribution||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1014|517910.0|Other Telecommunications|513390.0|Other Telecommunications||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1015|518111.0|Internet Service Providers|514191.0|On-Line Information Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1016|518112.0|Web Search Portals|514199.0|All Other Information Services|Web Search Portals|2002_NAICS_to_1997_NAICS.xls|1997|2002
+1017|518210.0|Data Processing, Hosting, and Related Services|514210.0|Data Processing Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1018|519110.0|News Syndicates|514110.0|News Syndicates||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1019|519120.0|Libraries and Archives|514120.0|Libraries and Archives||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1020|519190.0|All Other Information Services|514199.0|All Other Information Services|All Other Information Services|2002_NAICS_to_1997_NAICS.xls|1997|2002
+1021|521110.0|Monetary Authorities - Central Bank|521110.0|Monetary Authorities - Central Bank||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1022|522110.0|Commercial Banking|522110.0|Commercial Banking||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1023|522120.0|Savings Institutions|522120.0|Savings Institutions||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1024|522130.0|Credit Unions|522130.0|Credit Unions||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1025|522190.0|Other Depository Credit Intermediation|522190.0|Other Depository Credit Intermediation||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1026|522210.0|Credit Card Issuing|522210.0|Credit Card Issuing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1027|522220.0|Sales Financing|522220.0|Sales Financing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1028|522291.0|Consumer Lending|522291.0|Consumer Lending||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1029|522292.0|Real Estate Credit|522292.0|Real Estate Credit||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1030|522293.0|International Trade Financing|522293.0|International Trade Financing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1031|522294.0|Secondary Market Financing|522294.0|Secondary Market Financing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1032|522298.0|All Other Nondepository Credit Intermediation|522298.0|All Other Nondepository Credit Intermediation||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1033|522310.0|Mortgage and Nonmortgage Loan Brokers|522310.0|Mortgage and Nonmortgage Loan Brokers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1034|522320.0|Financial Transactions Processing, Reserve, and Clearinghouse Activities|522320.0|Financial Transactions Processing, Reserve, and Clearinghouse Activities||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1035|522390.0|Other Activities Related to Credit Intermediation|522390.0|Other Activities Related to Credit Intermediation||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1036|523110.0|Investment Banking and Securities Dealing|523110.0|Investment Banking and Securities Dealing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1037|523120.0|Securities Brokerage|523120.0|Securities Brokerage||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1038|523130.0|Commodity Contracts Dealing|523130.0|Commodity Contracts Dealing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1039|523140.0|Commodity Contracts Brokerage|523140.0|Commodity Contracts Brokerage||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1040|523210.0|Securities and Commodity Exchanges|523210.0|Securities and Commodity Exchanges||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1041|523910.0|Miscellaneous Intermediation|523910.0|Miscellaneous Intermediation||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1042|523920.0|Portfolio Management|523920.0|Portfolio Management||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1043|523930.0|Investment Advice|523930.0|Investment Advice||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1044|523991.0|Trust, Fiduciary, and Custody Activities|523991.0|Trust, Fiduciary, and Custody Activities||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1045|523999.0|Miscellaneous Financial Investment Activities|523999.0|Miscellaneous Financial Investment Activities||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1046|524113.0|Direct Life Insurance Carriers|524113.0|Direct Life Insurance Carriers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1047|524114.0|Direct Health and Medical Insurance Carriers|524114.0|Direct Health and Medical Insurance Carriers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1048|524126.0|Direct Property and Casualty Insurance Carriers|524126.0|Direct Property and Casualty Insurance Carriers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1049|524127.0|Direct Title Insurance Carriers|524127.0|Direct Title Insurance Carriers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1050|524128.0|Other Direct Insurance (except Life, Health, and Medical) Carriers|524128.0|Other Direct Insurance (except Life, Health, and Medical) Carriers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1051|524130.0|Reinsurance Carriers|524130.0|Reinsurance Carriers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1052|524210.0|Insurance Agencies and Brokerages|524210.0|Insurance Agencies and Brokerages||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1053|524291.0|Claims Adjusting|524291.0|Claims Adjusting||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1054|524292.0|Third Party Administration of Insurance and Pension Funds|524292.0|Third Party Administration of Insurance and Pension Funds||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1055|524298.0|All Other Insurance Related Activities|524298.0|All Other Insurance Related Activities||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1056|525110.0|Pension Funds|525110.0|Pension Funds||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1057|525120.0|Health and Welfare Funds|525120.0|Health and Welfare Funds||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1058|525190.0|Other Insurance Funds|525190.0|Other Insurance Funds||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1059|525910.0|Open-End Investment Funds|525910.0|Open-End Investment Funds||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1060|525920.0|Trusts, Estates, and Agency Accounts|525920.0|Trusts, Estates, and Agency Accounts||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1061|525930.0|Real Estate Investment Trusts|525930.0|Real Estate Investment Trusts||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1062|525990.0|Other Financial Vehicles|525990.0|Other Financial Vehicles||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1063|531110.0|Lessors of Residential Buildings and Dwellings|531110.0|Lessors of Residential Buildings and Dwellings||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1064|531120.0|Lessors of Nonresidential Buildings (except Miniwarehouses)|531120.0|Lessors of Nonresidential Buildings (except Miniwarehouses)||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1065|531130.0|Lessors of Miniwarehouses and Self-Storage Units|531130.0|Lessors of Miniwarehouses and Self-Storage Units||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1066|531190.0|Lessors of Other Real Estate Property|531190.0|Lessors of Other Real Estate Property||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1067|531210.0|Offices of Real Estate Agents and Brokers|531210.0|Offices of Real Estate Agents and Brokers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1068|531311.0|Residential Property Managers|531311.0|Residential Property Managers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1069|531312.0|Nonresidential Property Managers|531312.0|Nonresidential Property Managers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1070|531320.0|Offices of Real Estate Appraisers|531320.0|Offices of Real Estate Appraisers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1071|531390.0|Other Activities Related to Real Estate|531390.0|Other Activities Related to Real Estate||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1072|532111.0|Passenger Car Rental|532111.0|Passenger Car Rental||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1073|532112.0|Passenger Car Leasing|532112.0|Passenger Car Leasing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1074|532120.0|Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing|532120.0|Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1075|532210.0|Consumer Electronics and Appliances Rental|532210.0|Consumer Electronics and Appliances Rental||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1076|532220.0|Formal Wear and Costume Rental|532220.0|Formal Wear and Costume Rental||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1077|532230.0|Video Tape and Disc Rental|532230.0|Video Tape and Disc Rental||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1078|532291.0|Home Health Equipment Rental|532291.0|Home Health Equipment Rental||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1079|532292.0|Recreational Goods Rental|532292.0|Recreational Goods Rental||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1080|532299.0|All Other Consumer Goods Rental|532299.0|All Other Consumer Goods Rental||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1081|532310.0|General Rental Centers|532310.0|General Rental Centers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1082|532411.0|Commercial Air, Rail, and Water Transportation Equipment Rental and Leasing|532411.0|Commercial Air, Rail, and Water Transportation Equipment Rental and Leasing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1083|532412.0|Construction, Mining, and Forestry Machinery and Equipment Rental and Leasing|532412.0|Construction, Mining, and Forestry Machinery and Equipment Rental and Leasing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1084|532420.0|Office Machinery and Equipment Rental and Leasing|532420.0|Office Machinery and Equipment Rental and Leasing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1085|532490.0|Other Commercial and Industrial Machinery and Equipment Rental and Leasing|532490.0|Other Commercial and Industrial Machinery and Equipment Rental and Leasing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1086|533110.0|Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)|533110.0|Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1087|541110.0|Offices of Lawyers|541110.0|Offices of Lawyers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1088|541120.0|Offices of Notaries|541120.0|Offices of Notaries||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1089|541191.0|Title Abstract and Settlement Offices|541191.0|Title Abstract and Settlement Offices||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1090|541199.0|All Other Legal Services|541199.0|All Other Legal Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1091|541211.0|Offices of Certified Public Accountants|541211.0|Offices of Certified Public Accountants||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1092|541213.0|Tax Preparation Services|541213.0|Tax Preparation Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1093|541214.0|Payroll Services|541214.0|Payroll Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1094|541219.0|Other Accounting Services|541219.0|Other Accounting Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1095|541310.0|Architectural Services|541310.0|Architectural Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1096|541320.0|Landscape Architectural Services|541320.0|Landscape Architectural Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1097|541330.0|Engineering Services|541330.0|Engineering Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1098|541340.0|Drafting Services|541340.0|Drafting Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1099|541350.0|Building Inspection Services|541350.0|Building Inspection Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1100|541360.0|Geophysical Surveying and Mapping Services|541360.0|Geophysical Surveying and Mapping Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1101|541370.0|Surveying and Mapping (except Geophysical) Services|541370.0|Surveying and Mapping (except Geophysical) Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1102|541380.0|Testing Laboratories|541380.0|Testing Laboratories||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1103|541410.0|Interior Design Services|541410.0|Interior Design Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1104|541420.0|Industrial Design Services|541420.0|Industrial Design Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1105|541430.0|Graphic Design Services|541430.0|Graphic Design Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1106|541490.0|Other Specialized Design Services|541490.0|Other Specialized Design Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1107|541511.0|Custom Computer Programming Services|541511.0|Custom Computer Programming Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1108|541512.0|Computer Systems Design Services|541512.0|Computer Systems Design Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1109|541513.0|Computer Facilities Management Services|541513.0|Computer Facilities Management Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1110|541519.0|Other Computer Related Services|541519.0|Other Computer Related Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1111|541611.0|Administrative Management and General Management Consulting Services|541611.0|Administrative Management and General Management Consulting Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1112|541612.0|Human Resources and Executive Search Consulting Services|541612.0|Human Resources and Executive Search Consulting Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1113|541613.0|Marketing Consulting Services|541613.0|Marketing Consulting Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1114|541614.0|Process, Physical Distribution, and Logistics Consulting Services|541614.0|Process, Physical Distribution, and Logistics Consulting Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1115|541618.0|Other Management Consulting Services|541618.0|Other Management Consulting Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1116|541620.0|Environmental Consulting Services|541620.0|Environmental Consulting Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1117|541690.0|Other Scientific and Technical Consulting Services|541690.0|Other Scientific and Technical Consulting Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1118|541710.0|Research and Development in the Physical, Engineering, and Life Sciences|541710.0|Research and Development in the Physical, Engineering, and Life Sciences||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1119|541720.0|Research and Development in the Social Sciences and Humanities|541720.0|Research and Development in the Social Sciences and Humanities||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1120|541810.0|Advertising Agencies|541810.0|Advertising Agencies||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1121|541820.0|Public Relations Agencies|541820.0|Public Relations Agencies||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1122|541830.0|Media Buying Agencies|541830.0|Media Buying Agencies||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1123|541840.0|Media Representatives|541840.0|Media Representatives||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1124|541850.0|Display Advertising|541850.0|Display Advertising||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1125|541860.0|Direct Mail Advertising|541860.0|Direct Mail Advertising||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1126|541870.0|Advertising Material Distribution Services|541870.0|Advertising Material Distribution Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1127|541890.0|Other Services Related to Advertising|541890.0|Other Services Related to Advertising||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1128|541910.0|Marketing Research and Public Opinion Polling|541910.0|Marketing Research and Public Opinion Polling||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1129|541921.0|Photography Studios, Portrait|541921.0|Photography Studios, Portrait||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1130|541922.0|Commercial Photography|541922.0|Commercial Photography||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1131|541930.0|Translation and Interpretation Services|541930.0|Translation and Interpretation Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1132|541940.0|Veterinary Services|541940.0|Veterinary Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1133|541990.0|All Other Professional, Scientific, and Technical Services|541990.0|All Other Professional, Scientific, and Technical Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1134|551111.0|Offices of Bank Holding Companies|551111.0|Offices of Bank Holding Companies||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1135|551112.0|Offices of Other Holding Companies|551112.0|Offices of Other Holding Companies||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1136|551114.0|Corporate, Subsidiary, and Regional Managing Offices|551114.0|Corporate, Subsidiary, and Regional Managing Offices||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1137|561110.0|Office Administrative Services|561110.0|Office Administrative Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1138|561210.0|Facilities Support Services|561210.0|Facilities Support Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1139|561310.0|Employment Placement Agencies|561310.0|Employment Placement Agencies||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1140|561320.0|Temporary Help Services|561320.0|Temporary Help Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1141|561330.0|Professional Employer Organizations|561330.0|Employee Leasing Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1142|561410.0|Document Preparation Services|561410.0|Document Preparation Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1143|561421.0|Telephone Answering Services|561421.0|Telephone Answering Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1144|561422.0|Telemarketing Bureaus|561422.0|Telemarketing Bureaus||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1145|561431.0|Private Mail Centers|561431.0|Private Mail Centers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1146|561439.0|Other Business Service Centers (including Copy Shops)|561439.0|Other Business Service Centers (including Copy Shops)||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1147|561440.0|Collection Agencies|561440.0|Collection Agencies||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1148|561450.0|Credit Bureaus|561450.0|Credit Bureaus||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1149|561491.0|Repossession Services|561491.0|Repossession Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1150|561492.0|Court Reporting and Stenotype Services|561492.0|Court Reporting and Stenotype Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1151|561499.0|All Other Business Support Services|561499.0|All Other Business Support Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1152|561510.0|Travel Agencies|561510.0|Travel Agencies||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1153|561520.0|Tour Operators|561520.0|Tour Operators||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1154|561591.0|Convention and Visitors Bureaus|561591.0|Convention and Visitors Bureaus||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1155|561599.0|All Other Travel Arrangement and Reservation Services|561599.0|All Other Travel Arrangement and Reservation Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1156|561611.0|Investigation Services|561611.0|Investigation Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1157|561612.0|Security Guards and Patrol Services|561612.0|Security Guards and Patrol Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1158|561613.0|Armored Car Services|561613.0|Armored Car Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1159|561621.0|Security Systems Services (except Locksmiths)|561621.0|Security Systems Services (except Locksmiths)||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1160|561622.0|Locksmiths|561622.0|Locksmiths||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1161|561710.0|Exterminating and Pest Control Services|561710.0|Exterminating and Pest Control Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1162|561720.0|Janitorial Services|561720.0|Janitorial Services|Except Cleaning Building During and Immediately After Construction|2002_NAICS_to_1997_NAICS.xls|1997|2002
+1163|561720.0|Janitorial Services|561720.0|Janitorial Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1164|561730.0|Landscaping Services|561730.0|Landscaping Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1165|561740.0|Carpet and Upholstery Cleaning Services|561740.0|Carpet and Upholstery Cleaning Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1166|561790.0|Other Services to Buildings and Dwellings|561790.0|Other Services to Buildings and Dwellings||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1167|561910.0|Packaging and Labeling Services|561910.0|Packaging and Labeling Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1168|561920.0|Convention and Trade Show Organizers|561920.0|Convention and Trade Show Organizers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1169|561990.0|All Other Support Services|561990.0|All Other Support Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1170|562111.0|Solid Waste Collection|562111.0|Solid Waste Collection||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1171|562112.0|Hazardous Waste Collection|562112.0|Hazardous Waste Collection||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1172|562119.0|Other Waste Collection|562119.0|Other Waste Collection||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1173|562211.0|Hazardous Waste Treatment and Disposal|562211.0|Hazardous Waste Treatment and Disposal||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1174|562212.0|Solid Waste Landfill|562212.0|Solid Waste Landfill||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1175|562213.0|Solid Waste Combustors and Incinerators|562213.0|Solid Waste Combustors and Incinerators||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1176|562219.0|Other Nonhazardous Waste Treatment and Disposal|562219.0|Other Nonhazardous Waste Treatment and Disposal||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1177|562910.0|Remediation Services|562910.0|Remediation Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1178|562920.0|Materials Recovery Facilities|562920.0|Materials Recovery Facilities||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1179|562991.0|Septic Tank and Related Services|562991.0|Septic Tank and Related Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1180|562998.0|All Other Miscellaneous Waste Management Services|562998.0|All Other Miscellaneous Waste Management Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1181|611110.0|Elementary and Secondary Schools|611110.0|Elementary and Secondary Schools||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1182|611210.0|Junior Colleges|611210.0|Junior Colleges||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1183|611310.0|Colleges, Universities, and Professional Schools|611310.0|Colleges, Universities, and Professional Schools||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1184|611410.0|Business and Secretarial Schools|611410.0|Business and Secretarial Schools||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1185|611420.0|Computer Training|611420.0|Computer Training||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1186|611430.0|Professional and Management Development Training|611430.0|Professional and Management Development Training||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1187|611511.0|Cosmetology and Barber Schools|611511.0|Cosmetology and Barber Schools||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1188|611512.0|Flight Training|611512.0|Flight Training||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1189|611513.0|Apprenticeship Training|611513.0|Apprenticeship Training||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1190|611519.0|Other Technical and Trade Schools|611519.0|Other Technical and Trade Schools||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1191|611610.0|Fine Arts Schools|611610.0|Fine Arts Schools||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1192|611620.0|Sports and Recreation Instruction|611620.0|Sports and Recreation Instruction||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1193|611630.0|Language Schools|611630.0|Language Schools||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1194|611691.0|Exam Preparation and Tutoring|611691.0|Exam Preparation and Tutoring||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1195|611692.0|Automobile Driving Schools|611692.0|Automobile Driving Schools||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1196|611699.0|All Other Miscellaneous Schools and Instruction|611699.0|All Other Miscellaneous Schools and Instruction||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1197|611710.0|Educational Support Services|611710.0|Educational Support Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1198|621111.0|Offices of Physicians (except Mental Health Specialists)|621111.0|Offices of Physicians (except Mental Health Specialists)||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1199|621112.0|Offices of Physicians, Mental Health Specialists|621112.0|Offices of Physicians, Mental Health Specialists||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1200|621210.0|Offices of Dentists|621210.0|Offices of Dentists||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1201|621310.0|Offices of Chiropractors|621310.0|Offices of Chiropractors||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1202|621320.0|Offices of Optometrists|621320.0|Offices of Optometrists||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1203|621330.0|Offices of Mental Health Practitioners (except Physicians)|621330.0|Offices of Mental Health Practitioners (except Physicians)||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1204|621340.0|Offices of Physical, Occupational and Speech Therapists, and Audiologists|621340.0|Offices of Physical, Occupational and Speech Therapists, and Audiologists||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1205|621391.0|Offices of Podiatrists|621391.0|Offices of Podiatrists||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1206|621399.0|Offices of All Other Miscellaneous Health Practitioners|621399.0|Offices of All Other Miscellaneous Health Practitioners||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1207|621410.0|Family Planning Centers|621410.0|Family Planning Centers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1208|621420.0|Outpatient Mental Health and Substance Abuse Centers|621420.0|Outpatient Mental Health and Substance Abuse Centers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1209|621491.0|HMO Medical Centers|621491.0|HMO Medical Centers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1210|621492.0|Kidney Dialysis Centers|621492.0|Kidney Dialysis Centers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1211|621493.0|Freestanding Ambulatory Surgical and Emergency Centers|621493.0|Freestanding Ambulatory Surgical and Emergency Centers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1212|621498.0|All Other Outpatient Care Centers|621498.0|All Other Outpatient Care Centers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1213|621511.0|Medical Laboratories|621511.0|Medical Laboratories||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1214|621512.0|Diagnostic Imaging Centers|621512.0|Diagnostic Imaging Centers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1215|621610.0|Home Health Care Services|621610.0|Home Health Care Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1216|621910.0|Ambulance Services|621910.0|Ambulance Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1217|621991.0|Blood and Organ Banks|621991.0|Blood and Organ Banks||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1218|621999.0|All Other Miscellaneous Ambulatory Health Care Services|621999.0|All Other Miscellaneous Ambulatory Health Care Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1219|622110.0|General Medical and Surgical Hospitals|622110.0|General Medical and Surgical Hospitals||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1220|622210.0|Psychiatric and Substance Abuse Hospitals|622210.0|Psychiatric and Substance Abuse Hospitals||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1221|622310.0|Specialty (except Psychiatric and Substance Abuse) Hospitals|622310.0|Specialty (except Psychiatric and Substance Abuse) Hospitals||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1222|623110.0|Nursing Care Facilities|623110.0|Nursing Care Facilities||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1223|623210.0|Residential Mental Retardation Facilities|623210.0|Residential Mental Retardation Facilities||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1224|623220.0|Residential Mental Health and Substance Abuse Facilities|623220.0|Residential Mental Health and Substance Abuse Facilities||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1225|623311.0|Continuing Care Retirement Communities|623311.0|Continuing Care Retirement Communities||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1226|623312.0|Homes for the Elderly|623312.0|Homes for the Elderly||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1227|623990.0|Other Residential Care Facilities|623990.0|Other Residential Care Facilities||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1228|624110.0|Child and Youth Services|624110.0|Child and Youth Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1229|624120.0|Services for the Elderly and Persons with Disabilities|624120.0|Services for the Elderly and Persons with Disabilities||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1230|624190.0|Other Individual and Family Services|624190.0|Other Individual and Family Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1231|624210.0|Community Food Services|624210.0|Community Food Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1232|624221.0|Temporary Shelters|624221.0|Temporary Shelters||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1233|624229.0|Other Community Housing Services|624229.0|Other Community Housing Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1234|624230.0|Emergency and Other Relief Services|624230.0|Emergency and Other Relief Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1235|624310.0|Vocational Rehabilitation Services|624310.0|Vocational Rehabilitation Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1236|624410.0|Child Day Care Services|624410.0|Child Day Care Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1237|711110.0|Theater Companies and Dinner Theaters|711110.0|Theater Companies and Dinner Theaters||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1238|711120.0|Dance Companies|711120.0|Dance Companies||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1239|711130.0|Musical Groups and Artists|711130.0|Musical Groups and Artists||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1240|711190.0|Other Performing Arts Companies|711190.0|Other Performing Arts Companies||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1241|711211.0|Sports Teams and Clubs|711211.0|Sports Teams and Clubs||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1242|711212.0|Racetracks|711212.0|Racetracks||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1243|711219.0|Other Spectator Sports|711219.0|Other Spectator Sports||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1244|711310.0|Promoters of Performing Arts, Sports, and Similar Events with Facilities|711310.0|Promoters of Performing Arts, Sports, and Similar Events with Facilities||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1245|711320.0|Promoters of Performing Arts, Sports, and Similar Events without Facilities|711320.0|Promoters of Performing Arts, Sports, and Similar Events without Facilities||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1246|711410.0|Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures|711410.0|Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1247|711510.0|Independent Artists, Writers, and Performers|711510.0|Independent Artists, Writers, and Performers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1248|712110.0|Museums|712110.0|Museums||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1249|712120.0|Historical Sites|712120.0|Historical Sites||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1250|712130.0|Zoos and Botanical Gardens|712130.0|Zoos and Botanical Gardens||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1251|712190.0|Nature Parks and Other Similar Institutions|712190.0|Nature Parks and Other Similar Institutions||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1252|713110.0|Amusement and Theme Parks|713110.0|Amusement and Theme Parks||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1253|713120.0|Amusement Arcades|713120.0|Amusement Arcades||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1254|713210.0|Casinos (except Casino Hotels)|713210.0|Casinos (except Casino Hotels)||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1255|713290.0|Other Gambling Industries|713290.0|Other Gambling Industries||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1256|713910.0|Golf Courses and Country Clubs|713910.0|Golf Courses and Country Clubs||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1257|713920.0|Skiing Facilities|713920.0|Skiing Facilities||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1258|713930.0|Marinas|713930.0|Marinas||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1259|713940.0|Fitness and Recreational Sports Centers|713940.0|Fitness and Recreational Sports Centers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1260|713950.0|Bowling Centers|713950.0|Bowling Centers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1261|713990.0|All Other Amusement and Recreation Industries|713990.0|All Other Amusement and Recreation Industries||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1262|721110.0|Hotels (except Casino Hotels) and Motels|721110.0|Hotels (except Casino Hotels) and Motels||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1263|721120.0|Casino Hotels|721120.0|Casino Hotels||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1264|721191.0|Bed-and-Breakfast Inns|721191.0|Bed-and-Breakfast Inns||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1265|721199.0|All Other Traveler Accommodation|721199.0|All Other Traveler Accommodation||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1266|721211.0|RV (Recreational Vehicle) Parks and Campgrounds|721211.0|RV (Recreational Vehicle) Parks and Campgrounds||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1267|721214.0|Recreational and Vacation Camps (except Campgrounds)|721214.0|Recreational and Vacation Camps (except Campgrounds)||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1268|721310.0|Rooming and Boarding Houses|721310.0|Rooming and Boarding Houses||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1269|722110.0|Full-Service Restaurants|722110.0|Full-Service Restaurants||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1270|722211.0|Limited-Service Restaurants|722211.0|Limited-Service Restaurants||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1271|722212.0|Cafeterias|722212.0|Cafeterias||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1272|722213.0|Snack and Nonalcoholic Beverage Bars|722213.0|Snack and Nonalcoholic Beverage Bars||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1273|722310.0|Food Service Contractors|722310.0|Food Service Contractors||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1274|722320.0|Caterers|722320.0|Caterers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1275|722330.0|Mobile Food Services|722330.0|Mobile Food Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1276|722410.0|Drinking Places (Alcoholic Beverages)|722410.0|Drinking Places (Alcoholic Beverages)||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1277|811111.0|General Automotive Repair|811111.0|General Automotive Repair||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1278|811112.0|Automotive Exhaust System Repair|811112.0|Automotive Exhaust System Repair||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1279|811113.0|Automotive Transmission Repair|811113.0|Automotive Transmission Repair||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1280|811118.0|Other Automotive Mechanical and Electrical Repair and Maintenance|811118.0|Other Automotive Mechanical and Electrical Repair and Maintenance||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1281|811121.0|Automotive Body, Paint, and Interior Repair and Maintenance|811121.0|Automotive Body, Paint, and Interior Repair and Maintenance||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1282|811122.0|Automotive Glass Replacement Shops|811122.0|Automotive Glass Replacement Shops||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1283|811191.0|Automotive Oil Change and Lubrication Shops|811191.0|Automotive Oil Change and Lubrication Shops||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1284|811192.0|Car Washes|811192.0|Car Washes||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1285|811198.0|All Other Automotive Repair and Maintenance|811198.0|All Other Automotive Repair and Maintenance||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1286|811211.0|Consumer Electronics Repair and Maintenance|811211.0|Consumer Electronics Repair and Maintenance||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1287|811212.0|Computer and Office Machine Repair and Maintenance|811212.0|Computer and Office Machine Repair and Maintenance||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1288|811213.0|Communication Equipment Repair and Maintenance|811213.0|Communication Equipment Repair and Maintenance||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1289|811219.0|Other Electronic and Precision Equipment Repair and Maintenance|811219.0|Other Electronic and Precision Equipment Repair and Maintenance||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1290|811310.0|Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance|811310.0|Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1291|811411.0|Home and Garden Equipment Repair and Maintenance|811411.0|Home and Garden Equipment Repair and Maintenance||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1292|811412.0|Appliance Repair and Maintenance|811412.0|Appliance Repair and Maintenance||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1293|811420.0|Reupholstery and Furniture Repair|811420.0|Reupholstery and Furniture Repair||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1294|811430.0|Footwear and Leather Goods Repair|811430.0|Footwear and Leather Goods Repair||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1295|811490.0|Other Personal and Household Goods Repair and Maintenance|811490.0|Other Personal and Household Goods Repair and Maintenance||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1296|812111.0|Barber Shops|812111.0|Barber Shops||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1297|812112.0|Beauty Salons|812112.0|Beauty Salons||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1298|812113.0|Nail Salons|812113.0|Nail Salons||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1299|812191.0|Diet and Weight Reducing Centers|812191.0|Diet and Weight Reducing Centers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1300|812199.0|Other Personal Care Services|812199.0|Other Personal Care Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1301|812210.0|Funeral Homes and Funeral Services|812210.0|Funeral Homes and Funeral Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1302|812220.0|Cemeteries and Crematories|812220.0|Cemeteries and Crematories||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1303|812310.0|Coin-Operated Laundries and Drycleaners|812310.0|Coin-Operated Laundries and Drycleaners||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1304|812320.0|Drycleaning and Laundry Services (except Coin-Operated)|812320.0|Drycleaning and Laundry Services (except Coin-Operated)||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1305|812331.0|Linen Supply|812331.0|Linen Supply||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1306|812332.0|Industrial Launderers|812332.0|Industrial Launderers||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1307|812910.0|Pet Care (except Veterinary) Services|812910.0|Pet Care (except Veterinary) Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1308|812921.0|Photofinishing Laboratories (except One-Hour)|812921.0|Photofinishing Laboratories (except One-Hour)||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1309|812922.0|One-Hour Photofinishing|812922.0|One-Hour Photofinishing||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1310|812930.0|Parking Lots and Garages|812930.0|Parking Lots and Garages||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1311|812990.0|All Other Personal Services|812990.0|All Other Personal Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1312|813110.0|Religious Organizations|813110.0|Religious Organizations||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1313|813211.0|Grantmaking Foundations|813211.0|Grantmaking Foundations||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1314|813212.0|Voluntary Health Organizations|813212.0|Voluntary Health Organizations||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1315|813219.0|Other Grantmaking and Giving Services|813219.0|Other Grantmaking and Giving Services||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1316|813311.0|Human Rights Organizations|813311.0|Human Rights Organizations||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1317|813312.0|Environment, Conservation and Wildlife Organizations|813312.0|Environment, Conservation and Wildlife Organizations||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1318|813319.0|Other Social Advocacy Organizations|813319.0|Other Social Advocacy Organizations||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1319|813410.0|Civic and Social Organizations|813410.0|Civic and Social Organizations||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1320|813910.0|Business Associations|813910.0|Business Associations||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1321|813920.0|Professional Organizations|813920.0|Professional Organizations||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1322|813930.0|Labor Unions and Similar Labor Organizations|813930.0|Labor Unions and Similar Labor Organizations||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1323|813940.0|Political Organizations|813940.0|Political Organizations||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1324|813990.0|Other Similar Organizations (except Business, Professional, Labor, and Political Organizations)|813990.0|Other Similar Organizations (except Business, Professional, Labor, and Political Organizations)||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1325|814110.0|Private Households|814110.0|Private Households||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1326|921110.0|Executive Offices|921110.0|Executive Offices||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1327|921120.0|Legislative Bodies|921120.0|Legislative Bodies||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1328|921130.0|Public Finance Activities|921130.0|Public Finance Activities||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1329|921140.0|Executive and Legislative Offices, Combined|921140.0|Executive and Legislative Offices, Combined||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1330|921150.0|American Indian and Alaska Native Tribal Governments|921150.0|American Indian and Alaska Native Tribal Governments||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1331|921190.0|Other General Government Support|921190.0|Other General Government Support||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1332|922110.0|Courts|922110.0|Courts||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1333|922120.0|Police Protection|922120.0|Police Protection||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1334|922130.0|Legal Counsel and Prosecution|922130.0|Legal Counsel and Prosecution||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1335|922140.0|Correctional Institutions|922140.0|Correctional Institutions||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1336|922150.0|Parole Offices and Probation Offices|922150.0|Parole Offices and Probation Offices||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1337|922160.0|Fire Protection|922160.0|Fire Protection||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1338|922190.0|Other Justice, Public Order, and Safety Activities|922190.0|Other Justice, Public Order, and Safety Activities||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1339|923110.0|Administration of Education Programs|923110.0|Administration of Education Programs||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1340|923120.0|Administration of Public Health Programs|923120.0|Administration of Public Health Programs||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1341|923130.0|Administration of Human Resource Programs (except Education, Public Health, and Veterans' Affairs Programs)|923130.0|Administration of Human Resource Programs (except Education, Public Health, and Veterans' Affairs Programs)||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1342|923140.0|Administration of Veterans' Affairs|923140.0|Administration of Veterans' Affairs||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1343|924110.0|Administration of Air and Water Resource and Solid Waste Management Programs|924110.0|Administration of Air and Water Resource and Solid Waste Management Programs||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1344|924120.0|Administration of Conservation Programs|924120.0|Administration of Conservation Programs||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1345|925110.0|Administration of Housing Programs|925110.0|Administration of Housing Programs||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1346|925120.0|Administration of Urban Planning and Community and Rural Development|925120.0|Administration of Urban Planning and Community and Rural Development||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1347|926110.0|Administration of General Economic Programs|926110.0|Administration of General Economic Programs||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1348|926120.0|Regulation and Administration of Transportation Programs|926120.0|Regulation and Administration of Transportation Programs||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1349|926130.0|Regulation and Administration of Communications, Electric, Gas, and Other Utilities|926130.0|Regulation and Administration of Communications, Electric, Gas, and Other Utilities||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1350|926140.0|Regulation of Agricultural Marketing and Commodities|926140.0|Regulation of Agricultural Marketing and Commodities||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1351|926150.0|Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors|926150.0|Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1352|927110.0|Space Research and Technology|927110.0|Space Research and Technology||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1353|928110.0|National Security|928110.0|National Security||2002_NAICS_to_1997_NAICS.xls|1997|2002
+1354|928120.0|International Affairs|928120.0|International Affairs||2002_NAICS_to_1997_NAICS.xls|1997|2002
